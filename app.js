@@ -86,6 +86,18 @@
     const formatter = new Intl.NumberFormat('ko', { style: 'percent', maximumFractionDigits: 1 }); const sr = el('span', 'srOnly', formatter.format(value)), visible = el('span', '', formatter.format(value)); visible.setAttribute('aria-hidden', 'true'); target.append(sr, visible);
     if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) { revealTimer = setInterval(() => { visible.textContent = formatter.format(Math.floor(Math.random() * 1001) / 1000); }, 75); revealFinish = setTimeout(() => { clearInterval(revealTimer); visible.textContent = formatter.format(value); }, 1650); }
   }
+  const digitSegments = { '0':'abcdef', '1':'bc', '2':'abged', '3':'abgcd', '4':'fgbc', '5':'afgcd', '6':'afgecd', '7':'abc', '8':'abcdefg', '9':'abfgcd' };
+  const segmentPoints = { a:'9,4 46,4 40,10 15,10', b:'48,6 48,44 43,49 40,44 40,13', c:'48,53 48,91 44,95 40,88 40,56 43,51', d:'9,96 46,96 40,90 15,90', e:'7,53 12,51 15,56 15,88 10,94 7,91', f:'7,9 11,5 15,13 15,44 12,49 7,44', g:'10,50 15,46 40,46 45,50 40,54 15,54' };
+  function drawTimerDigits(target, value) {
+    if (target.dataset.value === value) return;
+    const ns = 'http://www.w3.org/2000/svg';
+    const digits = [...value].map(digit => {
+      const svg = document.createElementNS(ns, 'svg'); svg.setAttribute('viewBox', '0 0 55 100'); svg.setAttribute('class', 'timer-digit'); svg.setAttribute('focusable', 'false');
+      for (const [segment, points] of Object.entries(segmentPoints)) { const polygon = document.createElementNS(ns, 'polygon'); polygon.setAttribute('points', points); polygon.setAttribute('class', digitSegments[digit]?.includes(segment) ? 'segment-on' : 'segment-off'); svg.append(polygon); }
+      return svg;
+    });
+    target.replaceChildren(...digits); target.dataset.value = value;
+  }
   function result(item) {
     clearTimers(); app.replaceChildren(header()); const main = el('main', 'resultPage'); main.append(mapLayer('atmosphere')); const content = el('div', 'content');
     const back = link(`← ${txt('detail.back')}`, './', 'backLink'); content.append(back); const panel = el('section', 'resultPanel');
@@ -97,7 +109,7 @@
       if (!Array.isArray(value)) { timer.replaceChildren(el('p', 'empty', value === 'elapsed' ? txt('scenario.elapsed') : txt('common.unavailable'))); return; }
       let clock = timer.firstElementChild; if (!clock || !clock.classList.contains('clock')) { clock = el('div', 'clock'); clock.setAttribute('role', 'timer'); clock.setAttribute('aria-live', 'off'); timer.replaceChildren(clock); }
       const labels = ['detail.years', 'detail.days', 'detail.hours', 'detail.minutes', 'detail.seconds'];
-      value.forEach((part, i) => { let unit = clock.children[i]; if (!unit) { unit = el('div', 'clockUnit'); const accessible = el('span', 'srOnly'); const visible = el('span', 'number'); visible.setAttribute('aria-hidden', 'true'); const label = el('span', 'unitLabel', txt(labels[i])); label.setAttribute('aria-hidden', 'true'); unit.append(accessible, visible, label); clock.append(unit); } const display = String(part).padStart(i === 1 ? 3 : 2, '0'); unit.children[0].textContent = `${display} ${txt(labels[i])}`; unit.children[1].textContent = display; });
+      value.forEach((part, i) => { let unit = clock.children[i]; if (!unit) { unit = el('div', 'clockUnit'); const accessible = el('span', 'srOnly'); const visible = el('span', 'number'); visible.setAttribute('aria-hidden', 'true'); const label = el('span', 'unitLabel', txt(labels[i])); label.setAttribute('aria-hidden', 'true'); unit.append(accessible, visible, label); clock.append(unit); } const display = String(part).padStart(i === 1 ? 3 : 2, '0'); unit.children[0].textContent = `${display} ${txt(labels[i])}`; drawTimerDigits(unit.children[1], display); });
     }
     updateClock(); if (item.targetAt) clockTimer = setInterval(updateClock, 1000);
     const notes = el('div', 'notes'); notes.append(el('p', 'badge', `${txt('scenario.badge')} · ${txt('scenario.modelTime')}`));
