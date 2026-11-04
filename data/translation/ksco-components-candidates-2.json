@@ -1,0 +1,708 @@
+{
+  "version": 1,
+  "description": "Reviewed separate engineer and researcher labels of KSCO leaf groups. Labels share their official parent code and scenario, and do not represent individual official codes.",
+  "items": [
+    {
+      "id": "ksco_22110_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22110",
+      "names": {
+        "ko": "컴퓨터 하드웨어 기술자"
+      }
+    },
+    {
+      "id": "ksco_22110_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22110",
+      "names": {
+        "ko": "컴퓨터 하드웨어 연구원"
+      }
+    },
+    {
+      "id": "ksco_22121_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22121",
+      "names": {
+        "ko": "통신기기 기술자"
+      }
+    },
+    {
+      "id": "ksco_22121_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22121",
+      "names": {
+        "ko": "통신기기 연구원"
+      }
+    },
+    {
+      "id": "ksco_22122_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22122",
+      "names": {
+        "ko": "통신장비 기술자"
+      }
+    },
+    {
+      "id": "ksco_22122_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22122",
+      "names": {
+        "ko": "통신장비 연구원"
+      }
+    },
+    {
+      "id": "ksco_22123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22123",
+      "names": {
+        "ko": "통신기술 기술자"
+      }
+    },
+    {
+      "id": "ksco_22123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22123",
+      "names": {
+        "ko": "통신기술 연구원"
+      }
+    },
+    {
+      "id": "ksco_22124_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22124",
+      "names": {
+        "ko": "통신망 운영 기술자"
+      }
+    },
+    {
+      "id": "ksco_22124_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22124",
+      "names": {
+        "ko": "통신망 운영 연구원"
+      }
+    },
+    {
+      "id": "ksco_23211_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23211",
+      "names": {
+        "ko": "석유화학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23211_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23211",
+      "names": {
+        "ko": "석유화학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23214_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23214",
+      "names": {
+        "ko": "도료제품 기술자"
+      }
+    },
+    {
+      "id": "ksco_23214_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23214",
+      "names": {
+        "ko": "도료제품 연구원"
+      }
+    },
+    {
+      "id": "ksco_23311_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23311",
+      "names": {
+        "ko": "금속공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23311_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23311",
+      "names": {
+        "ko": "금속공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23313_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23313",
+      "names": {
+        "ko": "시멘트공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23313_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23313",
+      "names": {
+        "ko": "시멘트공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23411_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23411",
+      "names": {
+        "ko": "전기제품 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23411_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23411",
+      "names": {
+        "ko": "전기제품 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23412_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23412",
+      "names": {
+        "ko": "발전설비 기술자"
+      }
+    },
+    {
+      "id": "ksco_23412_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23412",
+      "names": {
+        "ko": "발전설비 연구원"
+      }
+    },
+    {
+      "id": "ksco_23413_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23413",
+      "names": {
+        "ko": "송배전설비 기술자"
+      }
+    },
+    {
+      "id": "ksco_23413_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23413",
+      "names": {
+        "ko": "송배전설비 연구원"
+      }
+    },
+    {
+      "id": "ksco_23414_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23414",
+      "names": {
+        "ko": "전기계측 제어 기술자"
+      }
+    },
+    {
+      "id": "ksco_23414_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23414",
+      "names": {
+        "ko": "전기계측 제어 연구원"
+      }
+    },
+    {
+      "id": "ksco_23416_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23416",
+      "names": {
+        "ko": "전기 안전 기술자"
+      }
+    },
+    {
+      "id": "ksco_23416_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23416",
+      "names": {
+        "ko": "전기 안전 연구원"
+      }
+    },
+    {
+      "id": "ksco_23421_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23421",
+      "names": {
+        "ko": "메모리반도체 기술자"
+      }
+    },
+    {
+      "id": "ksco_23421_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23421",
+      "names": {
+        "ko": "메모리반도체 연구원"
+      }
+    },
+    {
+      "id": "ksco_23422_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23422",
+      "names": {
+        "ko": "시스템반도체 기술자"
+      }
+    },
+    {
+      "id": "ksco_23422_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23422",
+      "names": {
+        "ko": "시스템반도체 연구원"
+      }
+    },
+    {
+      "id": "ksco_23424_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23424",
+      "names": {
+        "ko": "반도체소재 기술자"
+      }
+    },
+    {
+      "id": "ksco_23424_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23424",
+      "names": {
+        "ko": "반도체소재 연구원"
+      }
+    },
+    {
+      "id": "ksco_23431_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23431",
+      "names": {
+        "ko": "전자제품 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23431_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23431",
+      "names": {
+        "ko": "전자제품 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23432_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23432",
+      "names": {
+        "ko": "전자계측 제어 기술자"
+      }
+    },
+    {
+      "id": "ksco_23432_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23432",
+      "names": {
+        "ko": "전자계측 제어 연구원"
+      }
+    },
+    {
+      "id": "ksco_23433_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23433",
+      "names": {
+        "ko": "전자 의료기기 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23433_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23433",
+      "names": {
+        "ko": "전자 의료기기 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23511_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23511",
+      "names": {
+        "ko": "금형공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23511_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23511",
+      "names": {
+        "ko": "금형공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23512_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23512",
+      "names": {
+        "ko": "플랜트공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23512_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23512",
+      "names": {
+        "ko": "플랜트공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23514_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23514",
+      "names": {
+        "ko": "건설기계공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23514_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23514",
+      "names": {
+        "ko": "건설기계공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23515_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23515",
+      "names": {
+        "ko": "산업기계공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23515_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23515",
+      "names": {
+        "ko": "산업기계공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23516_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23516",
+      "names": {
+        "ko": "자동차공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23516_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23516",
+      "names": {
+        "ko": "자동차공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23517_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23517",
+      "names": {
+        "ko": "조선공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23517_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23517",
+      "names": {
+        "ko": "조선공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23520_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23520",
+      "names": {
+        "ko": "로봇공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23520_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23520",
+      "names": {
+        "ko": "로봇공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23610_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23610",
+      "names": {
+        "ko": "방재 기술자"
+      }
+    },
+    {
+      "id": "ksco_23610_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23610",
+      "names": {
+        "ko": "방재 연구원"
+      }
+    },
+    {
+      "id": "ksco_23621_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23621",
+      "names": {
+        "ko": "소방설계 기술자"
+      }
+    },
+    {
+      "id": "ksco_23621_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23621",
+      "names": {
+        "ko": "소방설계 연구원"
+      }
+    },
+    {
+      "id": "ksco_23711_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23711",
+      "names": {
+        "ko": "대기 환경 기술자"
+      }
+    },
+    {
+      "id": "ksco_23711_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23711",
+      "names": {
+        "ko": "대기 환경 연구원"
+      }
+    },
+    {
+      "id": "ksco_23712_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23712",
+      "names": {
+        "ko": "수질 환경 기술자"
+      }
+    },
+    {
+      "id": "ksco_23712_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23712",
+      "names": {
+        "ko": "수질 환경 연구원"
+      }
+    },
+    {
+      "id": "ksco_23713_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23713",
+      "names": {
+        "ko": "토양 환경 기술자"
+      }
+    },
+    {
+      "id": "ksco_23713_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23713",
+      "names": {
+        "ko": "토양 환경 연구원"
+      }
+    },
+    {
+      "id": "ksco_23714_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23714",
+      "names": {
+        "ko": "소음 진동 기술자"
+      }
+    },
+    {
+      "id": "ksco_23714_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23714",
+      "names": {
+        "ko": "소음 진동 연구원"
+      }
+    },
+    {
+      "id": "ksco_23715_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23715",
+      "names": {
+        "ko": "폐기물 처리 기술자"
+      }
+    },
+    {
+      "id": "ksco_23715_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23715",
+      "names": {
+        "ko": "폐기물 처리 연구원"
+      }
+    },
+    {
+      "id": "ksco_23720_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23720",
+      "names": {
+        "ko": "신재생에너지 기술자"
+      }
+    },
+    {
+      "id": "ksco_23720_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23720",
+      "names": {
+        "ko": "신재생에너지 연구원"
+      }
+    },
+    {
+      "id": "ksco_23910_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23910",
+      "names": {
+        "ko": "식품공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23910_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23910",
+      "names": {
+        "ko": "식품공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23921_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23921",
+      "names": {
+        "ko": "섬유 소재 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23921_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23921",
+      "names": {
+        "ko": "섬유 소재 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23922_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23922",
+      "names": {
+        "ko": "섬유 공정 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23922_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23922",
+      "names": {
+        "ko": "섬유 공정 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23923_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23923",
+      "names": {
+        "ko": "염색 개발 공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23923_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23923",
+      "names": {
+        "ko": "염색 개발 공학 연구원"
+      }
+    }
+  ]
+}

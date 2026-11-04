@@ -1,0 +1,96 @@
+{
+  "id": "illustrative-constant-hazard",
+  "version": "6.0.0",
+  "baselineAt": "2026-10-31T10:09:49.000Z",
+  "annualBaseHazard": 0.012,
+  "annualExposureHazard": 0.06,
+  "defaultExposure": 0.5,
+  "eventEmploymentReduction": 0.1,
+  "crossingProbability": 0.5,
+  "daysPerYear": 365.2425,
+  "horizons": [
+    2030,
+    2035,
+    2040
+  ],
+  "sourceMetricKind": "ai_exposure_human_rating_beta",
+  "sourceUrl": "https://openai.com/index/gpts-are-gpts/",
+  "syntheticMaxVariation": 0.03,
+  "nameProxyMethod": "korean-char-tfidf-cosine-top5-shrunk-v1",
+  "clockAdjustment": "collision-resolution",
+  "accelerationExposureThreshold": 0.5,
+  "accelerationFactor": 3,
+  "medicalAccelerationFactor": 2,
+  "medicalClassifications": [
+    {
+      "system": "KSCO",
+      "version": "8",
+      "codes": [
+        "241",
+        "2411",
+        "24111",
+        "24112",
+        "24113",
+        "24114",
+        "24115",
+        "24116",
+        "24117",
+        "24118",
+        "24119",
+        "2412",
+        "24120",
+        "2413",
+        "24131",
+        "24132",
+        "2414",
+        "24141",
+        "24142"
+      ]
+    },
+    {
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "codes": [
+        "29-1021.00",
+        "29-1022.00",
+        "29-1023.00",
+        "29-1024.00",
+        "29-1029.00",
+        "29-1211.00",
+        "29-1212.00",
+        "29-1213.00",
+        "29-1214.00",
+        "29-1215.00",
+        "29-1216.00",
+        "29-1217.00",
+        "29-1218.00",
+        "29-1221.00",
+        "29-1222.00",
+        "29-1223.00",
+        "29-1224.00",
+        "29-1229.00",
+        "29-1229.01",
+        "29-1229.02",
+        "29-1229.03",
+        "29-1229.04",
+        "29-1229.05",
+        "29-1229.06",
+        "29-1241.00",
+        "29-1242.00",
+        "29-1243.00",
+        "29-1249.00"
+      ]
+    }
+  ],
+  "governmentAdjustmentFactor": 0.75,
+  "governmentClassifications": [
+    {
+      "system": "KSCO",
+      "version": "8",
+      "codes": [
+        "11121",
+        "11122"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+[
+  {
+    "code": "13-2053.00",
+    "english": "Insurance Underwriters",
+    "korean": "보험업자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "13-2082.00",
+    "english": "Tax Preparers",
+    "korean": "세무사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "17-1022.00",
+    "english": "Surveyors",
+    "korean": "서베이어",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "17-3011.00",
+    "english": "Architectural and Civil Drafters",
+    "korean": "건축 및 토목 설계사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "17-3013.00",
+    "english": "Mechanical Drafters",
+    "korean": "기계 설계사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "19-1029.00",
+    "english": "Biological Scientists, All Other",
+    "korean": "생물학 과학자들, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "19-2042.00",
+    "english": "Geoscientists, Except Hydrologists and Geographers",
+    "korean": "지질학자, 수문학자 및 지리학자 제외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "25-2051.00",
+    "english": "Special Education Teachers, Preschool",
+    "korean": "특수 교육 교사, 유치원",
+    "reason": "서로 다른 공식 직업이 동일한 한국어 명칭으로 번역되어 구분할 수 없음"
+  },
+  {
+    "code": "25-2055.00",
+    "english": "Special Education Teachers, Kindergarten",
+    "korean": "특수 교육 교사, 유치원",
+    "reason": "서로 다른 공식 직업이 동일한 한국어 명칭으로 번역되어 구분할 수 없음"
+  },
+  {
+    "code": "25-3041.00",
+    "english": "Tutors",
+    "korean": "교사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "25-4013.00",
+    "english": "Museum Technicians and Conservators",
+    "korean": "박물관 기술자 및 관리인",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "27-2021.00",
+    "english": "Athletes and Sports Competitors",
+    "korean": "선수 및 스포츠 경쟁자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "27-2031.00",
+    "english": "Dancers",
+    "korean": "춤꾼",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "27-4031.00",
+    "english": "Camera Operators, Television, Video, and Film",
+    "korean": "카메라 운영자, 텔레비전, 비디오 및 필름",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1122.01",
+    "english": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+    "korean": "저시력 치료사, 오리엔테이션 및 이동성 전문가 및 비전 재활 치료사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1127.00",
+    "english": "Speech-Language Pathologists",
+    "korean": "언어 병리학자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1141.00",
+    "english": "Registered Nurses",
+    "korean": "등록된 간호사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1141.03",
+    "english": "Critical Care Nurses",
+    "korean": "중환자 간호원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1141.04",
+    "english": "Clinical Nurse Specialists",
+    "korean": "임상 간호사 전문가",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1161.00",
+    "english": "Nurse Midwives",
+    "korean": "간호사 조산사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1214.00",
+    "english": "Emergency Medicine Physicians",
+    "korean": "응급 의학 의사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1222.00",
+    "english": "Physicians, Pathologists",
+    "korean": "의사, 병리학자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1229.01",
+    "english": "Allergists and Immunologists",
+    "korean": "알레르기 및 면역학자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-2011.00",
+    "english": "Medical and Clinical Laboratory Technologists",
+    "korean": "의료 및 임상 실험실 기술자",
+    "reason": "서로 다른 공식 직업이 동일한 한국어 명칭으로 번역되어 구분할 수 없음"
+  },
+  {
+    "code": "29-2011.04",
+    "english": "Histotechnologists",
+    "korean": "히스토기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-2012.00",
+    "english": "Medical and Clinical Laboratory Technicians",
+    "korean": "의료 및 임상 실험실 기술자",
+    "reason": "서로 다른 공식 직업이 동일한 한국어 명칭으로 번역되어 구분할 수 없음"
+  },
+  {
+    "code": "29-2057.00",
+    "english": "Ophthalmic Medical Technicians",
+    "korean": "안과 의료 기술자",
+    "reason": "서로 다른 공식 직업이 동일한 한국어 명칭으로 번역되어 구분할 수 없음"
+  },
+  {
+    "code": "29-2099.00",
+    "english": "Health Technologists and Technicians, All Other",
+    "korean": "건강 기술자 및 기술자, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-2099.05",
+    "english": "Ophthalmic Medical Technologists",
+    "korean": "안과 의료 기술자",
+    "reason": "서로 다른 공식 직업이 동일한 한국어 명칭으로 번역되어 구분할 수 없음"
+  },
+  {
+    "code": "31-1122.00",
+    "english": "Personal Care Aides",
+    "korean": "개인 간호 보조원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "31-1131.00",
+    "english": "Nursing Assistants",
+    "korean": "간호 보조",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "33-3051.00",
+    "english": "Police and Sheriff's Patrol Officers",
+    "korean": "경찰과 보안관의 순찰대",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "33-9032.00",
+    "english": "Security Guards",
+    "korean": "보안경비",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "35-1012.00",
+    "english": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "korean": "식품 준비 및 서빙 노동자의 첫 번째 라인 감독자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "39-7011.00",
+    "english": "Tour Guides and Escorts",
+    "korean": "투어 가이드 및 에스코트",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "41-3041.00",
+    "english": "Travel Agents",
+    "korean": "여행사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "41-9091.00",
+    "english": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+    "korean": "방문 판매 노동자, 뉴스 및 거리 공급 업체, 및 관련 노동자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-3021.00",
+    "english": "Billing and Posting Clerks",
+    "korean": "청구 및 게시 서기",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-4031.00",
+    "english": "Court, Municipal, and License Clerks",
+    "korean": "법원, 시립 및 면허 서기",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-4061.00",
+    "english": "Eligibility Interviewers, Government Programs",
+    "korean": "면접관, 정부 프로그램",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-4141.00",
+    "english": "New Accounts Clerks",
+    "korean": "새 계정 서기",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-4161.00",
+    "english": "Human Resources Assistants, Except Payroll and Timekeeping",
+    "korean": "인적 자원 도우미, 급여 및 시간 유지 제외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-5041.00",
+    "english": "Meter Readers, Utilities",
+    "korean": "미터 리더, 유틸리티",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-9021.00",
+    "english": "Data Entry Keyers",
+    "korean": "데이터 입력 키어",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-9031.00",
+    "english": "Desktop Publishers",
+    "korean": "데스크톱 게시자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-9041.00",
+    "english": "Insurance Claims and Policy Processing Clerks",
+    "korean": "보험 청구 및 정책 처리 사무원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-9081.00",
+    "english": "Proofreaders and Copy Markers",
+    "korean": "교정 및 복사 마커",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2152.04",
+    "english": "Solar Thermal Installers and Technicians",
+    "korean": "태양 열 설치자 및 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2161.00",
+    "english": "Plasterers and Stucco Masons",
+    "korean": "석고 및 치장 벽토 메이슨",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-4021.00",
+    "english": "Elevator and Escalator Installers and Repairers",
+    "korean": "엘리베이터 및 에스컬레이터 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-5032.00",
+    "english": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+    "korean": "폭발물 노동자, 병기 처리 전문가 및 블래스터",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2011.00",
+    "english": "Computer, Automated Teller, and Office Machine Repairers",
+    "korean": "컴퓨터, 자동 입출금기 및 사무기기 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2021.00",
+    "english": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+    "korean": "라디오, 셀룰러 및 타워 장비 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2022.00",
+    "english": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+    "korean": "통신 장비 설치업체 및 수리업체(라인 설치업체 제외)",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2093.00",
+    "english": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "korean": "전기 및 전자 설치업체 및 수리업체, 운송 장비",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2094.00",
+    "english": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+    "korean": "전기 및 전자 수리업체, 상업 및 산업 장비",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2095.00",
+    "english": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+    "korean": "전기 및 전자 수리업체, 발전소, 변전소 및 릴레이",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2096.00",
+    "english": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+    "korean": "전자 장비 설치업체 및 수리업체, 자동차",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-2097.00",
+    "english": "Audiovisual Equipment Installers and Repairers",
+    "korean": "시청각 장비 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-3022.00",
+    "english": "Automotive Glass Installers and Repairers",
+    "korean": "자동차 유리 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9012.00",
+    "english": "Control and Valve Installers and Repairers, Except Mechanical Door",
+    "korean": "기계식 도어를 제외한 제어 및 밸브 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9031.00",
+    "english": "Home Appliance Repairers",
+    "korean": "가전제품 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9051.00",
+    "english": "Electrical Power-Line Installers and Repairers",
+    "korean": "전력선 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9052.00",
+    "english": "Telecommunications Line Installers and Repairers",
+    "korean": "통신 라인 설치업체 및 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9097.00",
+    "english": "Signal and Track Switch Repairers",
+    "korean": "신호 및 트랙 스위치 수리업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2031.00",
+    "english": "Engine and Other Machine Assemblers",
+    "korean": "엔진과 다른 기계 어셈블러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2099.00",
+    "english": "Assemblers and Fabricators, All Other",
+    "korean": "조립업체 및 제작업체, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-3022.00",
+    "english": "Meat, Poultry, and Fish Cutters and Trimmers",
+    "korean": "육류, 가금류 및 생선 커터 및 트리머",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-8012.00",
+    "english": "Power Distributors and Dispatchers",
+    "korean": "전력 공급 업체 및 디스패처",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-8031.00",
+    "english": "Water and Wastewater Treatment Plant and System Operators",
+    "korean": "물 및 폐수 처리장 및 시스템 운영업체",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-9081.00",
+    "english": "Dental Laboratory Technicians",
+    "korean": "치과 실험실 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-9083.00",
+    "english": "Ophthalmic Laboratory Technicians",
+    "korean": "안과 실험실 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-9195.03",
+    "english": "Stone Cutters and Carvers, Manufacturing",
+    "korean": "스톤 커터 및 카버, 제조",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-9197.00",
+    "english": "Tire Builders",
+    "korean": "타이어 빌더",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "53-2011.00",
+    "english": "Airline Pilots, Copilots, and Flight Engineers",
+    "korean": "항공사 조종사, 부기장 및 비행 엔지니어",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "53-7061.00",
+    "english": "Cleaners of Vehicles and Equipment",
+    "korean": "차량 및 장비의 클리너",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "53-7062.04",
+    "english": "Recycling and Reclamation Workers",
+    "korean": "재활용 및 매립 노동자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "53-7063.00",
+    "english": "Machine Feeders and Offbearers",
+    "korean": "기계 피더 및 오프베어러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "53-7121.00",
+    "english": "Tank Car, Truck, and Ship Loaders",
+    "korean": "탱크 자동차, 트럭 및 선박 로더",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "55-1012.00",
+    "english": "Aircraft Launch and Recovery Officers",
+    "korean": "항공기 발사 및 복구 책임자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "55-3012.00",
+    "english": "Aircraft Launch and Recovery Specialists",
+    "korean": "항공기 발사 및 복구 전문가",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "55-3015.00",
+    "english": "Command and Control Center Specialists",
+    "korean": "명령 및 제어 센터 전문가",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "13-1021.00",
+    "english": "Buyers and Purchasing Agents, Farm Products",
+    "korean": "구매자 및 구매 에이전트, 농산물",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "13-1032.00",
+    "english": "Insurance Appraisers, Auto Damage",
+    "korean": "보험 감정사, 자동차 손상",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "13-1041.01",
+    "english": "Environmental Compliance Inspectors",
+    "korean": "환경 준수 검사관",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "13-1041.03",
+    "english": "Equal Opportunity Representatives and Officers",
+    "korean": "기회 균등 대표 및 임원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "13-2071.00",
+    "english": "Credit Counselors",
+    "korean": "크레딧 카운슬러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "15-2099.00",
+    "english": "Mathematical Science Occupations, All Other",
+    "korean": "수학 과학 직업, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "17-2112.01",
+    "english": "Human Factors Engineers and Ergonomists",
+    "korean": "인간공학 엔지니어 및 인간공학자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "19-2041.02",
+    "english": "Environmental Restoration Planners",
+    "korean": "환경 복원 플래너",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "19-2099.01",
+    "english": "Remote Sensing Scientists and Technologists",
+    "korean": "원격 감지 과학자 및 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "19-4099.03",
+    "english": "Remote Sensing Technicians",
+    "korean": "원격 감지 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "25-1081.00",
+    "english": "Education Teachers, Postsecondary",
+    "korean": "교육 교사, 고등교육",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "25-1082.00",
+    "english": "Library Science Teachers, Postsecondary",
+    "korean": "도서관 과학 교사, 고등교육",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "25-9044.00",
+    "english": "Teaching Assistants, Postsecondary",
+    "korean": "교육 보조, 고등교육",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "27-3099.00",
+    "english": "Media and Communication Workers, All Other",
+    "korean": "미디어 및 통신 노동자, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-1299.01",
+    "english": "Naturopathic Physicians",
+    "korean": "자연 요법 의사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-2042.00",
+    "english": "Emergency Medical Technicians",
+    "korean": "응급 의료 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "29-2081.00",
+    "english": "Opticians, Dispensing",
+    "korean": "조제 안경사",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "31-9099.01",
+    "english": "Speech-Language Pathology Assistants",
+    "korean": "언어 병리학 보조원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "33-3041.00",
+    "english": "Parking Enforcement Workers",
+    "korean": "주차 집행 노동자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "35-9099.00",
+    "english": "Food Preparation and Serving Related Workers, All Other",
+    "korean": "음식 준비 및 봉사 관련 노동자, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "37-2019.00",
+    "english": "Building Cleaning Workers, All Other",
+    "korean": "청소 직원, 그 외",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "39-9032.00",
+    "english": "Recreation Workers",
+    "korean": "레크리에이션 워커",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-2011.00",
+    "english": "Switchboard Operators, Including Answering Service",
+    "korean": "응답 서비스를 포함한 스위치 보드 운영자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-4131.00",
+    "english": "Loan Interviewers and Clerks",
+    "korean": "대출 면접관 및 서기",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-5021.00",
+    "english": "Couriers and Messengers",
+    "korean": "택배 및 메신저",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "43-9022.00",
+    "english": "Word Processors and Typists",
+    "korean": "워드 프로세서와 타이피스트",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "45-2092.00",
+    "english": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+    "korean": "농장 노동자와 노동자, 작물, 종묘장 및 온실",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "45-4022.00",
+    "english": "Logging Equipment Operators",
+    "korean": "로깅 장비 운영자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "45-4023.00",
+    "english": "Log Graders and Scalers",
+    "korean": "로그 그레이더 및 스케일러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-1011.00",
+    "english": "First-Line Supervisors of Construction Trades and Extraction Workers",
+    "korean": "건설 무역 및 추출 노동자의 첫 번째 라인 감독자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2021.00",
+    "english": "Brickmasons and Blockmasons",
+    "korean": "브릭메이슨과 블록메이슨",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2022.00",
+    "english": "Stonemasons",
+    "korean": "스톤메이슨",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2031.00",
+    "english": "Carpenters",
+    "korean": "카펜터스",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2043.00",
+    "english": "Floor Sanders and Finishers",
+    "korean": "바닥 샌더와 피니셔",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2044.00",
+    "english": "Tile and Stone Setters",
+    "korean": "타일 및 스톤 세터",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2073.00",
+    "english": "Operating Engineers and Other Construction Equipment Operators",
+    "korean": "운영 엔지니어 및 기타 건설 장비 운영자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2142.00",
+    "english": "Paperhangers",
+    "korean": "페이퍼행거",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-2221.00",
+    "english": "Structural Iron and Steel Workers",
+    "korean": "구조 철 및 철강 노동자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-4061.00",
+    "english": "Rail-Track Laying and Maintenance Equipment Operators",
+    "korean": "철도 트랙 배치 및 유지 보수 장비 운영자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-5043.00",
+    "english": "Roof Bolters, Mining",
+    "korean": "광산 지붕 볼트 설치원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "47-5044.00",
+    "english": "Loading and Moving Machine Operators, Underground Mining",
+    "korean": "로딩 및 이동 기계 운영자, 지하 광업",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9011.00",
+    "english": "Mechanical Door Repairers",
+    "korean": "기계 문 수리공",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "49-9063.00",
+    "english": "Musical Instrument Repairers and Tuners",
+    "korean": "악기 수리공 과 튜너",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2011.00",
+    "english": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+    "korean": "항공기 구조, 표면, 리깅 및 시스템 어셈블러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2021.00",
+    "english": "Coil Winders, Tapers, and Finishers",
+    "korean": "코일 와인더, 테이퍼 및 피니셔",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2022.00",
+    "english": "Electrical and Electronic Equipment Assemblers",
+    "korean": "전기 전자 장비 어셈블러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2023.00",
+    "english": "Electromechanical Equipment Assemblers",
+    "korean": "전기 기계 장비 어셈블러",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-2061.00",
+    "english": "Timing Device Assemblers and Adjusters",
+    "korean": "타이밍 장치 어셈블러 및 조절자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-4062.00",
+    "english": "Patternmakers, Metal and Plastic",
+    "korean": "패턴 메이커, 금속 및 플라스틱",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-4071.00",
+    "english": "Foundry Mold and Coremakers",
+    "korean": "주조 금형 및 코어메이커",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-4072.00",
+    "english": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "몰딩, 코어메이킹, 주조기 설정·조작 및 관리원, 금속 및 플라스틱",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-4111.00",
+    "english": "Tool and Die Makers",
+    "korean": "공구 및 다이 메이커",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-5113.00",
+    "english": "Print Binding and Finishing Workers",
+    "korean": "인쇄 바인딩 및 마무리 작업자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-6031.00",
+    "english": "Sewing Machine Operators",
+    "korean": "재봉틀 운영자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-7032.00",
+    "english": "Patternmakers, Wood",
+    "korean": "패턴 메이커, 나무",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-8013.03",
+    "english": "Biomass Plant Technicians",
+    "korean": "바이오 매스 공장 기술자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "51-9071.00",
+    "english": "Jewelers and Precious Stone and Metal Workers",
+    "korean": "보석상과 귀중한 돌과 금속 노동자",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "55-1014.00",
+    "english": "Artillery and Missile Officers",
+    "korean": "대포 및 미사일 장교",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  },
+  {
+    "code": "55-3014.00",
+    "english": "Artillery and Missile Crew Members",
+    "korean": "대포 및 미사일 승무원",
+    "reason": "원문과 비교했을 때 직무 의미가 부정확하거나 한국어 직업 명칭으로 부자연스러움"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "code": "11-3031.01",
+    "english": "Treasurers and Controllers",
+    "korean": "재무 및 관리자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "11-9171.00",
+    "english": "Funeral Home Managers",
+    "korean": "장례식 홈 관리자",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "13-1041.04",
+    "english": "Government Property Inspectors and Investigators",
+    "korean": "정부 재산 조사관 및 조사관",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "13-2052.00",
+    "english": "Personal Financial Advisors",
+    "korean": "개인 금융 자문",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "13-2081.00",
+    "english": "Tax Examiners and Collectors, and Revenue Agents",
+    "korean": "세금 심사관 및 수집가, 및 수익 에이전트",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "15-1299.02",
+    "english": "Geographic Information Systems Technologists and Technicians",
+    "korean": "지리 정보 시스템 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-1021.00",
+    "english": "Cartographers and Photogrammetrists",
+    "korean": "지도제작자 와 사진술가 들",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "17-2031.00",
+    "english": "Bioengineers and Biomedical Engineers",
+    "korean": "생물공학자 및 생물공학자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-2199.03",
+    "english": "Energy Engineers, Except Wind and Solar",
+    "korean": "에너지 엔지니어, 바람과 태양을 제외하고",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "17-3022.00",
+    "english": "Civil Engineering Technologists and Technicians",
+    "korean": "토목 공학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-3023.00",
+    "english": "Electrical and Electronic Engineering Technologists and Technicians",
+    "korean": "전기 및 전자 공학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-3025.00",
+    "english": "Environmental Engineering Technologists and Technicians",
+    "korean": "환경 공학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-3026.00",
+    "english": "Industrial Engineering Technologists and Technicians",
+    "korean": "산업 공학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-3026.01",
+    "english": "Nanotechnology Engineering Technologists and Technicians",
+    "korean": "나노 공학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-3027.00",
+    "english": "Mechanical Engineering Technologists and Technicians",
+    "korean": "기계 공학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "17-3028.00",
+    "english": "Calibration Technologists and Technicians",
+    "korean": "교정 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "19-1042.00",
+    "english": "Medical Scientists, Except Epidemiologists",
+    "korean": "역학자 를 제외 한 의학 과학자 들",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "19-2041.00",
+    "english": "Environmental Scientists and Specialists, Including Health",
+    "korean": "건강을 포함한 환경 과학자 및 전문가",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "19-2099.00",
+    "english": "Physical Scientists, All Other",
+    "korean": "과학자, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "19-4042.00",
+    "english": "Environmental Science and Protection Technicians, Including Health",
+    "korean": "건강을 포함한 환경 과학 및 보호 기술자",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "21-1011.00",
+    "english": "Substance Abuse and Behavioral Disorder Counselors",
+    "korean": "약물 남용 및 행동 장애 상담",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "21-1012.00",
+    "english": "Educational, Guidance, and Career Counselors and Advisors",
+    "korean": "교육,지도 및 경력 상담 및 고문",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "21-2021.00",
+    "english": "Directors, Religious Activities and Education",
+    "korean": "이사, 종교 활동 및 교육",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "23-1012.00",
+    "english": "Judicial Law Clerks",
+    "korean": "사법법 서기",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "23-1021.00",
+    "english": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+    "korean": "행정법 판사, 재판관 및 청문회 임원",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "23-1022.00",
+    "english": "Arbitrators, Mediators, and Conciliators",
+    "korean": "중재자, 중재자 및 화해자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "23-1023.00",
+    "english": "Judges, Magistrate Judges, and Magistrates",
+    "korean": "판사, 치안 판사 및 치안 판사",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "23-2011.00",
+    "english": "Paralegals and Legal Assistants",
+    "korean": "법률 보조원 및 법률 보조원",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "25-2022.00",
+    "english": "Middle School Teachers, Except Special and Career/Technical Education",
+    "korean": "중학교 교사, 특수 및 경력 / 기술 교육 제외",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "25-2031.00",
+    "english": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "korean": "중등 학교 교사, 특수 및 경력 / 기술 교육 제외",
+    "reason": "문장의 어순이나 조사·표기가 어색해 직업명으로 쓰기 어려움"
+  },
+  {
+    "code": "25-3011.00",
+    "english": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+    "korean": "성인 기본 교육, 성인 중등 교육, 제 2 언어 강사로서의 영어",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "25-3099.00",
+    "english": "Teachers and Instructors, All Other",
+    "korean": "교사와 교사, 그 외",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "25-9099.00",
+    "english": "Educational Instruction and Library Workers, All Other",
+    "korean": "교육 교육 및 도서관 노동자, 그 외",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "27-1026.00",
+    "english": "Merchandise Displayers and Window Trimmers",
+    "korean": "상품 디스플레이 및 창 트리머",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "27-1027.00",
+    "english": "Set and Exhibit Designers",
+    "korean": "설정 및 전시 디자이너",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "27-2023.00",
+    "english": "Umpires, Referees, and Other Sports Officials",
+    "korean": "심판, 심판, 그리고 다른 스포츠 관계자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "27-3023.00",
+    "english": "News Analysts, Reporters, and Journalists",
+    "korean": "뉴스 분석가, 기자 및 기자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-1024.00",
+    "english": "Prosthodontists",
+    "korean": "프로스토돈테스",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1031.00",
+    "english": "Dietitians and Nutritionists",
+    "korean": "영양사 및 영양사",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-1041.00",
+    "english": "Optometrists",
+    "korean": "옵토메트리스",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1122.00",
+    "english": "Occupational Therapists",
+    "korean": "직업 치료사",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1124.00",
+    "english": "Radiation Therapists",
+    "korean": "방사선 치료",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1141.01",
+    "english": "Acute Care Nurses",
+    "korean": "급성 간호 간호사",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-1141.02",
+    "english": "Advanced Practice Psychiatric Nurses",
+    "korean": "고급 연습 정신과 간호사",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1171.00",
+    "english": "Nurse Practitioners",
+    "korean": "간호사 실무자",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1215.00",
+    "english": "Family Medicine Physicians",
+    "korean": "가족 의학 의사",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1217.00",
+    "english": "Neurologists",
+    "korean": "신경과",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1218.00",
+    "english": "Obstetricians and Gynecologists",
+    "korean": "산부인과 의사 및 산부인과 의사",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-1224.00",
+    "english": "Radiologists",
+    "korean": "방사선과",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1229.03",
+    "english": "Urologists",
+    "korean": "비뇨기과",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1241.00",
+    "english": "Ophthalmologists, Except Pediatric",
+    "korean": "소아과를 제외한 안과 전문의",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1242.00",
+    "english": "Orthopedic Surgeons, Except Pediatric",
+    "korean": "소아과를 제외한 정형 외과 의사",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-1291.00",
+    "english": "Acupuncturists",
+    "korean": "한의사",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-2011.02",
+    "english": "Cytotechnologists",
+    "korean": "사이토테크놀로지",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-2031.00",
+    "english": "Cardiovascular Technologists and Technicians",
+    "korean": "심혈관 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-2034.00",
+    "english": "Radiologic Technologists and Technicians",
+    "korean": "방사선 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-2056.00",
+    "english": "Veterinary Technologists and Technicians",
+    "korean": "수의학 기술자 및 기술자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "29-2061.00",
+    "english": "Licensed Practical and Licensed Vocational Nurses",
+    "korean": "면허 및 직업 간호사",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "29-9021.00",
+    "english": "Health Information Technologists and Medical Registrars",
+    "korean": "건강 정보 기술자 및 의료 등록",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "31-2011.00",
+    "english": "Occupational Therapy Assistants",
+    "korean": "직업 치료 보조원",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "31-2012.00",
+    "english": "Occupational Therapy Aides",
+    "korean": "직업 치료 보조",
+    "reason": "의료 직종·자격 또는 대상을 다르게 번역하거나 직업 표시가 빠짐"
+  },
+  {
+    "code": "33-1011.00",
+    "english": "First-Line Supervisors of Correctional Officers",
+    "korean": "교정 책임자의 일선 감독자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "33-1099.00",
+    "english": "First-Line Supervisors of Protective Service Workers, All Other",
+    "korean": "보호 서비스 노동자의 첫 번째 라인 관리자, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "33-3021.00",
+    "english": "Detectives and Criminal Investigators",
+    "korean": "형사 및 형사 수사",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "33-3051.04",
+    "english": "Customs and Border Protection Officers",
+    "korean": "세관 및 국경 보호국",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "33-9021.00",
+    "english": "Private Detectives and Investigators",
+    "korean": "사설 탐정 및 탐정",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "33-9099.00",
+    "english": "Protective Service Workers, All Other",
+    "korean": "노동자 보호, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "35-2014.00",
+    "english": "Cooks, Restaurant",
+    "korean": "쿡스, 레스토랑",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "35-2015.00",
+    "english": "Cooks, Short Order",
+    "korean": "쿡스, 짧은 주문",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "35-9031.00",
+    "english": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+    "korean": "호스트 및 호스트, 레스토랑, 라운지 및 커피숍",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "37-1012.00",
+    "english": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+    "korean": "조경, 잔디 서비스 및 접지 노동자의 첫 번째 라인 감독자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "37-2011.00",
+    "english": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "korean": "청소부와 청소부, 가정부와 청소부 제외",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "37-3011.00",
+    "english": "Landscaping and Groundskeeping Workers",
+    "korean": "조경 및 조경 노동자",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "37-3012.00",
+    "english": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+    "korean": "농약 다루개, 스프레이어 및 도포구, 식물",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "37-3019.00",
+    "english": "Grounds Maintenance Workers, All Other",
+    "korean": "유지 보수 노동자, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "39-4011.00",
+    "english": "Embalmers",
+    "korean": "엠발머",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "39-4012.00",
+    "english": "Crematory Operators",
+    "korean": "크레마 운영자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "39-9041.00",
+    "english": "Residential Advisors",
+    "korean": "주택 자문",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "41-2021.00",
+    "english": "Counter and Rental Clerks",
+    "korean": "카운터 및 렌탈",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "41-9011.00",
+    "english": "Demonstrators and Product Promoters",
+    "korean": "시연자 및 제품 발기인",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "43-3011.00",
+    "english": "Bill and Account Collectors",
+    "korean": "빌 및 계정 컬렉터",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "43-4111.00",
+    "english": "Interviewers, Except Eligibility and Loan",
+    "korean": "면접관, 선택 및 대출 제외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "43-5011.00",
+    "english": "Cargo and Freight Agents",
+    "korean": "화물 및화물 에이전트",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "43-5032.00",
+    "english": "Dispatchers, Except Police, Fire, and Ambulance",
+    "korean": "경찰, 화재 및 구급차를 제외한 발송자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "43-5053.00",
+    "english": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+    "korean": "우편 서비스 메일 분류기, 프로세서 및 처리 기계 운영자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "43-5111.00",
+    "english": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+    "korean": "계량기, 측정기, 검수원 및 샘플러, 기록 보관",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "43-6011.00",
+    "english": "Executive Secretaries and Executive Administrative Assistants",
+    "korean": "행정 비서 및 행정 행정 보조",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "45-2093.00",
+    "english": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+    "korean": "농장 노동자, 농장, 목장 및 양식업 동물",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "45-4029.00",
+    "english": "Logging Workers, All Other",
+    "korean": "노동자를 벌채, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-2041.00",
+    "english": "Carpet Installers",
+    "korean": "카펫 설치",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "47-2072.00",
+    "english": "Pile Driver Operators",
+    "korean": "파일 드라이버 오퍼레이터",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-2081.00",
+    "english": "Drywall and Ceiling Tile Installers",
+    "korean": "건식 벽체 및 천장 타일 설치",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "47-2082.00",
+    "english": "Tapers",
+    "korean": "테이퍼",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-2131.00",
+    "english": "Insulation Workers, Floor, Ceiling, and Wall",
+    "korean": "절연제 노동자, 지면, 천장 및 벽",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-2132.00",
+    "english": "Insulation Workers, Mechanical",
+    "korean": "기계 절연제 노동자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-2231.00",
+    "english": "Solar Photovoltaic Installers",
+    "korean": "태양 광 발전 설치",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "47-3014.00",
+    "english": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+    "korean": "도우미-페인터, 페이퍼 행거, 석고, 그리고 치장 벽토 메이슨",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-3019.00",
+    "english": "Helpers, Construction Trades, All Other",
+    "korean": "도우미, 건설 무역, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-5013.00",
+    "english": "Service Unit Operators, Oil and Gas",
+    "korean": "서비스 단위 운영자, 석유 및 가스",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-5023.00",
+    "english": "Earth Drillers, Except Oil and Gas",
+    "korean": "석유와 가스를 제외한 지구드릴러",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "47-5099.00",
+    "english": "Extraction Workers, All Other",
+    "korean": "추출 노동자, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "49-1011.00",
+    "english": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "korean": "기계, 설치자 및 수리업체의 일선 감독관",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "49-2098.00",
+    "english": "Security and Fire Alarm Systems Installers",
+    "korean": "보안 및 화재 경보 시스템 설치",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "49-3041.00",
+    "english": "Farm Equipment Mechanics and Service Technicians",
+    "korean": "농장 장비 기계 및 서비스 기술자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "49-3043.00",
+    "english": "Rail Car Repairers",
+    "korean": "철도 차량 수리",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "49-3053.00",
+    "english": "Outdoor Power Equipment and Other Small Engine Mechanics",
+    "korean": "옥외 힘 장비와 다른 작은 엔진 기계공",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "49-3093.00",
+    "english": "Tire Repairers and Changers",
+    "korean": "타이어 수리 및 교환",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "49-9021.00",
+    "english": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+    "korean": "난방, 에어컨 및 냉동 기계 및 설치업체",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "49-9061.00",
+    "english": "Camera and Photographic Equipment Repairers",
+    "korean": "카메라 및 사진 장비 수리",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "49-9064.00",
+    "english": "Watch and Clock Repairers",
+    "korean": "시계 및 시계 수리공",
+    "reason": "서로 다른 역할이 같은 한국어로 반복되어 역할 구분이 사라짐"
+  },
+  {
+    "code": "49-9092.00",
+    "english": "Commercial Divers",
+    "korean": "상업용 다이버",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "49-9095.00",
+    "english": "Manufactured Building and Mobile Home Installers",
+    "korean": "제조 건물 및 모바일 홈 설치",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "51-2041.00",
+    "english": "Structural Metal Fabricators and Fitters",
+    "korean": "구조용 금속 제조기 및 피터",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-3021.00",
+    "english": "Butchers and Meat Cutters",
+    "korean": "정육점과 고기 절단기",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-4121.00",
+    "english": "Welders, Cutters, Solderers, and Brazers",
+    "korean": "용접기, 커터, 솔더 및 브레이저",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-4194.00",
+    "english": "Tool Grinders, Filers, and Sharpeners",
+    "korean": "공구 연삭기, 파일러 및 깎이",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-6021.00",
+    "english": "Pressers, Textile, Garment, and Related Materials",
+    "korean": "프레스, 섬유, 의류 및 관련 재료",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-6062.00",
+    "english": "Textile Cutting Machine Setters, Operators, and Tenders",
+    "korean": "섬유 절단기 세터, 운영자 및 텐더",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-6063.00",
+    "english": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+    "korean": "섬유 편직 및 제직 기계 세터, 운영자 및 텐더",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-6093.00",
+    "english": "Upholsterers",
+    "korean": "업홀스터",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-7011.00",
+    "english": "Cabinetmakers and Bench Carpenters",
+    "korean": "캐비닛메이커 및 벤치 카펜터스",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-8011.00",
+    "english": "Nuclear Power Reactor Operators",
+    "korean": "원자력 발전소 운영자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-8093.00",
+    "english": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+    "korean": "석유 펌프 시스템 오퍼레이터, 정유 오퍼레이터, 게이지",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-9022.00",
+    "english": "Grinding and Polishing Workers, Hand",
+    "korean": "갈고 및 닦는 노동자, 손",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-9031.00",
+    "english": "Cutters and Trimmers, Hand",
+    "korean": "커터와 트리머, 손",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-9161.00",
+    "english": "Computer Numerically Controlled Tool Operators",
+    "korean": "컴퓨터 숫자로 제어되는 툴 오퍼레이터",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-9162.00",
+    "english": "Computer Numerically Controlled Tool Programmers",
+    "korean": "컴퓨터 숫자로 제어되는 도구 프로그래머",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "51-9195.00",
+    "english": "Molders, Shapers, and Casters, Except Metal and Plastic",
+    "korean": "금속 및 플라스틱을 제외한 성형기, 셰이퍼 및 캐스터",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-1049.00",
+    "english": "First-Line Supervisors of Transportation Workers, All Other",
+    "korean": "운송 노동자의 첫 번째 라인 관리자, 그 외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-3032.00",
+    "english": "Heavy and Tractor-Trailer Truck Drivers",
+    "korean": "무거운 및 트랙터 트레일러 트럭 드라이버",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-3051.00",
+    "english": "Bus Drivers, School",
+    "korean": "버스 운전사, 학교",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-3052.00",
+    "english": "Bus Drivers, Transit and Intercity",
+    "korean": "버스 운전사, 대중 교통 및 도시간",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-4011.00",
+    "english": "Locomotive Engineers",
+    "korean": "기관차 엔지니어",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-6021.00",
+    "english": "Parking Attendants",
+    "korean": "주차장 안내",
+    "reason": "직업 종사자가 아닌 작업·시설 이름으로 표시됨"
+  },
+  {
+    "code": "53-6051.07",
+    "english": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+    "korean": "운송 차량, 장비 및 시스템 검사, 항공 제외",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-7064.00",
+    "english": "Packers and Packagers, Hand",
+    "korean": "포장업자와 포장업자의 손",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-7065.00",
+    "english": "Stockers and Order Fillers",
+    "korean": "스토커 및 주문 필러",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "53-7073.00",
+    "english": "Wellhead Pumpers",
+    "korean": "웰헤드 펌프",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "55-1011.00",
+    "english": "Air Crew Officers",
+    "korean": "항공 승무원",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "55-1013.00",
+    "english": "Armored Assault Vehicle Officers",
+    "korean": "장갑 폭행 차량 장교",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "55-1015.00",
+    "english": "Command and Control Center Officers",
+    "korean": "명령 및 제어 센터 임원",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "55-2012.00",
+    "english": "First-Line Supervisors of Weapons Specialists/Crew Members",
+    "korean": "무기 전문가/크루 멤버의 첫 번째 라인 관리자",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "55-3013.00",
+    "english": "Armored Assault Vehicle Crew Members",
+    "korean": "장갑 폭행 차량 승무원",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  },
+  {
+    "code": "55-3019.00",
+    "english": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",
+    "korean": "군 입대 전술 작전 및 항공 / 무기 전문가 및 승무원, 기타",
+    "reason": "원문에서 명시한 업무·직무·범위가 왜곡되거나 누락됨"
+  }
+]

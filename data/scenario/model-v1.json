@@ -1,0 +1,14 @@
+{
+  "id": "illustrative-constant-hazard",
+  "version": "1.0.0",
+  "baselineAt": "2026-10-31T09:49:13.000Z",
+  "annualBaseHazard": 0.012,
+  "annualExposureHazard": 0.06,
+  "defaultExposure": 0.5,
+  "eventEmploymentReduction": 0.1,
+  "crossingProbability": 0.5,
+  "daysPerYear": 365.2425,
+  "horizons": [2030, 2035, 2040],
+  "sourceMetricKind": "ai_exposure_human_rating_beta",
+  "sourceUrl": "https://openai.com/index/gpts-are-gpts/"
+}

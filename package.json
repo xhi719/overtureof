@@ -1,0 +1,37 @@
+{
+  "name": "frontier-era",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "prisma generate && next build",
+    "start": "next start",
+    "typecheck": "prisma generate && tsc --noEmit",
+    "db:push": "prisma db push",
+    "db:seed": "tsx prisma/seed.ts",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "validate:content": "node scripts/validate-content.mjs",
+    "cleanup": "tsx scripts/cleanup-expired.ts",
+    "db:local:start": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/start-local-db.ps1",
+    "db:local:stop": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/stop-local-db.ps1",
+    "db:import:onet": "tsx scripts/import-onet.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "6.19.3",
+    "next": "15.5.29",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "recharts": "2.15.4"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.1",
+    "@types/react": "19.1.17",
+    "@types/react-dom": "19.1.11",
+    "autoprefixer": "10.4.22",
+    "postcss": "8.5.32",
+    "prisma": "6.19.3",
+    "tailwindcss": "3.4.18",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3"
+  }
+}

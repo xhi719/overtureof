@@ -1,0 +1,17 @@
+{
+  "id": "illustrative-report-reweighting",
+  "version": "9.0.0",
+  "description": "Assumption-based reweighting of existing v8 indicators with an additional robot-task-exposure index; not a calibrated or validated forecast.",
+  "openaiSourceUrl": "https://openai.com/index/gpts-are-gpts/",
+  "directExposureCenter": 0.5,
+  "directExposureWeight": 0.6,
+  "proxyExposureWeight": 0.12,
+  "anthropicExposureCenter": 0.2,
+  "anthropicExposureWeight": 0.3,
+  "blsChangeClampPercent": 20,
+  "blsChangeWeight": 0.12,
+  "robotExposureCenter": 1.5,
+  "robotExposureWeight": 0.12,
+  "minimumTimeFactor": 0.65,
+  "maximumTimeFactor": 1.35
+}

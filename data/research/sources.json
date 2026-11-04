@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+    "authors": "Pawel Gmyrek, Janine Berg, Karol Kamiński, Filip Konopczyński, Agnieszka Ładna, Balint Nafradi, Konrad Rosłaniec, Marek Troszyński",
+    "institution": "International Labour Organization",
+    "publishedAt": "2025-05-20",
+    "country": "Global",
+    "method": "Task-level data, worker survey, expert input and AI-assisted scoring.",
+    "sampleSize": 1640,
+    "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "license": "CC BY 4.0; verify third-party components separately.",
+    "limitations": "Occupational exposure is not a measured probability of job loss."
+  },
+  {
+    "title": "Workers’ exposure to AI: What indicators tell us – and what they don’t",
+    "authors": "Rossana Merola, Ekkehard Ernst, Daniel Samaan, Maria del Rio-Chanona, Ole Teutloff",
+    "institution": "International Labour Organization",
+    "publishedAt": "2026-04-17",
+    "country": null,
+    "method": "Research brief examining AI exposure indicators and their limitations.",
+    "sampleSize": null,
+    "url": "https://www.ilo.org/publications/workers%E2%80%99-exposure-ai-what-indicators-tell-us-%E2%80%93-and-what-they-don%E2%80%99t",
+    "license": null,
+    "limitations": "Exposure indicators are not forecasts of employment outcomes; methods differ and may omit economic and institutional adoption constraints."
+  },
+  {
+    "title": "OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market",
+    "authors": "OECD",
+    "institution": "Organisation for Economic Co-operation and Development",
+    "publishedAt": "2023-07-11",
+    "country": "OECD countries",
+    "method": "Annual assessment of labour market developments and evidence on AI and work.",
+    "sampleSize": null,
+    "url": "https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report.html",
+    "license": "OECD terms and conditions; see original publication.",
+    "limitations": null
+  },
+  {
+    "title": "Generative AI and Jobs: A global analysis of potential effects on job quantity and quality",
+    "authors": "Pawel Gmyrek, Janine Berg, David Bescond",
+    "institution": "International Labour Organization",
+    "publishedAt": "2023-08-21",
+    "country": "Global",
+    "method": "GPT-4 task-level potential exposure scoring and employment analysis.",
+    "sampleSize": null,
+    "url": "https://www.ilo.org/publications/generative-ai-and-jobs-global-analysis-potential-effects-job-quantity-and",
+    "license": "CC BY 4.0; verify third-party components separately.",
+    "limitations": "Potential task exposure is not an observed probability of employment displacement."
+  },
+  {
+    "title": "The impact of GenAI on jobs, productivity and work organization: a review of the empirical evidence",
+    "authors": "Rossana Merola, Ekkehard Ernst, Daniel Samaan, Maria del Rio-Chanona, Ole Teutloff",
+    "institution": "International Labour Organization",
+    "publishedAt": "2026-06-01",
+    "country": null,
+    "method": "Review of empirical experiments, firm data, platform studies and worker surveys.",
+    "sampleSize": null,
+    "url": "https://www.ilo.org/publications/impact-genai-jobs-productivity-and-work-organization-review-empirical",
+    "license": "CC BY 4.0; verify third-party components separately.",
+    "limitations": "Empirical evidence is emerging and varies across contexts and study designs."
+  }
+]

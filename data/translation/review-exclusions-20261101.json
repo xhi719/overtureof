@@ -1,0 +1,122 @@
+[
+  {
+    "code": "13-1041.08",
+    "english": "Customs Brokers",
+    "korean": "세관 브로커",
+    "reason": "Customs Brokers는 관세 업무 대리인인데 번역은 세관 소속 브로커로 오인될 수 있습니다."
+  },
+  {
+    "code": "13-1111.00",
+    "english": "Management Analysts",
+    "korean": "관리 분석가",
+    "reason": "Management Analysts의 경영·조직 분석 업무가 관리 분석가라는 표현에서 불분명합니다."
+  },
+  {
+    "code": "15-1299.04",
+    "english": "Penetration Testers",
+    "korean": "침투 테스터",
+    "reason": "정보보안 분야가 빠진 침투 테스터라는 이름만으로 직업의 의미를 알기 어렵습니다."
+  },
+  {
+    "code": "19-4092.00",
+    "english": "Forensic Science Technicians",
+    "korean": "법의학 과학 기술자",
+    "reason": "Forensic Science Technicians는 과학수사 기술직을 포괄하나 법의학 과학 기술자라는 번역은 의학 분야로 왜곡됩니다."
+  },
+  {
+    "code": "25-1022.00",
+    "english": "Mathematical Science Teachers, Postsecondary",
+    "korean": "수학 과학 교사, 고등교육",
+    "reason": "Mathematical Science Teachers를 수학 과학 교사로 옮겨 전공 분야의 의미가 불명확합니다."
+  },
+  {
+    "code": "25-4022.00",
+    "english": "Librarians and Media Collections Specialists",
+    "korean": "도서관 및 미디어 컬렉션 전문가",
+    "reason": "Librarians and Media Collections Specialists에서 핵심 직업인 사서가 도서관으로 잘못 번역되었습니다."
+  },
+  {
+    "code": "25-4031.00",
+    "english": "Library Technicians",
+    "korean": "도서관 기술자",
+    "reason": "Library Technicians를 도서관 기술자로 옮겨 자료·도서관 업무 직무를 알기 어렵습니다."
+  },
+  {
+    "code": "29-2099.08",
+    "english": "Patient Representatives",
+    "korean": "환자 대표",
+    "reason": "Patient Representatives는 환자의 의료 서비스 이용을 돕는 역할인데 환자 대표는 그 의미가 불명확합니다."
+  },
+  {
+    "code": "29-9091.00",
+    "english": "Athletic Trainers",
+    "korean": "운동 트레이너",
+    "reason": "의료 분야 Athletic Trainers를 일반 운동 트레이너로 표현하여 직무와 자격의 범위가 혼동됩니다."
+  },
+  {
+    "code": "37-1011.00",
+    "english": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "korean": "가정부 및 위생 노동자의 일선 감독자",
+    "reason": "Housekeeping and Janitorial Workers의 청소·객실 관리 범위가 가정부 및 위생 노동자로 왜곡됩니다."
+  },
+  {
+    "code": "43-3041.00",
+    "english": "Gambling Cage Workers",
+    "korean": "도박 케이지 노동자",
+    "reason": "Gambling Cage Workers를 도박 케이지 노동자로 번역해 카지노 환전 창구 업무가 드러나지 않습니다."
+  },
+  {
+    "code": "43-4041.00",
+    "english": "Credit Authorizers, Checkers, and Clerks",
+    "korean": "신용 승인자, 체커 및 서기",
+    "reason": "Credit Authorizers, Checkers, and Clerks의 신용 심사 업무가 체커 및 서기라는 표현에서 불명확합니다."
+  },
+  {
+    "code": "43-4071.00",
+    "english": "File Clerks",
+    "korean": "파일 서기",
+    "reason": "File Clerks를 파일 서기로 직역해 문서 정리 및 기록 관리 직무가 불명확합니다."
+  },
+  {
+    "code": "43-5011.01",
+    "english": "Freight Forwarders",
+    "korean": "화물 운송업자",
+    "reason": "Freight Forwarders는 화물 운송 주선업자인데 운송업자로 번역해 업종이 혼동됩니다."
+  },
+  {
+    "code": "45-2021.00",
+    "english": "Animal Breeders",
+    "korean": "동물 사육사",
+    "reason": "Animal Breeders는 동물 번식 담당인데 일반 동물 사육사로 번역해 직무가 달라집니다."
+  },
+  {
+    "code": "47-4099.03",
+    "english": "Weatherization Installers and Technicians",
+    "korean": "건물 기후 차단 설비 설치원 및 기술자",
+    "reason": "Weatherization Installers의 건물 에너지 효율 개선 업무가 건물 기후 차단 설비라는 표현으로 불명확합니다."
+  },
+  {
+    "code": "47-5041.00",
+    "english": "Continuous Mining Machine Operators",
+    "korean": "연속 광산 기계 운영자",
+    "reason": "Continuous Mining Machine은 연속 채굴기인데 연속 광산 기계라는 표현은 기계의 의미를 알기 어렵습니다."
+  },
+  {
+    "code": "51-4192.00",
+    "english": "Layout Workers, Metal and Plastic",
+    "korean": "레이아웃 작업자, 금속 및 플라스틱",
+    "reason": "금속·플라스틱 가공 배치 및 도면 표시 업무가 레이아웃 작업자라는 이름만으로는 불명확합니다."
+  },
+  {
+    "code": "53-2031.00",
+    "english": "Flight Attendants",
+    "korean": "비행 승무원",
+    "reason": "Flight Attendants는 객실 승무원인데 비행 승무원으로 번역해 조종 등 전체 승무원과 혼동됩니다."
+  },
+  {
+    "code": "55-3011.00",
+    "english": "Air Crew Members",
+    "korean": "항공 승무원",
+    "reason": "군 직업 분류의 Air Crew Members를 항공 승무원으로만 표시해 군 항공승무원이라는 범위가 빠졌습니다."
+  }
+]

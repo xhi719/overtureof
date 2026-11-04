@@ -1,0 +1,6098 @@
+[
+  {
+    "code": "11-1011.00",
+    "english": "Chief Executives",
+    "korean": "최고 경영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-1011.03",
+    "english": "Chief Sustainability Officers",
+    "korean": "최고 지속 가능성 책임자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-1021.00",
+    "english": "General and Operations Managers",
+    "korean": "일반 및 운영 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-1031.00",
+    "english": "Legislators",
+    "korean": "입법자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-2011.00",
+    "english": "Advertising and Promotions Managers",
+    "korean": "광고 및 프로모션 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-2021.00",
+    "english": "Marketing Managers",
+    "korean": "마케팅 매니저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-2022.00",
+    "english": "Sales Managers",
+    "korean": "영업 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-2032.00",
+    "english": "Public Relations Managers",
+    "korean": "홍보 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-2033.00",
+    "english": "Fundraising Managers",
+    "korean": "기금 모금 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3012.00",
+    "english": "Administrative Services Managers",
+    "korean": "관리 서비스 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3013.00",
+    "english": "Facilities Managers",
+    "korean": "시설 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3013.01",
+    "english": "Security Managers",
+    "korean": "보안 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3021.00",
+    "english": "Computer and Information Systems Managers",
+    "korean": "컴퓨터 및 정보 시스템 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3031.00",
+    "english": "Financial Managers",
+    "korean": "재무 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3031.01",
+    "english": "Treasurers and Controllers",
+    "korean": "재무 및 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3031.03",
+    "english": "Investment Fund Managers",
+    "korean": "투자 펀드 매니저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3051.00",
+    "english": "Industrial Production Managers",
+    "korean": "산업 생산 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3051.01",
+    "english": "Quality Control Systems Managers",
+    "korean": "품질 관리 시스템 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3051.02",
+    "english": "Geothermal Production Managers",
+    "korean": "지열 생산 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3051.03",
+    "english": "Biofuels Production Managers",
+    "korean": "바이오 연료 생산 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3051.04",
+    "english": "Biomass Power Plant Managers",
+    "korean": "바이오매스 발전소 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3051.06",
+    "english": "Hydroelectric Production Managers",
+    "korean": "수력 생산 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3061.00",
+    "english": "Purchasing Managers",
+    "korean": "구매 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3071.00",
+    "english": "Transportation, Storage, and Distribution Managers",
+    "korean": "운송, 저장 및 유통 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3071.04",
+    "english": "Supply Chain Managers",
+    "korean": "공급망 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3111.00",
+    "english": "Compensation and Benefits Managers",
+    "korean": "보상 및 혜택 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3121.00",
+    "english": "Human Resources Managers",
+    "korean": "인적 자원 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-3131.00",
+    "english": "Training and Development Managers",
+    "korean": "교육 및 개발 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9013.00",
+    "english": "Farmers, Ranchers, and Other Agricultural Managers",
+    "korean": "농부, 목장주 및 기타 농업 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9021.00",
+    "english": "Construction Managers",
+    "korean": "건설 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9031.00",
+    "english": "Education and Childcare Administrators, Preschool and Daycare",
+    "korean": "교육 및 보육 관리자, 유치원 및 보육",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9032.00",
+    "english": "Education Administrators, Kindergarten through Secondary",
+    "korean": "유치원부터 중등교육까지의 교육 관리자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "11-9033.00",
+    "english": "Education Administrators, Postsecondary",
+    "korean": "고등교육 관리자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "11-9039.00",
+    "english": "Education Administrators, All Other",
+    "korean": "교육 관리자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9041.00",
+    "english": "Architectural and Engineering Managers",
+    "korean": "건축 및 엔지니어링 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9041.01",
+    "english": "Biofuels/Biodiesel Technology and Product Development Managers",
+    "korean": "바이오 연료 / 바이오 디젤 기술 및 제품 개발 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9051.00",
+    "english": "Food Service Managers",
+    "korean": "식품 서비스 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9071.00",
+    "english": "Gambling Managers",
+    "korean": "도박 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9072.00",
+    "english": "Entertainment and Recreation Managers, Except Gambling",
+    "korean": "엔터테인먼트 및 레크리에이션 관리자, 도박 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9081.00",
+    "english": "Lodging Managers",
+    "korean": "숙박 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9111.00",
+    "english": "Medical and Health Services Managers",
+    "korean": "의료 및 건강 서비스 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9121.00",
+    "english": "Natural Sciences Managers",
+    "korean": "자연 과학 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9121.01",
+    "english": "Clinical Research Coordinators",
+    "korean": "임상 연구 코디네이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9121.02",
+    "english": "Water Resource Specialists",
+    "korean": "수자원 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9131.00",
+    "english": "Postmasters and Mail Superintendents",
+    "korean": "우체국장 및 우편 감독관",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "11-9141.00",
+    "english": "Property, Real Estate, and Community Association Managers",
+    "korean": "재산, 부동산 및 지역 사회 협회 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9151.00",
+    "english": "Social and Community Service Managers",
+    "korean": "사회 및 지역 사회 서비스 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9161.00",
+    "english": "Emergency Management Directors",
+    "korean": "비상 관리 책임자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9171.00",
+    "english": "Funeral Home Managers",
+    "korean": "장례식 홈 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9179.00",
+    "english": "Personal Service Managers, All Other",
+    "korean": "개인 서비스 관리자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9179.01",
+    "english": "Fitness and Wellness Coordinators",
+    "korean": "피트니스 및 웰빙 코디네이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9179.02",
+    "english": "Spa Managers",
+    "korean": "스파 매니저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.00",
+    "english": "Managers, All Other",
+    "korean": "관리자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.01",
+    "english": "Regulatory Affairs Managers",
+    "korean": "규제 업무 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.02",
+    "english": "Compliance Managers",
+    "korean": "규정 준수 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.08",
+    "english": "Loss Prevention Managers",
+    "korean": "손실 방지 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.09",
+    "english": "Wind Energy Operations Managers",
+    "korean": "풍력 에너지 운영 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.10",
+    "english": "Wind Energy Development Managers",
+    "korean": "풍력 에너지 개발 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "11-9199.11",
+    "english": "Brownfield Redevelopment Specialists and Site Managers",
+    "korean": "오염 부지 재개발 전문가 및 현장 관리자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "13-1011.00",
+    "english": "Agents and Business Managers of Artists, Performers, and Athletes",
+    "korean": "아티스트, 공연자 및 운동 선수의 에이전트 및 비즈니스 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1021.00",
+    "english": "Buyers and Purchasing Agents, Farm Products",
+    "korean": "구매자 및 구매 에이전트, 농산물",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1022.00",
+    "english": "Wholesale and Retail Buyers, Except Farm Products",
+    "korean": "도매 및 소매 구매자, 농산물 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1023.00",
+    "english": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+    "korean": "도매, 소매 및 농산품을 제외한 구매 에이전트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1031.00",
+    "english": "Claims Adjusters, Examiners, and Investigators",
+    "korean": "조절자, 시험관, 조사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1032.00",
+    "english": "Insurance Appraisers, Auto Damage",
+    "korean": "보험 감정사, 자동차 손상",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.00",
+    "english": "Compliance Officers",
+    "korean": "규정 준수 책임자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.01",
+    "english": "Environmental Compliance Inspectors",
+    "korean": "환경 준수 검사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.03",
+    "english": "Equal Opportunity Representatives and Officers",
+    "korean": "기회 균등 대표 및 임원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.04",
+    "english": "Government Property Inspectors and Investigators",
+    "korean": "정부 재산 조사관 및 조사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.06",
+    "english": "Coroners",
+    "korean": "검시관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.07",
+    "english": "Regulatory Affairs Specialists",
+    "korean": "규제 업무 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1041.08",
+    "english": "Customs Brokers",
+    "korean": "세관 브로커",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1051.00",
+    "english": "Cost Estimators",
+    "korean": "비용 추정기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1071.00",
+    "english": "Human Resources Specialists",
+    "korean": "인적 자원 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1074.00",
+    "english": "Farm Labor Contractors",
+    "korean": "농장 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1075.00",
+    "english": "Labor Relations Specialists",
+    "korean": "노사관계 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1081.00",
+    "english": "Logisticians",
+    "korean": "병참술",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1081.01",
+    "english": "Logistics Engineers",
+    "korean": "물류 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1081.02",
+    "english": "Logistics Analysts",
+    "korean": "물류 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1082.00",
+    "english": "Project Management Specialists",
+    "korean": "프로젝트 관리 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1111.00",
+    "english": "Management Analysts",
+    "korean": "관리 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1121.00",
+    "english": "Meeting, Convention, and Event Planners",
+    "korean": "회의, 컨벤션 및 이벤트 플래너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1131.00",
+    "english": "Fundraisers",
+    "korean": "기금 모금",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1141.00",
+    "english": "Compensation, Benefits, and Job Analysis Specialists",
+    "korean": "보상, 혜택 및 직무 분석 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1151.00",
+    "english": "Training and Development Specialists",
+    "korean": "교육 및 개발 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1161.00",
+    "english": "Market Research Analysts and Marketing Specialists",
+    "korean": "시장 조사 분석가 및 마케팅 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1161.01",
+    "english": "Search Marketing Strategists",
+    "korean": "검색 마케팅 전략가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1199.00",
+    "english": "Business Operations Specialists, All Other",
+    "korean": "비즈니스 전문가, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1199.04",
+    "english": "Business Continuity Planners",
+    "korean": "비즈니스 연속성 플래너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1199.05",
+    "english": "Sustainability Specialists",
+    "korean": "지속 가능성 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1199.06",
+    "english": "Online Merchants",
+    "korean": "온라인 상인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-1199.07",
+    "english": "Security Management Specialists",
+    "korean": "보안 관리 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2011.00",
+    "english": "Accountants and Auditors",
+    "korean": "회계 및 감사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2022.00",
+    "english": "Appraisers of Personal and Business Property",
+    "korean": "개인 및 비즈니스 자산의 감정인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2023.00",
+    "english": "Appraisers and Assessors of Real Estate",
+    "korean": "부동산 감정사 및 평가자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2031.00",
+    "english": "Budget Analysts",
+    "korean": "예산 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2041.00",
+    "english": "Credit Analysts",
+    "korean": "신용 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2051.00",
+    "english": "Financial and Investment Analysts",
+    "korean": "재무 및 투자 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2052.00",
+    "english": "Personal Financial Advisors",
+    "korean": "개인 금융 자문",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2053.00",
+    "english": "Insurance Underwriters",
+    "korean": "보험업자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2054.00",
+    "english": "Financial Risk Specialists",
+    "korean": "금융 위험 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2061.00",
+    "english": "Financial Examiners",
+    "korean": "금융 심사원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2071.00",
+    "english": "Credit Counselors",
+    "korean": "크레딧 카운슬러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2072.00",
+    "english": "Loan Officers",
+    "korean": "대출 담당관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2081.00",
+    "english": "Tax Examiners and Collectors, and Revenue Agents",
+    "korean": "세금 심사관 및 수집가, 및 수익 에이전트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2082.00",
+    "english": "Tax Preparers",
+    "korean": "세무사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2099.00",
+    "english": "Financial Specialists, All Other",
+    "korean": "금융 전문가, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2099.01",
+    "english": "Financial Quantitative Analysts",
+    "korean": "금융 정량 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "13-2099.04",
+    "english": "Fraud Examiners, Investigators and Analysts",
+    "korean": "사기 조사관, 수사관 및 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1211.00",
+    "english": "Computer Systems Analysts",
+    "korean": "컴퓨터 시스템 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1211.01",
+    "english": "Health Informatics Specialists",
+    "korean": "건강 정보학 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1212.00",
+    "english": "Information Security Analysts",
+    "korean": "정보 보안 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1221.00",
+    "english": "Computer and Information Research Scientists",
+    "korean": "컴퓨터 및 정보 연구 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1231.00",
+    "english": "Computer Network Support Specialists",
+    "korean": "컴퓨터 네트워크 지원 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1232.00",
+    "english": "Computer User Support Specialists",
+    "korean": "컴퓨터 사용자 지원 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1241.00",
+    "english": "Computer Network Architects",
+    "korean": "컴퓨터 네트워크 설계자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1241.01",
+    "english": "Telecommunications Engineering Specialists",
+    "korean": "통신 엔지니어링 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1242.00",
+    "english": "Database Administrators",
+    "korean": "데이터베이스 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1243.00",
+    "english": "Database Architects",
+    "korean": "데이터베이스 설계자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1243.01",
+    "english": "Data Warehousing Specialists",
+    "korean": "데이터 웨어하우징 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1244.00",
+    "english": "Network and Computer Systems Administrators",
+    "korean": "네트워크 및 컴퓨터 시스템 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1251.00",
+    "english": "Computer Programmers",
+    "korean": "컴퓨터 프로그래머",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1252.00",
+    "english": "Software Developers",
+    "korean": "소프트웨어 개발자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1253.00",
+    "english": "Software Quality Assurance Analysts and Testers",
+    "korean": "소프트웨어 품질 보증 분석가 및 테스터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1254.00",
+    "english": "Web Developers",
+    "korean": "웹 개발자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1255.00",
+    "english": "Web and Digital Interface Designers",
+    "korean": "웹 및 디지털 인터페이스 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1255.01",
+    "english": "Video Game Designers",
+    "korean": "비디오 게임 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.00",
+    "english": "Computer Occupations, All Other",
+    "korean": "컴퓨터, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.01",
+    "english": "Web Administrators",
+    "korean": "웹 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.02",
+    "english": "Geographic Information Systems Technologists and Technicians",
+    "korean": "지리 정보 시스템 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.03",
+    "english": "Document Management Specialists",
+    "korean": "문서 관리 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.04",
+    "english": "Penetration Testers",
+    "korean": "침투 테스터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.05",
+    "english": "Information Security Engineers",
+    "korean": "정보 보안 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.06",
+    "english": "Digital Forensics Analysts",
+    "korean": "디지털 포렌식 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.07",
+    "english": "Blockchain Engineers",
+    "korean": "블록체인 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.08",
+    "english": "Computer Systems Engineers/Architects",
+    "korean": "컴퓨터 시스템 엔지니어 / 아키텍트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-1299.09",
+    "english": "Information Technology Project Managers",
+    "korean": "정보 기술 프로젝트 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2011.00",
+    "english": "Actuaries",
+    "korean": "계리사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2021.00",
+    "english": "Mathematicians",
+    "korean": "수학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2031.00",
+    "english": "Operations Research Analysts",
+    "korean": "운영 연구 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2041.00",
+    "english": "Statisticians",
+    "korean": "통계학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2041.01",
+    "english": "Biostatisticians",
+    "korean": "생물통계학",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2051.00",
+    "english": "Data Scientists",
+    "korean": "데이터 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2051.01",
+    "english": "Business Intelligence Analysts",
+    "korean": "비즈니스 인텔리전스 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2051.02",
+    "english": "Clinical Data Managers",
+    "korean": "임상 데이터 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2099.00",
+    "english": "Mathematical Science Occupations, All Other",
+    "korean": "수학 과학 직업, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "15-2099.01",
+    "english": "Bioinformatics Technicians",
+    "korean": "생물 정보학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-1011.00",
+    "english": "Architects, Except Landscape and Naval",
+    "korean": "풍경과 해군을 제외한 건축가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-1012.00",
+    "english": "Landscape Architects",
+    "korean": "조경 건축가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-1021.00",
+    "english": "Cartographers and Photogrammetrists",
+    "korean": "지도제작자 와 사진술가 들",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-1022.00",
+    "english": "Surveyors",
+    "korean": "서베이어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-1022.01",
+    "english": "Geodetic Surveyors",
+    "korean": "측지 측량기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2011.00",
+    "english": "Aerospace Engineers",
+    "korean": "항공 우주 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2021.00",
+    "english": "Agricultural Engineers",
+    "korean": "농업 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2031.00",
+    "english": "Bioengineers and Biomedical Engineers",
+    "korean": "생물공학자 및 생물공학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2041.00",
+    "english": "Chemical Engineers",
+    "korean": "화학 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2051.00",
+    "english": "Civil Engineers",
+    "korean": "토목 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2051.01",
+    "english": "Transportation Engineers",
+    "korean": "교통 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2051.02",
+    "english": "Water/Wastewater Engineers",
+    "korean": "물/폐수 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2061.00",
+    "english": "Computer Hardware Engineers",
+    "korean": "컴퓨터 하드웨어 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2071.00",
+    "english": "Electrical Engineers",
+    "korean": "전기 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2072.00",
+    "english": "Electronics Engineers, Except Computer",
+    "korean": "컴퓨터를 제외한 전자 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2072.01",
+    "english": "Radio Frequency Identification Device Specialists",
+    "korean": "무선 주파수 식별 장치 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2081.00",
+    "english": "Environmental Engineers",
+    "korean": "환경 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2111.00",
+    "english": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+    "korean": "광업 안전 엔지니어 및 검사관을 제외한 건강 및 안전 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2111.02",
+    "english": "Fire-Prevention and Protection Engineers",
+    "korean": "화재 예방 및 보호 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2112.00",
+    "english": "Industrial Engineers",
+    "korean": "산업 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2112.01",
+    "english": "Human Factors Engineers and Ergonomists",
+    "korean": "인간공학 엔지니어 및 인간공학자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "17-2112.02",
+    "english": "Validation Engineers",
+    "korean": "검증 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2112.03",
+    "english": "Manufacturing Engineers",
+    "korean": "제조 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2121.00",
+    "english": "Marine Engineers and Naval Architects",
+    "korean": "해양 엔지니어 및 해군 건축가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2131.00",
+    "english": "Materials Engineers",
+    "korean": "재료 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2141.00",
+    "english": "Mechanical Engineers",
+    "korean": "기계 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2141.01",
+    "english": "Fuel Cell Engineers",
+    "korean": "연료 전지 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2141.02",
+    "english": "Automotive Engineers",
+    "korean": "자동차 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2151.00",
+    "english": "Mining and Geological Engineers, Including Mining Safety Engineers",
+    "korean": "광업 및 지질 엔지니어, 광산 안전 엔지니어 포함",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2161.00",
+    "english": "Nuclear Engineers",
+    "korean": "핵 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2171.00",
+    "english": "Petroleum Engineers",
+    "korean": "석유 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.00",
+    "english": "Engineers, All Other",
+    "korean": "엔지니어, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.03",
+    "english": "Energy Engineers, Except Wind and Solar",
+    "korean": "에너지 엔지니어, 바람과 태양을 제외하고",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.05",
+    "english": "Mechatronics Engineers",
+    "korean": "메카트로닉스 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.06",
+    "english": "Microsystems Engineers",
+    "korean": "마이크로시스템 엔지니어",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "17-2199.07",
+    "english": "Photonics Engineers",
+    "korean": "포토닉스 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.08",
+    "english": "Robotics Engineers",
+    "korean": "로봇 공학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.09",
+    "english": "Nanosystems Engineers",
+    "korean": "나노시스템 엔지니어",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "17-2199.10",
+    "english": "Wind Energy Engineers",
+    "korean": "풍력 에너지 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-2199.11",
+    "english": "Solar Energy Systems Engineers",
+    "korean": "태양 에너지 시스템 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3011.00",
+    "english": "Architectural and Civil Drafters",
+    "korean": "건축 및 토목 설계사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3012.00",
+    "english": "Electrical and Electronics Drafters",
+    "korean": "전기 및 전자 제도사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "17-3013.00",
+    "english": "Mechanical Drafters",
+    "korean": "기계 설계사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3019.00",
+    "english": "Drafters, All Other",
+    "korean": "그 외 제도사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "17-3021.00",
+    "english": "Aerospace Engineering and Operations Technologists and Technicians",
+    "korean": "항공우주 공학 및 운영 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3022.00",
+    "english": "Civil Engineering Technologists and Technicians",
+    "korean": "토목 공학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3023.00",
+    "english": "Electrical and Electronic Engineering Technologists and Technicians",
+    "korean": "전기 및 전자 공학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3024.00",
+    "english": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+    "korean": "전기 기계 및 메카트로닉스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3024.01",
+    "english": "Robotics Technicians",
+    "korean": "로봇 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3025.00",
+    "english": "Environmental Engineering Technologists and Technicians",
+    "korean": "환경 공학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3026.00",
+    "english": "Industrial Engineering Technologists and Technicians",
+    "korean": "산업 공학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3026.01",
+    "english": "Nanotechnology Engineering Technologists and Technicians",
+    "korean": "나노 공학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3027.00",
+    "english": "Mechanical Engineering Technologists and Technicians",
+    "korean": "기계 공학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3027.01",
+    "english": "Automotive Engineering Technicians",
+    "korean": "자동차 공학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3028.00",
+    "english": "Calibration Technologists and Technicians",
+    "korean": "교정 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3029.00",
+    "english": "Engineering Technologists and Technicians, Except Drafters, All Other",
+    "korean": "그 외 공학 기술 전문가 및 기술자, 제도사 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "17-3029.01",
+    "english": "Non-Destructive Testing Specialists",
+    "korean": "비파괴 검사 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3029.08",
+    "english": "Photonics Technicians",
+    "korean": "포토닉스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "17-3031.00",
+    "english": "Surveying and Mapping Technicians",
+    "korean": "측량 및 매핑 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1011.00",
+    "english": "Animal Scientists",
+    "korean": "동물 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1012.00",
+    "english": "Food Scientists and Technologists",
+    "korean": "식품 과학자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1013.00",
+    "english": "Soil and Plant Scientists",
+    "korean": "토양 및 식물 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1021.00",
+    "english": "Biochemists and Biophysicists",
+    "korean": "생화학자 및 생물물리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1022.00",
+    "english": "Microbiologists",
+    "korean": "미생물학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1023.00",
+    "english": "Zoologists and Wildlife Biologists",
+    "korean": "동물 학자 및 야생 생물 학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1029.00",
+    "english": "Biological Scientists, All Other",
+    "korean": "생물학 과학자들, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1029.01",
+    "english": "Bioinformatics Scientists",
+    "korean": "생물 정보학 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1029.02",
+    "english": "Molecular and Cellular Biologists",
+    "korean": "분자 및 세포생물학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1029.03",
+    "english": "Geneticists",
+    "korean": "유전학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1029.04",
+    "english": "Biologists",
+    "korean": "생물 학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1031.00",
+    "english": "Conservation Scientists",
+    "korean": "보존 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1031.02",
+    "english": "Range Managers",
+    "korean": "범위 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1031.03",
+    "english": "Park Naturalists",
+    "korean": "공원 자연주의자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1032.00",
+    "english": "Foresters",
+    "korean": "임업",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1041.00",
+    "english": "Epidemiologists",
+    "korean": "역학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1042.00",
+    "english": "Medical Scientists, Except Epidemiologists",
+    "korean": "역학자 를 제외 한 의학 과학자 들",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-1099.00",
+    "english": "Life Scientists, All Other",
+    "korean": "생명 과학자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2011.00",
+    "english": "Astronomers",
+    "korean": "천문학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2012.00",
+    "english": "Physicists",
+    "korean": "물리학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2021.00",
+    "english": "Atmospheric and Space Scientists",
+    "korean": "대기 및 우주 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2031.00",
+    "english": "Chemists",
+    "korean": "화학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2032.00",
+    "english": "Materials Scientists",
+    "korean": "재료 과학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2041.00",
+    "english": "Environmental Scientists and Specialists, Including Health",
+    "korean": "건강을 포함한 환경 과학자 및 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2041.01",
+    "english": "Climate Change Policy Analysts",
+    "korean": "기후 변화 정책 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2041.02",
+    "english": "Environmental Restoration Planners",
+    "korean": "환경 복원 플래너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2041.03",
+    "english": "Industrial Ecologists",
+    "korean": "산업 생태학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2042.00",
+    "english": "Geoscientists, Except Hydrologists and Geographers",
+    "korean": "지질학자, 수문학자 및 지리학자 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2043.00",
+    "english": "Hydrologists",
+    "korean": "수문학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2099.00",
+    "english": "Physical Scientists, All Other",
+    "korean": "과학자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-2099.01",
+    "english": "Remote Sensing Scientists and Technologists",
+    "korean": "원격 감지 과학자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3011.00",
+    "english": "Economists",
+    "korean": "경제학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3011.01",
+    "english": "Environmental Economists",
+    "korean": "환경 경제학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3022.00",
+    "english": "Survey Researchers",
+    "korean": "조사 연구원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3032.00",
+    "english": "Industrial-Organizational Psychologists",
+    "korean": "산업-조직 심리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3033.00",
+    "english": "Clinical and Counseling Psychologists",
+    "korean": "임상 및 상담 심리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3034.00",
+    "english": "School Psychologists",
+    "korean": "학교 심리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3039.00",
+    "english": "Psychologists, All Other",
+    "korean": "심리학자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3039.02",
+    "english": "Neuropsychologists",
+    "korean": "신경심리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3039.03",
+    "english": "Clinical Neuropsychologists",
+    "korean": "임상 신경 심리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3041.00",
+    "english": "Sociologists",
+    "korean": "사회학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3051.00",
+    "english": "Urban and Regional Planners",
+    "korean": "도시 및 지역 플래너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3091.00",
+    "english": "Anthropologists and Archeologists",
+    "korean": "인류학자 및 고고학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3092.00",
+    "english": "Geographers",
+    "korean": "지리학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3093.00",
+    "english": "Historians",
+    "korean": "역사가 들",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3094.00",
+    "english": "Political Scientists",
+    "korean": "정치학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3099.00",
+    "english": "Social Scientists and Related Workers, All Other",
+    "korean": "사회 과학자 및 관련 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-3099.01",
+    "english": "Transportation Planners",
+    "korean": "교통 계획자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4012.00",
+    "english": "Agricultural Technicians",
+    "korean": "농업 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4012.01",
+    "english": "Precision Agriculture Technicians",
+    "korean": "정밀 농업 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4013.00",
+    "english": "Food Science Technicians",
+    "korean": "식품 과학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4021.00",
+    "english": "Biological Technicians",
+    "korean": "생물학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4031.00",
+    "english": "Chemical Technicians",
+    "korean": "화학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4042.00",
+    "english": "Environmental Science and Protection Technicians, Including Health",
+    "korean": "건강을 포함한 환경 과학 및 보호 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4043.00",
+    "english": "Geological Technicians, Except Hydrologic Technicians",
+    "korean": "지질 기술자, 수문 기술자 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "19-4044.00",
+    "english": "Hydrologic Technicians",
+    "korean": "수력학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4051.00",
+    "english": "Nuclear Technicians",
+    "korean": "핵 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4051.02",
+    "english": "Nuclear Monitoring Technicians",
+    "korean": "핵 모니터링 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4061.00",
+    "english": "Social Science Research Assistants",
+    "korean": "사회 과학 연구 조교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4071.00",
+    "english": "Forest and Conservation Technicians",
+    "korean": "숲 및 보존 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4092.00",
+    "english": "Forensic Science Technicians",
+    "korean": "법의학 과학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4099.00",
+    "english": "Life, Physical, and Social Science Technicians, All Other",
+    "korean": "생명, 물리 및 사회 과학 기술자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4099.01",
+    "english": "Quality Control Analysts",
+    "korean": "품질 관리 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-4099.03",
+    "english": "Remote Sensing Technicians",
+    "korean": "원격 감지 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-5011.00",
+    "english": "Occupational Health and Safety Specialists",
+    "korean": "직업 보건 및 안전 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "19-5012.00",
+    "english": "Occupational Health and Safety Technicians",
+    "korean": "직업 보건 및 안전 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1011.00",
+    "english": "Substance Abuse and Behavioral Disorder Counselors",
+    "korean": "약물 남용 및 행동 장애 상담",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1012.00",
+    "english": "Educational, Guidance, and Career Counselors and Advisors",
+    "korean": "교육,지도 및 경력 상담 및 고문",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1013.00",
+    "english": "Marriage and Family Therapists",
+    "korean": "결혼 및 가족 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1014.00",
+    "english": "Mental Health Counselors",
+    "korean": "정신 건강 상담원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1015.00",
+    "english": "Rehabilitation Counselors",
+    "korean": "재활 상담사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1019.00",
+    "english": "Counselors, All Other",
+    "korean": "상담원, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1021.00",
+    "english": "Child, Family, and School Social Workers",
+    "korean": "어린이, 가족 및 학교 사회 복지사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1022.00",
+    "english": "Healthcare Social Workers",
+    "korean": "의료 사회 복지사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1023.00",
+    "english": "Mental Health and Substance Abuse Social Workers",
+    "korean": "정신 건강 및 약물 남용 사회 복지사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1029.00",
+    "english": "Social Workers, All Other",
+    "korean": "사회 복지사, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1091.00",
+    "english": "Health Education Specialists",
+    "korean": "건강 교육 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1092.00",
+    "english": "Probation Officers and Correctional Treatment Specialists",
+    "korean": "검사관 및 교정 치료 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1093.00",
+    "english": "Social and Human Service Assistants",
+    "korean": "사회 및 인적 서비스 도우미",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1094.00",
+    "english": "Community Health Workers",
+    "korean": "지역 사회 건강",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-1099.00",
+    "english": "Community and Social Service Specialists, All Other",
+    "korean": "지역 사회 및 사회 서비스 전문가, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-2011.00",
+    "english": "Clergy",
+    "korean": "성직자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-2021.00",
+    "english": "Directors, Religious Activities and Education",
+    "korean": "이사, 종교 활동 및 교육",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "21-2099.00",
+    "english": "Religious Workers, All Other",
+    "korean": "그 외 종교 종사자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "23-1011.00",
+    "english": "Lawyers",
+    "korean": "변호사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-1012.00",
+    "english": "Judicial Law Clerks",
+    "korean": "사법법 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-1021.00",
+    "english": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+    "korean": "행정법 판사, 재판관 및 청문회 임원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-1022.00",
+    "english": "Arbitrators, Mediators, and Conciliators",
+    "korean": "중재자, 중재자 및 화해자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-1023.00",
+    "english": "Judges, Magistrate Judges, and Magistrates",
+    "korean": "판사, 치안 판사 및 치안 판사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-2011.00",
+    "english": "Paralegals and Legal Assistants",
+    "korean": "법률 보조원 및 법률 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-2093.00",
+    "english": "Title Examiners, Abstractors, and Searchers",
+    "korean": "제목 심사관, 초록자 및 검색자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "23-2099.00",
+    "english": "Legal Support Workers, All Other",
+    "korean": "법률 지원 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-1011.00",
+    "english": "Business Teachers, Postsecondary",
+    "korean": "고등교육 경영학 교원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1021.00",
+    "english": "Computer Science Teachers, Postsecondary",
+    "korean": "컴퓨터 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1022.00",
+    "english": "Mathematical Science Teachers, Postsecondary",
+    "korean": "수학 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1031.00",
+    "english": "Architecture Teachers, Postsecondary",
+    "korean": "건축 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1032.00",
+    "english": "Engineering Teachers, Postsecondary",
+    "korean": "공학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1041.00",
+    "english": "Agricultural Sciences Teachers, Postsecondary",
+    "korean": "농업 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1042.00",
+    "english": "Biological Science Teachers, Postsecondary",
+    "korean": "생물 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1043.00",
+    "english": "Forestry and Conservation Science Teachers, Postsecondary",
+    "korean": "임업 및 보존 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1051.00",
+    "english": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+    "korean": "대기, 지구, 해양 및 우주 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1052.00",
+    "english": "Chemistry Teachers, Postsecondary",
+    "korean": "화학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1053.00",
+    "english": "Environmental Science Teachers, Postsecondary",
+    "korean": "환경 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1054.00",
+    "english": "Physics Teachers, Postsecondary",
+    "korean": "물리학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1061.00",
+    "english": "Anthropology and Archeology Teachers, Postsecondary",
+    "korean": "인류학 및 고고학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1062.00",
+    "english": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+    "korean": "지역, 민족 및 문화 연구 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1063.00",
+    "english": "Economics Teachers, Postsecondary",
+    "korean": "경제학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1064.00",
+    "english": "Geography Teachers, Postsecondary",
+    "korean": "지리 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1065.00",
+    "english": "Political Science Teachers, Postsecondary",
+    "korean": "정치 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1066.00",
+    "english": "Psychology Teachers, Postsecondary",
+    "korean": "고등교육 심리학 교원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1067.00",
+    "english": "Sociology Teachers, Postsecondary",
+    "korean": "사회학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1069.00",
+    "english": "Social Sciences Teachers, Postsecondary, All Other",
+    "korean": "사회 과학 교사, 고등교육, 그 외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1071.00",
+    "english": "Health Specialties Teachers, Postsecondary",
+    "korean": "고등교육 보건 전문 분야 교원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1072.00",
+    "english": "Nursing Instructors and Teachers, Postsecondary",
+    "korean": "간호 강사 및 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1081.00",
+    "english": "Education Teachers, Postsecondary",
+    "korean": "교육 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1082.00",
+    "english": "Library Science Teachers, Postsecondary",
+    "korean": "도서관 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1111.00",
+    "english": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+    "korean": "형사 사법 및 법 집행 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1112.00",
+    "english": "Law Teachers, Postsecondary",
+    "korean": "법률 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1113.00",
+    "english": "Social Work Teachers, Postsecondary",
+    "korean": "사회 복지 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1121.00",
+    "english": "Art, Drama, and Music Teachers, Postsecondary",
+    "korean": "미술, 연극, 음악 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1122.00",
+    "english": "Communications Teachers, Postsecondary",
+    "korean": "고등교육 커뮤니케이션 분야 교원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1123.00",
+    "english": "English Language and Literature Teachers, Postsecondary",
+    "korean": "영어 및 문학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1124.00",
+    "english": "Foreign Language and Literature Teachers, Postsecondary",
+    "korean": "외국어 및 문학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1125.00",
+    "english": "History Teachers, Postsecondary",
+    "korean": "역사 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1126.00",
+    "english": "Philosophy and Religion Teachers, Postsecondary",
+    "korean": "철학과 종교 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1192.00",
+    "english": "Family and Consumer Sciences Teachers, Postsecondary",
+    "korean": "가족 및 소비자 과학 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1193.00",
+    "english": "Recreation and Fitness Studies Teachers, Postsecondary",
+    "korean": "레크리에이션 및 피트니스 연구 교사, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1194.00",
+    "english": "Career/Technical Education Teachers, Postsecondary",
+    "korean": "고등교육 직업·기술 교육 교원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-1199.00",
+    "english": "Postsecondary Teachers, All Other",
+    "korean": "그 외 고등교육 교원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-2011.00",
+    "english": "Preschool Teachers, Except Special Education",
+    "korean": "초등학생, 특수교육 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2012.00",
+    "english": "Kindergarten Teachers, Except Special Education",
+    "korean": "유치원 교사, 특수 교육 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2021.00",
+    "english": "Elementary School Teachers, Except Special Education",
+    "korean": "초등학교 교사, 특수 교육 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2022.00",
+    "english": "Middle School Teachers, Except Special and Career/Technical Education",
+    "korean": "중학교 교사, 특수 및 경력 / 기술 교육 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2023.00",
+    "english": "Career/Technical Education Teachers, Middle School",
+    "korean": "직업/기술 교육 교사, 중학교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2031.00",
+    "english": "Secondary School Teachers, Except Special and Career/Technical Education",
+    "korean": "중등 학교 교사, 특수 및 경력 / 기술 교육 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2032.00",
+    "english": "Career/Technical Education Teachers, Secondary School",
+    "korean": "직업/기술 교육 교사, 중등 학교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2051.00",
+    "english": "Special Education Teachers, Preschool",
+    "korean": "특수 교육 교사, 유치원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2055.00",
+    "english": "Special Education Teachers, Kindergarten",
+    "korean": "특수 교육 교사, 유치원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2056.00",
+    "english": "Special Education Teachers, Elementary School",
+    "korean": "특수교육 교사, 초등학교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2057.00",
+    "english": "Special Education Teachers, Middle School",
+    "korean": "특수 교육 교사, 중학교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2058.00",
+    "english": "Special Education Teachers, Secondary School",
+    "korean": "특수 교육 교사, 중등 학교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2059.00",
+    "english": "Special Education Teachers, All Other",
+    "korean": "특수 교육 교사, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-2059.01",
+    "english": "Adapted Physical Education Specialists",
+    "korean": "적응형 체육 교육 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-3011.00",
+    "english": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+    "korean": "성인 기본 교육, 성인 중등 교육, 제 2 언어 강사로서의 영어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-3021.00",
+    "english": "Self-Enrichment Teachers",
+    "korean": "독보적 인 교사 들",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-3031.00",
+    "english": "Substitute Teachers, Short-Term",
+    "korean": "대체 교사, 단기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-3041.00",
+    "english": "Tutors",
+    "korean": "교사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-3099.00",
+    "english": "Teachers and Instructors, All Other",
+    "korean": "교사와 교사, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-4011.00",
+    "english": "Archivists",
+    "korean": "기록 보관소",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-4012.00",
+    "english": "Curators",
+    "korean": "큐레이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-4013.00",
+    "english": "Museum Technicians and Conservators",
+    "korean": "박물관 기술자 및 관리인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-4022.00",
+    "english": "Librarians and Media Collections Specialists",
+    "korean": "도서관 및 미디어 컬렉션 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-4031.00",
+    "english": "Library Technicians",
+    "korean": "도서관 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-9021.00",
+    "english": "Farm and Home Management Educators",
+    "korean": "농장 및 가정 관리 교육자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-9031.00",
+    "english": "Instructional Coordinators",
+    "korean": "교육 코디네이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-9042.00",
+    "english": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+    "korean": "유치원·초등학교·중학교 및 고등학교 교육 보조원, 특수교육 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-9043.00",
+    "english": "Teaching Assistants, Special Education",
+    "korean": "특수교육, 특수교육",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-9044.00",
+    "english": "Teaching Assistants, Postsecondary",
+    "korean": "교육 보조, 고등교육",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "25-9049.00",
+    "english": "Teaching Assistants, All Other",
+    "korean": "교사 보조원, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "25-9099.00",
+    "english": "Educational Instruction and Library Workers, All Other",
+    "korean": "교육 교육 및 도서관 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1011.00",
+    "english": "Art Directors",
+    "korean": "아트 디렉터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1012.00",
+    "english": "Craft Artists",
+    "korean": "공예 예술가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1013.00",
+    "english": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+    "korean": "화가, 조각가 및 일러스트 레이터를 포함한 훌륭한 예술가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1014.00",
+    "english": "Special Effects Artists and Animators",
+    "korean": "특수 효과 아티스트 및 애니메이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1019.00",
+    "english": "Artists and Related Workers, All Other",
+    "korean": "예술가와 관련 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1021.00",
+    "english": "Commercial and Industrial Designers",
+    "korean": "상업 및 산업 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1022.00",
+    "english": "Fashion Designers",
+    "korean": "패션 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1023.00",
+    "english": "Floral Designers",
+    "korean": "꽃 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1024.00",
+    "english": "Graphic Designers",
+    "korean": "그래픽 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1025.00",
+    "english": "Interior Designers",
+    "korean": "인테리어 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1026.00",
+    "english": "Merchandise Displayers and Window Trimmers",
+    "korean": "상품 디스플레이 및 창 트리머",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1027.00",
+    "english": "Set and Exhibit Designers",
+    "korean": "설정 및 전시 디자이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-1029.00",
+    "english": "Designers, All Other",
+    "korean": "디자이너, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2011.00",
+    "english": "Actors",
+    "korean": "배우",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2012.00",
+    "english": "Producers and Directors",
+    "korean": "제작자 및 디렉터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2012.03",
+    "english": "Media Programming Directors",
+    "korean": "미디어 프로그래밍 디렉터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2012.04",
+    "english": "Talent Directors",
+    "korean": "회사 소개",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2012.05",
+    "english": "Media Technical Directors/Managers",
+    "korean": "미디어 기술 디렉터/매니저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2021.00",
+    "english": "Athletes and Sports Competitors",
+    "korean": "선수 및 스포츠 경쟁자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2022.00",
+    "english": "Coaches and Scouts",
+    "korean": "코치와 스카우트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2023.00",
+    "english": "Umpires, Referees, and Other Sports Officials",
+    "korean": "심판, 심판, 그리고 다른 스포츠 관계자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2031.00",
+    "english": "Dancers",
+    "korean": "춤꾼",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2032.00",
+    "english": "Choreographers",
+    "korean": "안무가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2041.00",
+    "english": "Music Directors and Composers",
+    "korean": "음악 감독 및 작곡가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2042.00",
+    "english": "Musicians and Singers",
+    "korean": "음악가 및 가수",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2091.00",
+    "english": "Disc Jockeys, Except Radio",
+    "korean": "라디오를 제외한 디스크 자키",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-2099.00",
+    "english": "Entertainers and Performers, Sports and Related Workers, All Other",
+    "korean": "엔터테이너 및 출연자, 스포츠 및 관련 종사자, 기타",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3011.00",
+    "english": "Broadcast Announcers and Radio Disc Jockeys",
+    "korean": "방송 아나운서 및 라디오 디스크 자키",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3023.00",
+    "english": "News Analysts, Reporters, and Journalists",
+    "korean": "뉴스 분석가, 기자 및 기자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3031.00",
+    "english": "Public Relations Specialists",
+    "korean": "홍보 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3041.00",
+    "english": "Editors",
+    "korean": "편집자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3042.00",
+    "english": "Technical Writers",
+    "korean": "기술 작가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3043.00",
+    "english": "Writers and Authors",
+    "korean": "작가 및 저술가",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "27-3043.05",
+    "english": "Poets, Lyricists and Creative Writers",
+    "korean": "시인, 작사가 및 창작 작가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3091.00",
+    "english": "Interpreters and Translators",
+    "korean": "통역사 및 번역가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3092.00",
+    "english": "Court Reporters and Simultaneous Captioners",
+    "korean": "법원 기자와 동시 체포자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-3099.00",
+    "english": "Media and Communication Workers, All Other",
+    "korean": "미디어 및 통신 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4011.00",
+    "english": "Audio and Video Technicians",
+    "korean": "오디오 및 비디오 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4012.00",
+    "english": "Broadcast Technicians",
+    "korean": "방송 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4014.00",
+    "english": "Sound Engineering Technicians",
+    "korean": "음향 공학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4015.00",
+    "english": "Lighting Technicians",
+    "korean": "조명 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4021.00",
+    "english": "Photographers",
+    "korean": "사진 작가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4031.00",
+    "english": "Camera Operators, Television, Video, and Film",
+    "korean": "카메라 운영자, 텔레비전, 비디오 및 필름",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4032.00",
+    "english": "Film and Video Editors",
+    "korean": "영화 및 비디오 편집자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "27-4099.00",
+    "english": "Media and Communication Equipment Workers, All Other",
+    "korean": "미디어 및 통신 장비 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1011.00",
+    "english": "Chiropractors",
+    "korean": "카이로프랙터는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1021.00",
+    "english": "Dentists, General",
+    "korean": "치과 의사, 일반",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1022.00",
+    "english": "Oral and Maxillofacial Surgeons",
+    "korean": "구강악안면외과 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1023.00",
+    "english": "Orthodontists",
+    "korean": "정형외과",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1024.00",
+    "english": "Prosthodontists",
+    "korean": "프로스토돈테스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1029.00",
+    "english": "Dentists, All Other Specialists",
+    "korean": "치과의사, 그 외 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1031.00",
+    "english": "Dietitians and Nutritionists",
+    "korean": "영양사 및 영양사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1041.00",
+    "english": "Optometrists",
+    "korean": "옵토메트리스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1051.00",
+    "english": "Pharmacists",
+    "korean": "약사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1071.00",
+    "english": "Physician Assistants",
+    "korean": "의사 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1071.01",
+    "english": "Anesthesiologist Assistants",
+    "korean": "마취과 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1081.00",
+    "english": "Podiatrists",
+    "korean": "정치학자들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1122.00",
+    "english": "Occupational Therapists",
+    "korean": "직업 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1122.01",
+    "english": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+    "korean": "저시력 치료사, 오리엔테이션 및 이동성 전문가 및 비전 재활 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1123.00",
+    "english": "Physical Therapists",
+    "korean": "물리 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1124.00",
+    "english": "Radiation Therapists",
+    "korean": "방사선 치료",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1125.00",
+    "english": "Recreational Therapists",
+    "korean": "레크리에이션 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1126.00",
+    "english": "Respiratory Therapists",
+    "korean": "호흡기 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1127.00",
+    "english": "Speech-Language Pathologists",
+    "korean": "언어 병리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1128.00",
+    "english": "Exercise Physiologists",
+    "korean": "운동 생리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1129.00",
+    "english": "Therapists, All Other",
+    "korean": "치료사, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1129.01",
+    "english": "Art Therapists",
+    "korean": "예술 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1129.02",
+    "english": "Music Therapists",
+    "korean": "음악 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1131.00",
+    "english": "Veterinarians",
+    "korean": "수의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1141.00",
+    "english": "Registered Nurses",
+    "korean": "등록된 간호사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1141.01",
+    "english": "Acute Care Nurses",
+    "korean": "급성 간호 간호사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1141.02",
+    "english": "Advanced Practice Psychiatric Nurses",
+    "korean": "고급 연습 정신과 간호사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1141.03",
+    "english": "Critical Care Nurses",
+    "korean": "중환자 간호원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1141.04",
+    "english": "Clinical Nurse Specialists",
+    "korean": "임상 간호사 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1151.00",
+    "english": "Nurse Anesthetists",
+    "korean": "마취 전문 간호사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-1161.00",
+    "english": "Nurse Midwives",
+    "korean": "간호사 조산사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1171.00",
+    "english": "Nurse Practitioners",
+    "korean": "간호사 실무자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1181.00",
+    "english": "Audiologists",
+    "korean": "청진기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1211.00",
+    "english": "Anesthesiologists",
+    "korean": "마취과 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1212.00",
+    "english": "Cardiologists",
+    "korean": "심장 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1213.00",
+    "english": "Dermatologists",
+    "korean": "피부과 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1214.00",
+    "english": "Emergency Medicine Physicians",
+    "korean": "응급 의학 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1215.00",
+    "english": "Family Medicine Physicians",
+    "korean": "가족 의학 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1216.00",
+    "english": "General Internal Medicine Physicians",
+    "korean": "일반 내과 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1217.00",
+    "english": "Neurologists",
+    "korean": "신경과",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1218.00",
+    "english": "Obstetricians and Gynecologists",
+    "korean": "산부인과 의사 및 산부인과 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1221.00",
+    "english": "Pediatricians, General",
+    "korean": "소아과 의사, 일반",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1222.00",
+    "english": "Physicians, Pathologists",
+    "korean": "의사, 병리학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1223.00",
+    "english": "Psychiatrists",
+    "korean": "정신과 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1224.00",
+    "english": "Radiologists",
+    "korean": "방사선과",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.00",
+    "english": "Physicians, All Other",
+    "korean": "의사, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.01",
+    "english": "Allergists and Immunologists",
+    "korean": "알레르기 및 면역학자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.02",
+    "english": "Hospitalists",
+    "korean": "병원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.03",
+    "english": "Urologists",
+    "korean": "비뇨기과",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.04",
+    "english": "Physical Medicine and Rehabilitation Physicians",
+    "korean": "물리 의학 및 재활 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.05",
+    "english": "Preventive Medicine Physicians",
+    "korean": "예방 의학 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1229.06",
+    "english": "Sports Medicine Physicians",
+    "korean": "스포츠 의학 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1241.00",
+    "english": "Ophthalmologists, Except Pediatric",
+    "korean": "소아과를 제외한 안과 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1242.00",
+    "english": "Orthopedic Surgeons, Except Pediatric",
+    "korean": "소아과를 제외한 정형 외과 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1243.00",
+    "english": "Pediatric Surgeons",
+    "korean": "소아 외과 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1249.00",
+    "english": "Surgeons, All Other",
+    "korean": "외과 의사, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1291.00",
+    "english": "Acupuncturists",
+    "korean": "한의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1292.00",
+    "english": "Dental Hygienists",
+    "korean": "치과 위생사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1299.00",
+    "english": "Healthcare Diagnosing or Treating Practitioners, All Other",
+    "korean": "의료 진단 또는 치료 실무자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1299.01",
+    "english": "Naturopathic Physicians",
+    "korean": "자연 요법 의사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-1299.02",
+    "english": "Orthoptists",
+    "korean": "정형외과",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2011.00",
+    "english": "Medical and Clinical Laboratory Technologists",
+    "korean": "의료 및 임상 실험실 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2011.01",
+    "english": "Cytogenetic Technologists",
+    "korean": "세포유전학 기술자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-2011.02",
+    "english": "Cytotechnologists",
+    "korean": "사이토테크놀로지",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2011.04",
+    "english": "Histotechnologists",
+    "korean": "히스토기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2012.00",
+    "english": "Medical and Clinical Laboratory Technicians",
+    "korean": "의료 및 임상 실험실 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2012.01",
+    "english": "Histology Technicians",
+    "korean": "조직학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2031.00",
+    "english": "Cardiovascular Technologists and Technicians",
+    "korean": "심혈관 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2032.00",
+    "english": "Diagnostic Medical Sonographers",
+    "korean": "진단 의료 초음파 검사사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-2033.00",
+    "english": "Nuclear Medicine Technologists",
+    "korean": "핵 의학 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2034.00",
+    "english": "Radiologic Technologists and Technicians",
+    "korean": "방사선 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2035.00",
+    "english": "Magnetic Resonance Imaging Technologists",
+    "korean": "자기 공명 영상 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2036.00",
+    "english": "Medical Dosimetrists",
+    "korean": "의료 방사선 선량 측정사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-2042.00",
+    "english": "Emergency Medical Technicians",
+    "korean": "응급 의료 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2043.00",
+    "english": "Paramedics",
+    "korean": "구급대원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2051.00",
+    "english": "Dietetic Technicians",
+    "korean": "영양사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2052.00",
+    "english": "Pharmacy Technicians",
+    "korean": "약국 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2053.00",
+    "english": "Psychiatric Technicians",
+    "korean": "정신과 기술자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-2055.00",
+    "english": "Surgical Technologists",
+    "korean": "외과 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2056.00",
+    "english": "Veterinary Technologists and Technicians",
+    "korean": "수의학 기술자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2057.00",
+    "english": "Ophthalmic Medical Technicians",
+    "korean": "안과 의료 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2061.00",
+    "english": "Licensed Practical and Licensed Vocational Nurses",
+    "korean": "면허 및 직업 간호사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2072.00",
+    "english": "Medical Records Specialists",
+    "korean": "의료 기록 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2081.00",
+    "english": "Opticians, Dispensing",
+    "korean": "조제 안경사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-2091.00",
+    "english": "Orthotists and Prosthetists",
+    "korean": "보조기 및 의지 제작 전문가",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "29-2092.00",
+    "english": "Hearing Aid Specialists",
+    "korean": "보청기 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2099.00",
+    "english": "Health Technologists and Technicians, All Other",
+    "korean": "건강 기술자 및 기술자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2099.01",
+    "english": "Neurodiagnostic Technologists",
+    "korean": "신경과 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2099.05",
+    "english": "Ophthalmic Medical Technologists",
+    "korean": "안과 의료 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-2099.08",
+    "english": "Patient Representatives",
+    "korean": "환자 대표",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-9021.00",
+    "english": "Health Information Technologists and Medical Registrars",
+    "korean": "건강 정보 기술자 및 의료 등록",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-9091.00",
+    "english": "Athletic Trainers",
+    "korean": "운동 트레이너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-9092.00",
+    "english": "Genetic Counselors",
+    "korean": "유전자 상담사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-9093.00",
+    "english": "Surgical Assistants",
+    "korean": "수술 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-9099.00",
+    "english": "Healthcare Practitioners and Technical Workers, All Other",
+    "korean": "의료 종사자 및 기술직 종사자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "29-9099.01",
+    "english": "Midwives",
+    "korean": "조산사들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-1121.00",
+    "english": "Home Health Aides",
+    "korean": "홈 건강 에이즈",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-1122.00",
+    "english": "Personal Care Aides",
+    "korean": "개인 간호 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-1131.00",
+    "english": "Nursing Assistants",
+    "korean": "간호 보조",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-1132.00",
+    "english": "Orderlies",
+    "korean": "오더리스는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-1133.00",
+    "english": "Psychiatric Aides",
+    "korean": "정신과 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-2011.00",
+    "english": "Occupational Therapy Assistants",
+    "korean": "직업 치료 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-2012.00",
+    "english": "Occupational Therapy Aides",
+    "korean": "직업 치료 보조",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-2021.00",
+    "english": "Physical Therapist Assistants",
+    "korean": "물리 치료사 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-2022.00",
+    "english": "Physical Therapist Aides",
+    "korean": "물리 치료 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9011.00",
+    "english": "Massage Therapists",
+    "korean": "마사지 치료사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9091.00",
+    "english": "Dental Assistants",
+    "korean": "치과 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9092.00",
+    "english": "Medical Assistants",
+    "korean": "의료 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9093.00",
+    "english": "Medical Equipment Preparers",
+    "korean": "의료 장비 준비",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9094.00",
+    "english": "Medical Transcriptionists",
+    "korean": "의학 전문의",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9095.00",
+    "english": "Pharmacy Aides",
+    "korean": "약국 측근",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9096.00",
+    "english": "Veterinary Assistants and Laboratory Animal Caretakers",
+    "korean": "수의학 도우미 및 실험실 동물 관리인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9097.00",
+    "english": "Phlebotomists",
+    "korean": "채혈사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "31-9099.00",
+    "english": "Healthcare Support Workers, All Other",
+    "korean": "의료 지원 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9099.01",
+    "english": "Speech-Language Pathology Assistants",
+    "korean": "언어 병리학 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "31-9099.02",
+    "english": "Endoscopy Technicians",
+    "korean": "내시경 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-1011.00",
+    "english": "First-Line Supervisors of Correctional Officers",
+    "korean": "교정 책임자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-1012.00",
+    "english": "First-Line Supervisors of Police and Detectives",
+    "korean": "경찰 및 형사의 일선 감독관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-1021.00",
+    "english": "First-Line Supervisors of Firefighting and Prevention Workers",
+    "korean": "소방 및 예방 작업자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-1091.00",
+    "english": "First-Line Supervisors of Security Workers",
+    "korean": "보안 작업자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-1099.00",
+    "english": "First-Line Supervisors of Protective Service Workers, All Other",
+    "korean": "보호 서비스 노동자의 첫 번째 라인 관리자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-2011.00",
+    "english": "Firefighters",
+    "korean": "소방관들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-2021.00",
+    "english": "Fire Inspectors and Investigators",
+    "korean": "화재 조사관 및 수사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-2022.00",
+    "english": "Forest Fire Inspectors and Prevention Specialists",
+    "korean": "산불 조사관 및 예방 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3011.00",
+    "english": "Bailiffs",
+    "korean": "집행관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3012.00",
+    "english": "Correctional Officers and Jailers",
+    "korean": "교도관 및 간수",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3021.00",
+    "english": "Detectives and Criminal Investigators",
+    "korean": "형사 및 형사 수사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3021.02",
+    "english": "Police Identification and Records Officers",
+    "korean": "경찰 신원 및 기록 담당자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3021.06",
+    "english": "Intelligence Analysts",
+    "korean": "정보 분석가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3031.00",
+    "english": "Fish and Game Wardens",
+    "korean": "어류 및 야생동물 보호 단속원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "33-3041.00",
+    "english": "Parking Enforcement Workers",
+    "korean": "주차 집행 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3051.00",
+    "english": "Police and Sheriff's Patrol Officers",
+    "korean": "경찰과 보안관의 순찰대",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3051.04",
+    "english": "Customs and Border Protection Officers",
+    "korean": "세관 및 국경 보호국",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-3052.00",
+    "english": "Transit and Railroad Police",
+    "korean": "교통 및 철도 경찰",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9011.00",
+    "english": "Animal Control Workers",
+    "korean": "동물 통제 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9021.00",
+    "english": "Private Detectives and Investigators",
+    "korean": "사설 탐정 및 탐정",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9031.00",
+    "english": "Gambling Surveillance Officers and Gambling Investigators",
+    "korean": "도박 감시 책임자 및 도박 조사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9032.00",
+    "english": "Security Guards",
+    "korean": "보안경비",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9091.00",
+    "english": "Crossing Guards and Flaggers",
+    "korean": "횡단보도 안전요원 및 신호수",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "33-9092.00",
+    "english": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+    "korean": "인명 구조원, 스키 순찰대 및 기타 레크리에이션 보호 서비스 직원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9093.00",
+    "english": "Transportation Security Screeners",
+    "korean": "교통 보안 검색원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "33-9094.00",
+    "english": "School Bus Monitors",
+    "korean": "학교 버스 모니터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9099.00",
+    "english": "Protective Service Workers, All Other",
+    "korean": "노동자 보호, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "33-9099.02",
+    "english": "Retail Loss Prevention Specialists",
+    "korean": "소매 손실 방지 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-1011.00",
+    "english": "Chefs and Head Cooks",
+    "korean": "셰프와 헤드 쿡",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-1012.00",
+    "english": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "korean": "식품 준비 및 서빙 노동자의 첫 번째 라인 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-2011.00",
+    "english": "Cooks, Fast Food",
+    "korean": "요리, 패스트 푸드",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-2012.00",
+    "english": "Cooks, Institution and Cafeteria",
+    "korean": "요리사, 기관 및 카페테리아",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-2013.00",
+    "english": "Cooks, Private Household",
+    "korean": "요리사, 개인 가정",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-2014.00",
+    "english": "Cooks, Restaurant",
+    "korean": "쿡스, 레스토랑",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-2015.00",
+    "english": "Cooks, Short Order",
+    "korean": "쿡스, 짧은 주문",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-2019.00",
+    "english": "Cooks, All Other",
+    "korean": "그 외 요리사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "35-2021.00",
+    "english": "Food Preparation Workers",
+    "korean": "음식 준비 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-3011.00",
+    "english": "Bartenders",
+    "korean": "바텐더",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-3023.00",
+    "english": "Fast Food and Counter Workers",
+    "korean": "패스트 푸드 및 카운터 작업자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-3023.01",
+    "english": "Baristas",
+    "korean": "바리스타들은",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-3031.00",
+    "english": "Waiters and Waitresses",
+    "korean": "웨이터와 웨이트리스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-3041.00",
+    "english": "Food Servers, Nonrestaurant",
+    "korean": "식당 외 음식 제공 종사자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "35-9011.00",
+    "english": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+    "korean": "식당 및 카페테리아 보조원과 바텐더 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "35-9021.00",
+    "english": "Dishwashers",
+    "korean": "식기 세척기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-9031.00",
+    "english": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+    "korean": "호스트 및 호스트, 레스토랑, 라운지 및 커피숍",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "35-9099.00",
+    "english": "Food Preparation and Serving Related Workers, All Other",
+    "korean": "음식 준비 및 봉사 관련 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-1011.00",
+    "english": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "korean": "가정부 및 위생 노동자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-1012.00",
+    "english": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+    "korean": "조경, 잔디 서비스 및 접지 노동자의 첫 번째 라인 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-2011.00",
+    "english": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "korean": "청소부와 청소부, 가정부와 청소부 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-2012.00",
+    "english": "Maids and Housekeeping Cleaners",
+    "korean": "가정부 와 청소부",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-2019.00",
+    "english": "Building Cleaning Workers, All Other",
+    "korean": "청소 직원, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-2021.00",
+    "english": "Pest Control Workers",
+    "korean": "해충 방제",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-3011.00",
+    "english": "Landscaping and Groundskeeping Workers",
+    "korean": "조경 및 조경 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-3012.00",
+    "english": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+    "korean": "농약 다루개, 스프레이어 및 도포구, 식물",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "37-3013.00",
+    "english": "Tree Trimmers and Pruners",
+    "korean": "나무 가지치기 및 전정 작업자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "37-3019.00",
+    "english": "Grounds Maintenance Workers, All Other",
+    "korean": "유지 보수 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-1013.00",
+    "english": "First-Line Supervisors of Gambling Services Workers",
+    "korean": "노름 서비스 노동자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-1014.00",
+    "english": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+    "korean": "도박 서비스를 제외한 엔터테인먼트 및 레크리에이션 근로자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-1022.00",
+    "english": "First-Line Supervisors of Personal Service Workers",
+    "korean": "개인 서비스 근로자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-2011.00",
+    "english": "Animal Trainers",
+    "korean": "동물 훈련",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-2021.00",
+    "english": "Animal Caretakers",
+    "korean": "동물 관리인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3011.00",
+    "english": "Gambling Dealers",
+    "korean": "도박 딜러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3012.00",
+    "english": "Gambling and Sports Book Writers and Runners",
+    "korean": "도박 및 스포츠 도서 작가 및 주자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3019.00",
+    "english": "Gambling Service Workers, All Other",
+    "korean": "도박 서비스 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3021.00",
+    "english": "Motion Picture Projectionists",
+    "korean": "영화 프로젝션",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3031.00",
+    "english": "Ushers, Lobby Attendants, and Ticket Takers",
+    "korean": "어셔, 로비 참석자 및 티켓 수령자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3091.00",
+    "english": "Amusement and Recreation Attendants",
+    "korean": "오락 및 레크리에이션 참석자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3092.00",
+    "english": "Costume Attendants",
+    "korean": "옷 입은 상태로",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3093.00",
+    "english": "Locker Room, Coatroom, and Dressing Room Attendants",
+    "korean": "락커룸, 코트룸, 드레싱룸",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-3099.00",
+    "english": "Entertainment Attendants and Related Workers, All Other",
+    "korean": "엔터테인먼트 관계자 및 관련 종사자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-4011.00",
+    "english": "Embalmers",
+    "korean": "엠발머",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-4012.00",
+    "english": "Crematory Operators",
+    "korean": "크레마 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-4021.00",
+    "english": "Funeral Attendants",
+    "korean": "장례식 참석자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-4031.00",
+    "english": "Morticians, Undertakers, and Funeral Arrangers",
+    "korean": "장의사 및 장례 주선자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "39-5011.00",
+    "english": "Barbers",
+    "korean": "이발사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-5012.00",
+    "english": "Hairdressers, Hairstylists, and Cosmetologists",
+    "korean": "미용사 및 헤어스타일리스트",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "39-5091.00",
+    "english": "Makeup Artists, Theatrical and Performance",
+    "korean": "메이크업 아티스트, 연극 및 공연",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-5092.00",
+    "english": "Manicurists and Pedicurists",
+    "korean": "손발톱 미용사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "39-5093.00",
+    "english": "Shampooers",
+    "korean": "샴푸는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-5094.00",
+    "english": "Skincare Specialists",
+    "korean": "스킨케어 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-6011.00",
+    "english": "Baggage Porters and Bellhops",
+    "korean": "수하물 운반원 및 벨보이",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "39-6012.00",
+    "english": "Concierges",
+    "korean": "객실 정보",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-7011.00",
+    "english": "Tour Guides and Escorts",
+    "korean": "투어 가이드 및 에스코트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-7012.00",
+    "english": "Travel Guides",
+    "korean": "여행 가이드",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-9011.00",
+    "english": "Childcare Workers",
+    "korean": "육아 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-9011.01",
+    "english": "Nannies",
+    "korean": "니니스는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-9031.00",
+    "english": "Exercise Trainers and Group Fitness Instructors",
+    "korean": "운동 트레이너 및 그룹 피트니스 강사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-9032.00",
+    "english": "Recreation Workers",
+    "korean": "레크리에이션 워커",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-9041.00",
+    "english": "Residential Advisors",
+    "korean": "주택 자문",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "39-9099.00",
+    "english": "Personal Care and Service Workers, All Other",
+    "korean": "개인 관리 및 서비스 직원, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-1011.00",
+    "english": "First-Line Supervisors of Retail Sales Workers",
+    "korean": "소매업 종사자의 일선 감독관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-1012.00",
+    "english": "First-Line Supervisors of Non-Retail Sales Workers",
+    "korean": "비소매 영업 근로자의 일선 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-2011.00",
+    "english": "Cashiers",
+    "korean": "출납원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-2012.00",
+    "english": "Gambling Change Persons and Booth Cashiers",
+    "korean": "도박 변화 사람과 부스 출납원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-2021.00",
+    "english": "Counter and Rental Clerks",
+    "korean": "카운터 및 렌탈",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-2022.00",
+    "english": "Parts Salespersons",
+    "korean": "부품 판매원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-2031.00",
+    "english": "Retail Salespersons",
+    "korean": "소매 판매원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-3011.00",
+    "english": "Advertising Sales Agents",
+    "korean": "광고 판매 대리인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-3021.00",
+    "english": "Insurance Sales Agents",
+    "korean": "보험 판매 에이전트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-3031.00",
+    "english": "Securities, Commodities, and Financial Services Sales Agents",
+    "korean": "증권, 상품 및 금융 서비스 판매 에이전트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-3041.00",
+    "english": "Travel Agents",
+    "korean": "여행사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-3091.00",
+    "english": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+    "korean": "광고, 보험, 금융 서비스 및 여행을 제외한 서비스의 영업 담당자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-4011.00",
+    "english": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+    "korean": "영업 담당자, 도매 및 제조, 기술 및 과학 제품",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-4011.07",
+    "english": "Solar Sales Representatives and Assessors",
+    "korean": "태양광 영업 담당자 및 평가자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-4012.00",
+    "english": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+    "korean": "영업 담당자, 도매 및 제조, 기술 및 과학 제품 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9011.00",
+    "english": "Demonstrators and Product Promoters",
+    "korean": "시연자 및 제품 발기인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9012.00",
+    "english": "Models",
+    "korean": "모델",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9021.00",
+    "english": "Real Estate Brokers",
+    "korean": "부동산 중개인",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9022.00",
+    "english": "Real Estate Sales Agents",
+    "korean": "부동산 판매 에이전트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9031.00",
+    "english": "Sales Engineers",
+    "korean": "영업 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9041.00",
+    "english": "Telemarketers",
+    "korean": "텔레마케터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9091.00",
+    "english": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+    "korean": "방문 판매 노동자, 뉴스 및 거리 공급 업체, 및 관련 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "41-9099.00",
+    "english": "Sales and Related Workers, All Other",
+    "korean": "영업 및 관련 직원, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-1011.00",
+    "english": "First-Line Supervisors of Office and Administrative Support Workers",
+    "korean": "사무실 및 행정 지원 근로자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-2011.00",
+    "english": "Switchboard Operators, Including Answering Service",
+    "korean": "응답 서비스를 포함한 스위치 보드 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-2021.00",
+    "english": "Telephone Operators",
+    "korean": "전화 교환원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-2099.00",
+    "english": "Communications Equipment Operators, All Other",
+    "korean": "통신 장비 운영자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3011.00",
+    "english": "Bill and Account Collectors",
+    "korean": "빌 및 계정 컬렉터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3021.00",
+    "english": "Billing and Posting Clerks",
+    "korean": "청구 및 게시 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3031.00",
+    "english": "Bookkeeping, Accounting, and Auditing Clerks",
+    "korean": "부기, 회계 및 감사 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3041.00",
+    "english": "Gambling Cage Workers",
+    "korean": "도박 케이지 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3051.00",
+    "english": "Payroll and Timekeeping Clerks",
+    "korean": "급여 및 근태 관리 사무원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-3061.00",
+    "english": "Procurement Clerks",
+    "korean": "구매 사무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3071.00",
+    "english": "Tellers",
+    "korean": "텔러는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-3099.00",
+    "english": "Financial Clerks, All Other",
+    "korean": "금융기관, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4011.00",
+    "english": "Brokerage Clerks",
+    "korean": "중개 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4021.00",
+    "english": "Correspondence Clerks",
+    "korean": "서신 처리 사무원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-4031.00",
+    "english": "Court, Municipal, and License Clerks",
+    "korean": "법원, 시립 및 면허 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4041.00",
+    "english": "Credit Authorizers, Checkers, and Clerks",
+    "korean": "신용 승인자, 체커 및 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4051.00",
+    "english": "Customer Service Representatives",
+    "korean": "고객 서비스 담당자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4061.00",
+    "english": "Eligibility Interviewers, Government Programs",
+    "korean": "면접관, 정부 프로그램",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4071.00",
+    "english": "File Clerks",
+    "korean": "파일 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4081.00",
+    "english": "Hotel, Motel, and Resort Desk Clerks",
+    "korean": "호텔, 모텔 및 리조트 데스크 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4111.00",
+    "english": "Interviewers, Except Eligibility and Loan",
+    "korean": "면접관, 선택 및 대출 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4121.00",
+    "english": "Library Assistants, Clerical",
+    "korean": "도서관 사무 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-4131.00",
+    "english": "Loan Interviewers and Clerks",
+    "korean": "대출 면접관 및 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4141.00",
+    "english": "New Accounts Clerks",
+    "korean": "새 계정 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4151.00",
+    "english": "Order Clerks",
+    "korean": "주문 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4161.00",
+    "english": "Human Resources Assistants, Except Payroll and Timekeeping",
+    "korean": "인적 자원 도우미, 급여 및 시간 유지 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4171.00",
+    "english": "Receptionists and Information Clerks",
+    "korean": "접수 및 정보 사무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4181.00",
+    "english": "Reservation and Transportation Ticket Agents and Travel Clerks",
+    "korean": "예약 및 교통 티켓 에이전트 및 여행 사무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-4199.00",
+    "english": "Information and Record Clerks, All Other",
+    "korean": "정보 및 기록 서기, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5011.00",
+    "english": "Cargo and Freight Agents",
+    "korean": "화물 및화물 에이전트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5011.01",
+    "english": "Freight Forwarders",
+    "korean": "화물 운송업자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5021.00",
+    "english": "Couriers and Messengers",
+    "korean": "택배 및 메신저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5031.00",
+    "english": "Public Safety Telecommunicators",
+    "korean": "공공안전 통신 요원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-5032.00",
+    "english": "Dispatchers, Except Police, Fire, and Ambulance",
+    "korean": "경찰, 화재 및 구급차를 제외한 발송자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5041.00",
+    "english": "Meter Readers, Utilities",
+    "korean": "미터 리더, 유틸리티",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5051.00",
+    "english": "Postal Service Clerks",
+    "korean": "우편 서비스 서기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5052.00",
+    "english": "Postal Service Mail Carriers",
+    "korean": "우편물 집배원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-5053.00",
+    "english": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+    "korean": "우편 서비스 메일 분류기, 프로세서 및 처리 기계 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5061.00",
+    "english": "Production, Planning, and Expediting Clerks",
+    "korean": "생산·계획 및 공정 진행 사무원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-5071.00",
+    "english": "Shipping, Receiving, and Inventory Clerks",
+    "korean": "배송, 수령 및 재고 담당자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-5111.00",
+    "english": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+    "korean": "계량기, 측정기, 검수원 및 샘플러, 기록 보관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-6011.00",
+    "english": "Executive Secretaries and Executive Administrative Assistants",
+    "korean": "행정 비서 및 행정 행정 보조",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-6012.00",
+    "english": "Legal Secretaries and Administrative Assistants",
+    "korean": "법률 비서 및 행정 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-6013.00",
+    "english": "Medical Secretaries and Administrative Assistants",
+    "korean": "의료 비서 및 행정 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-6014.00",
+    "english": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+    "korean": "비서 및 행정 보조원, 법률·의료·경영진 담당 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-9021.00",
+    "english": "Data Entry Keyers",
+    "korean": "데이터 입력 키어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9022.00",
+    "english": "Word Processors and Typists",
+    "korean": "워드 프로세서와 타이피스트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9031.00",
+    "english": "Desktop Publishers",
+    "korean": "데스크톱 게시자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9041.00",
+    "english": "Insurance Claims and Policy Processing Clerks",
+    "korean": "보험 청구 및 정책 처리 사무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9051.00",
+    "english": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+    "korean": "우편 사무원 및 우편 기계 조작원, 우편 서비스 종사자 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "43-9061.00",
+    "english": "Office Clerks, General",
+    "korean": "사무실 사무원, 일반",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9071.00",
+    "english": "Office Machine Operators, Except Computer",
+    "korean": "컴퓨터를 제외한 사무용 기계 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9081.00",
+    "english": "Proofreaders and Copy Markers",
+    "korean": "교정 및 복사 마커",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9111.00",
+    "english": "Statistical Assistants",
+    "korean": "통계 보조원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "43-9199.00",
+    "english": "Office and Administrative Support Workers, All Other",
+    "korean": "사무 및 행정 지원 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-1011.00",
+    "english": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+    "korean": "농업, 어업 및 임업 근로자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2011.00",
+    "english": "Agricultural Inspectors",
+    "korean": "농업 조사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2021.00",
+    "english": "Animal Breeders",
+    "korean": "동물 사육사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2041.00",
+    "english": "Graders and Sorters, Agricultural Products",
+    "korean": "학년 및 분류기, 농산물",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2091.00",
+    "english": "Agricultural Equipment Operators",
+    "korean": "농업 장비 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2092.00",
+    "english": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+    "korean": "농장 노동자와 노동자, 작물, 종묘장 및 온실",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2093.00",
+    "english": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+    "korean": "농장 노동자, 농장, 목장 및 양식업 동물",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-2099.00",
+    "english": "Agricultural Workers, All Other",
+    "korean": "농업 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-3031.00",
+    "english": "Fishing and Hunting Workers",
+    "korean": "낚시 및 사냥",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-4011.00",
+    "english": "Forest and Conservation Workers",
+    "korean": "산림 및 보존 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-4021.00",
+    "english": "Fallers",
+    "korean": "폴러는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-4022.00",
+    "english": "Logging Equipment Operators",
+    "korean": "로깅 장비 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-4023.00",
+    "english": "Log Graders and Scalers",
+    "korean": "로그 그레이더 및 스케일러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "45-4029.00",
+    "english": "Logging Workers, All Other",
+    "korean": "노동자를 벌채, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-1011.00",
+    "english": "First-Line Supervisors of Construction Trades and Extraction Workers",
+    "korean": "건설 무역 및 추출 노동자의 첫 번째 라인 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-1011.03",
+    "english": "Solar Energy Installation Managers",
+    "korean": "태양 에너지 임명 매니저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2011.00",
+    "english": "Boilermakers",
+    "korean": "보일러 제작자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2021.00",
+    "english": "Brickmasons and Blockmasons",
+    "korean": "브릭메이슨과 블록메이슨",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2022.00",
+    "english": "Stonemasons",
+    "korean": "스톤메이슨",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2031.00",
+    "english": "Carpenters",
+    "korean": "카펜터스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2041.00",
+    "english": "Carpet Installers",
+    "korean": "카펫 설치",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2042.00",
+    "english": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+    "korean": "바닥 층, 카펫, 나무, 하드 타일 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2043.00",
+    "english": "Floor Sanders and Finishers",
+    "korean": "바닥 샌더와 피니셔",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2044.00",
+    "english": "Tile and Stone Setters",
+    "korean": "타일 및 스톤 세터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2051.00",
+    "english": "Cement Masons and Concrete Finishers",
+    "korean": "시멘트 석공과 구체적인 피니셔",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2053.00",
+    "english": "Terrazzo Workers and Finishers",
+    "korean": "테라초 시공 및 마감 작업자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-2061.00",
+    "english": "Construction Laborers",
+    "korean": "건설 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2071.00",
+    "english": "Paving, Surfacing, and Tamping Equipment Operators",
+    "korean": "포장·표면 처리 및 다짐 장비 조작원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-2072.00",
+    "english": "Pile Driver Operators",
+    "korean": "파일 드라이버 오퍼레이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2073.00",
+    "english": "Operating Engineers and Other Construction Equipment Operators",
+    "korean": "운영 엔지니어 및 기타 건설 장비 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2081.00",
+    "english": "Drywall and Ceiling Tile Installers",
+    "korean": "건식 벽체 및 천장 타일 설치",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2082.00",
+    "english": "Tapers",
+    "korean": "테이퍼",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2111.00",
+    "english": "Electricians",
+    "korean": "전기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2121.00",
+    "english": "Glaziers",
+    "korean": "글레이지어스는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2131.00",
+    "english": "Insulation Workers, Floor, Ceiling, and Wall",
+    "korean": "절연제 노동자, 지면, 천장 및 벽",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2132.00",
+    "english": "Insulation Workers, Mechanical",
+    "korean": "기계 절연제 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2141.00",
+    "english": "Painters, Construction and Maintenance",
+    "korean": "건설 및 유지보수 도장공",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-2142.00",
+    "english": "Paperhangers",
+    "korean": "페이퍼행거",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2151.00",
+    "english": "Pipelayers",
+    "korean": "파이프 층",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2152.00",
+    "english": "Plumbers, Pipefitters, and Steamfitters",
+    "korean": "배관공·배관 설치공 및 증기관 설치공",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-2152.04",
+    "english": "Solar Thermal Installers and Technicians",
+    "korean": "태양 열 설치자 및 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2161.00",
+    "english": "Plasterers and Stucco Masons",
+    "korean": "석고 및 치장 벽토 메이슨",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2171.00",
+    "english": "Reinforcing Iron and Rebar Workers",
+    "korean": "철근 노동자를 강화",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2181.00",
+    "english": "Roofers",
+    "korean": "로퍼",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2211.00",
+    "english": "Sheet Metal Workers",
+    "korean": "판금 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2221.00",
+    "english": "Structural Iron and Steel Workers",
+    "korean": "구조 철 및 철강 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-2231.00",
+    "english": "Solar Photovoltaic Installers",
+    "korean": "태양 광 발전 설치",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-3011.00",
+    "english": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+    "korean": "벽돌·블록·석재 및 타일·대리석 시공 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-3012.00",
+    "english": "Helpers--Carpenters",
+    "korean": "목수 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-3013.00",
+    "english": "Helpers--Electricians",
+    "korean": "조력자-전기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-3014.00",
+    "english": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+    "korean": "도우미-페인터, 페이퍼 행거, 석고, 그리고 치장 벽토 메이슨",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-3015.00",
+    "english": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+    "korean": "관로 설치·배관 및 증기관 설치 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-3016.00",
+    "english": "Helpers--Roofers",
+    "korean": "조력자--지붕",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-3019.00",
+    "english": "Helpers, Construction Trades, All Other",
+    "korean": "도우미, 건설 무역, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4011.00",
+    "english": "Construction and Building Inspectors",
+    "korean": "건설 및 건물 검사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4011.01",
+    "english": "Energy Auditors",
+    "korean": "에너지 진단사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-4021.00",
+    "english": "Elevator and Escalator Installers and Repairers",
+    "korean": "엘리베이터 및 에스컬레이터 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4031.00",
+    "english": "Fence Erectors",
+    "korean": "울타리 설치원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-4041.00",
+    "english": "Hazardous Materials Removal Workers",
+    "korean": "위험한 물자 제거 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4051.00",
+    "english": "Highway Maintenance Workers",
+    "korean": "고속도로 정비 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4061.00",
+    "english": "Rail-Track Laying and Maintenance Equipment Operators",
+    "korean": "철도 트랙 배치 및 유지 보수 장비 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4071.00",
+    "english": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "korean": "정화조 유지관리 및 하수관 청소원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-4091.00",
+    "english": "Segmental Pavers",
+    "korean": "세그멘탈",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4099.00",
+    "english": "Construction and Related Workers, All Other",
+    "korean": "건설 및 관련 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-4099.03",
+    "english": "Weatherization Installers and Technicians",
+    "korean": "건물 기후 차단 설비 설치원 및 기술자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-5011.00",
+    "english": "Derrick Operators, Oil and Gas",
+    "korean": "석유 및 가스 시추탑 조작원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-5012.00",
+    "english": "Rotary Drill Operators, Oil and Gas",
+    "korean": "로터리 드릴 오퍼레이터, 오일 및 가스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5013.00",
+    "english": "Service Unit Operators, Oil and Gas",
+    "korean": "서비스 단위 운영자, 석유 및 가스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5022.00",
+    "english": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+    "korean": "노천 채굴 굴착·적재 기계 및 드래그라인 조작원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-5023.00",
+    "english": "Earth Drillers, Except Oil and Gas",
+    "korean": "석유와 가스를 제외한 지구드릴러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5032.00",
+    "english": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+    "korean": "폭발물 노동자, 병기 처리 전문가 및 블래스터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5041.00",
+    "english": "Continuous Mining Machine Operators",
+    "korean": "연속 광산 기계 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5043.00",
+    "english": "Roof Bolters, Mining",
+    "korean": "광산 지붕 볼트 설치원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-5044.00",
+    "english": "Loading and Moving Machine Operators, Underground Mining",
+    "korean": "로딩 및 이동 기계 운영자, 지하 광업",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5049.00",
+    "english": "Underground Mining Machine Operators, All Other",
+    "korean": "지하 광산 기계 운영자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5051.00",
+    "english": "Rock Splitters, Quarry",
+    "korean": "바위 쪼개는 도구, 채석장",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "47-5071.00",
+    "english": "Roustabouts, Oil and Gas",
+    "korean": "석유 및 가스 시추 현장 작업원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-5081.00",
+    "english": "Helpers--Extraction Workers",
+    "korean": "채굴 작업 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "47-5099.00",
+    "english": "Extraction Workers, All Other",
+    "korean": "추출 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-1011.00",
+    "english": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+    "korean": "기계, 설치자 및 수리업체의 일선 감독관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2011.00",
+    "english": "Computer, Automated Teller, and Office Machine Repairers",
+    "korean": "컴퓨터, 자동 입출금기 및 사무기기 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2021.00",
+    "english": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+    "korean": "라디오, 셀룰러 및 타워 장비 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2022.00",
+    "english": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+    "korean": "통신 장비 설치업체 및 수리업체(라인 설치업체 제외)",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2091.00",
+    "english": "Avionics Technicians",
+    "korean": "항공전자 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2092.00",
+    "english": "Electric Motor, Power Tool, and Related Repairers",
+    "korean": "전기 모터, 전동 공구 및 관련 수리공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2093.00",
+    "english": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "korean": "전기 및 전자 설치업체 및 수리업체, 운송 장비",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2094.00",
+    "english": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+    "korean": "전기 및 전자 수리업체, 상업 및 산업 장비",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2095.00",
+    "english": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+    "korean": "전기 및 전자 수리업체, 발전소, 변전소 및 릴레이",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2096.00",
+    "english": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+    "korean": "전자 장비 설치업체 및 수리업체, 자동차",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2097.00",
+    "english": "Audiovisual Equipment Installers and Repairers",
+    "korean": "시청각 장비 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-2098.00",
+    "english": "Security and Fire Alarm Systems Installers",
+    "korean": "보안 및 화재 경보 시스템 설치",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3011.00",
+    "english": "Aircraft Mechanics and Service Technicians",
+    "korean": "항공기 역학 및 서비스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3021.00",
+    "english": "Automotive Body and Related Repairers",
+    "korean": "자동차 차체 및 관련 수리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "49-3022.00",
+    "english": "Automotive Glass Installers and Repairers",
+    "korean": "자동차 유리 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3023.00",
+    "english": "Automotive Service Technicians and Mechanics",
+    "korean": "자동차 서비스 기술자 및 기계",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3031.00",
+    "english": "Bus and Truck Mechanics and Diesel Engine Specialists",
+    "korean": "버스 및 트럭 정비사 및 디젤 엔진 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3041.00",
+    "english": "Farm Equipment Mechanics and Service Technicians",
+    "korean": "농장 장비 기계 및 서비스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3042.00",
+    "english": "Mobile Heavy Equipment Mechanics, Except Engines",
+    "korean": "이동식 중장비 정비사, 엔진 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "49-3043.00",
+    "english": "Rail Car Repairers",
+    "korean": "철도 차량 수리",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3051.00",
+    "english": "Motorboat Mechanics and Service Technicians",
+    "korean": "모터보트 정비사 및 서비스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3052.00",
+    "english": "Motorcycle Mechanics",
+    "korean": "오토바이 역학",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3053.00",
+    "english": "Outdoor Power Equipment and Other Small Engine Mechanics",
+    "korean": "옥외 힘 장비와 다른 작은 엔진 기계공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3091.00",
+    "english": "Bicycle Repairers",
+    "korean": "자전거 수리공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3092.00",
+    "english": "Recreational Vehicle Service Technicians",
+    "korean": "레크리에이션 차량 서비스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-3093.00",
+    "english": "Tire Repairers and Changers",
+    "korean": "타이어 수리 및 교환",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9011.00",
+    "english": "Mechanical Door Repairers",
+    "korean": "기계 문 수리공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9012.00",
+    "english": "Control and Valve Installers and Repairers, Except Mechanical Door",
+    "korean": "기계식 도어를 제외한 제어 및 밸브 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9021.00",
+    "english": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+    "korean": "난방, 에어컨 및 냉동 기계 및 설치업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9031.00",
+    "english": "Home Appliance Repairers",
+    "korean": "가전제품 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9041.00",
+    "english": "Industrial Machinery Mechanics",
+    "korean": "산업 기계 역학",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9043.00",
+    "english": "Maintenance Workers, Machinery",
+    "korean": "정비 노동자, 기계장치",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9044.00",
+    "english": "Millwrights",
+    "korean": "밀라이트는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9045.00",
+    "english": "Refractory Materials Repairers, Except Brickmasons",
+    "korean": "내화 재료 수리원, 벽돌공 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "49-9051.00",
+    "english": "Electrical Power-Line Installers and Repairers",
+    "korean": "전력선 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9052.00",
+    "english": "Telecommunications Line Installers and Repairers",
+    "korean": "통신 라인 설치업체 및 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9061.00",
+    "english": "Camera and Photographic Equipment Repairers",
+    "korean": "카메라 및 사진 장비 수리",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9062.00",
+    "english": "Medical Equipment Repairers",
+    "korean": "의료 장비 수리공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9063.00",
+    "english": "Musical Instrument Repairers and Tuners",
+    "korean": "악기 수리공 과 튜너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9064.00",
+    "english": "Watch and Clock Repairers",
+    "korean": "시계 및 시계 수리공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9069.00",
+    "english": "Precision Instrument and Equipment Repairers, All Other",
+    "korean": "정밀 기기 및 장비 수리공, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9071.00",
+    "english": "Maintenance and Repair Workers, General",
+    "korean": "유지 보수 및 수리 작업자, 일반",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9081.00",
+    "english": "Wind Turbine Service Technicians",
+    "korean": "풍력 터빈 서비스 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9091.00",
+    "english": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+    "korean": "동전·자동판매기 및 오락기 유지보수원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "49-9092.00",
+    "english": "Commercial Divers",
+    "korean": "상업용 다이버",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9094.00",
+    "english": "Locksmiths and Safe Repairers",
+    "korean": "자물쇠공 및 금고 수리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "49-9095.00",
+    "english": "Manufactured Building and Mobile Home Installers",
+    "korean": "제조 건물 및 모바일 홈 설치",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9096.00",
+    "english": "Riggers",
+    "korean": "리거는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9097.00",
+    "english": "Signal and Track Switch Repairers",
+    "korean": "신호 및 트랙 스위치 수리업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9098.00",
+    "english": "Helpers--Installation, Maintenance, and Repair Workers",
+    "korean": "설치·유지보수 및 수리 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "49-9099.00",
+    "english": "Installation, Maintenance, and Repair Workers, All Other",
+    "korean": "설치, 유지 보수 및 수리 작업자, 기타",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "49-9099.01",
+    "english": "Geothermal Technicians",
+    "korean": "지열 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-1011.00",
+    "english": "First-Line Supervisors of Production and Operating Workers",
+    "korean": "생산 및 운영 근로자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2011.00",
+    "english": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+    "korean": "항공기 구조, 표면, 리깅 및 시스템 어셈블러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2021.00",
+    "english": "Coil Winders, Tapers, and Finishers",
+    "korean": "코일 와인더, 테이퍼 및 피니셔",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2022.00",
+    "english": "Electrical and Electronic Equipment Assemblers",
+    "korean": "전기 전자 장비 어셈블러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2023.00",
+    "english": "Electromechanical Equipment Assemblers",
+    "korean": "전기 기계 장비 어셈블러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2031.00",
+    "english": "Engine and Other Machine Assemblers",
+    "korean": "엔진과 다른 기계 어셈블러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2041.00",
+    "english": "Structural Metal Fabricators and Fitters",
+    "korean": "구조용 금속 제조기 및 피터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2051.00",
+    "english": "Fiberglass Laminators and Fabricators",
+    "korean": "유리섬유 적층 및 제작 작업원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-2061.00",
+    "english": "Timing Device Assemblers and Adjusters",
+    "korean": "타이밍 장치 어셈블러 및 조절자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2092.00",
+    "english": "Team Assemblers",
+    "korean": "회사 소개",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-2099.00",
+    "english": "Assemblers and Fabricators, All Other",
+    "korean": "조립업체 및 제작업체, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-3011.00",
+    "english": "Bakers",
+    "korean": "베이커는",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-3021.00",
+    "english": "Butchers and Meat Cutters",
+    "korean": "정육점과 고기 절단기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-3022.00",
+    "english": "Meat, Poultry, and Fish Cutters and Trimmers",
+    "korean": "육류, 가금류 및 생선 커터 및 트리머",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-3023.00",
+    "english": "Slaughterers and Meat Packers",
+    "korean": "도살자 및 고기 포장업자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-3091.00",
+    "english": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+    "korean": "식품 및 담배 로스팅·제빵·건조 기계 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-3092.00",
+    "english": "Food Batchmakers",
+    "korean": "식품 배합 작업원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-3093.00",
+    "english": "Food Cooking Machine Operators and Tenders",
+    "korean": "식품 조리 기계 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-3099.00",
+    "english": "Food Processing Workers, All Other",
+    "korean": "식품 가공 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4021.00",
+    "english": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "압출 및 드로잉 머신 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4022.00",
+    "english": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "단조 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4023.00",
+    "english": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "롤링 머신 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4031.00",
+    "english": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "절단, 펀칭 및 프레스 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4032.00",
+    "english": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "드릴링 및 보링 공작 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4033.00",
+    "english": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "연삭, 래핑, 연마 및 버핑 공작 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4034.00",
+    "english": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "선반 및 터닝 머신 툴 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4035.00",
+    "english": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "밀링 및 플래닝 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4041.00",
+    "english": "Machinists",
+    "korean": "기계공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4051.00",
+    "english": "Metal-Refining Furnace Operators and Tenders",
+    "korean": "금속 정련 용광로 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-4052.00",
+    "english": "Pourers and Casters, Metal",
+    "korean": "금속 주입 및 주조 작업원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-4061.00",
+    "english": "Model Makers, Metal and Plastic",
+    "korean": "모형 제작자, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4062.00",
+    "english": "Patternmakers, Metal and Plastic",
+    "korean": "패턴 메이커, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4071.00",
+    "english": "Foundry Mold and Coremakers",
+    "korean": "주조 금형 및 코어메이커",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4072.00",
+    "english": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "몰딩, 코어메이킹, 주조기 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4081.00",
+    "english": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "여러 공작 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4111.00",
+    "english": "Tool and Die Makers",
+    "korean": "공구 및 다이 메이커",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4121.00",
+    "english": "Welders, Cutters, Solderers, and Brazers",
+    "korean": "용접기, 커터, 솔더 및 브레이저",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4122.00",
+    "english": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+    "korean": "용접, 납땜 및 브레이징 기계 설정·조작 및 관리원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4191.00",
+    "english": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "장비 설정·조작 및 관리원, 금속 및 플라스틱 열처리",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4192.00",
+    "english": "Layout Workers, Metal and Plastic",
+    "korean": "레이아웃 작업자, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4193.00",
+    "english": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+    "korean": "도금 기계 설정·조작 및 관리원, 금속 및 플라스틱",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4194.00",
+    "english": "Tool Grinders, Filers, and Sharpeners",
+    "korean": "공구 연삭기, 파일러 및 깎이",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-4199.00",
+    "english": "Metal Workers and Plastic Workers, All Other",
+    "korean": "금속 노동자와 플라스틱 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-5111.00",
+    "english": "Prepress Technicians and Workers",
+    "korean": "인쇄 전 공정 기술자 및 작업원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-5112.00",
+    "english": "Printing Press Operators",
+    "korean": "인쇄기 오퍼레이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-5113.00",
+    "english": "Print Binding and Finishing Workers",
+    "korean": "인쇄 바인딩 및 마무리 작업자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6011.00",
+    "english": "Laundry and Dry-Cleaning Workers",
+    "korean": "세탁 및 드라이 클리닝 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6021.00",
+    "english": "Pressers, Textile, Garment, and Related Materials",
+    "korean": "프레스, 섬유, 의류 및 관련 재료",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6031.00",
+    "english": "Sewing Machine Operators",
+    "korean": "재봉틀 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6041.00",
+    "english": "Shoe and Leather Workers and Repairers",
+    "korean": "신발 및 가죽 노동자 및 수리공",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6042.00",
+    "english": "Shoe Machine Operators and Tenders",
+    "korean": "신발 기계 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-6051.00",
+    "english": "Sewers, Hand",
+    "korean": "하수구, 손",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6052.00",
+    "english": "Tailors, Dressmakers, and Custom Sewers",
+    "korean": "재단사·양장사 및 맞춤 의류 봉제사",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-6061.00",
+    "english": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+    "korean": "섬유 표백 및 염색 기계 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-6062.00",
+    "english": "Textile Cutting Machine Setters, Operators, and Tenders",
+    "korean": "섬유 절단기 세터, 운영자 및 텐더",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6063.00",
+    "english": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+    "korean": "섬유 편직 및 제직 기계 세터, 운영자 및 텐더",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6064.00",
+    "english": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+    "korean": "섬유 권선·꼬기·신장 기계 설정·조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-6091.00",
+    "english": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+    "korean": "압출 및 성형 기계 설정·조작 및 관리원, 합성 및 유리 섬유",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6092.00",
+    "english": "Fabric and Apparel Patternmakers",
+    "korean": "직물 및 의류 패턴 제작자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-6093.00",
+    "english": "Upholsterers",
+    "korean": "업홀스터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-6099.00",
+    "english": "Textile, Apparel, and Furnishings Workers, All Other",
+    "korean": "직물, 의복, 가구 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-7011.00",
+    "english": "Cabinetmakers and Bench Carpenters",
+    "korean": "캐비닛메이커 및 벤치 카펜터스",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-7021.00",
+    "english": "Furniture Finishers",
+    "korean": "가구 마감재",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-7031.00",
+    "english": "Model Makers, Wood",
+    "korean": "모형 제작자, 나무",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-7032.00",
+    "english": "Patternmakers, Wood",
+    "korean": "패턴 메이커, 나무",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-7041.00",
+    "english": "Sawing Machine Setters, Operators, and Tenders, Wood",
+    "korean": "목재 톱질 기계 설정·조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-7042.00",
+    "english": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+    "korean": "목공 기계 설정·조작 및 관리원, 톱질 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-7099.00",
+    "english": "Woodworkers, All Other",
+    "korean": "그 외 목공 종사자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-8011.00",
+    "english": "Nuclear Power Reactor Operators",
+    "korean": "원자력 발전소 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8012.00",
+    "english": "Power Distributors and Dispatchers",
+    "korean": "전력 공급 업체 및 디스패처",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8013.00",
+    "english": "Power Plant Operators",
+    "korean": "발전소 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8013.03",
+    "english": "Biomass Plant Technicians",
+    "korean": "바이오 매스 공장 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8013.04",
+    "english": "Hydroelectric Plant Technicians",
+    "korean": "수력 발전소 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8021.00",
+    "english": "Stationary Engineers and Boiler Operators",
+    "korean": "고정식 설비 기관사 및 보일러 조작원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-8031.00",
+    "english": "Water and Wastewater Treatment Plant and System Operators",
+    "korean": "물 및 폐수 처리장 및 시스템 운영업체",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8091.00",
+    "english": "Chemical Plant and System Operators",
+    "korean": "화학 플랜트 및 시스템 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8092.00",
+    "english": "Gas Plant Operators",
+    "korean": "가스 플랜트 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8093.00",
+    "english": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+    "korean": "석유 펌프 시스템 오퍼레이터, 정유 오퍼레이터, 게이지",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8099.00",
+    "english": "Plant and System Operators, All Other",
+    "korean": "플랜트 및 시스템 운영자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-8099.01",
+    "english": "Biofuels Processing Technicians",
+    "korean": "바이오 연료 가공 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9011.00",
+    "english": "Chemical Equipment Operators and Tenders",
+    "korean": "화학 장비 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9012.00",
+    "english": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+    "korean": "분리·여과·정화·침전 및 증류 기계 설정·조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9021.00",
+    "english": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+    "korean": "분쇄, 연삭 및 연마 기계 설정·조작 및 관리원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9022.00",
+    "english": "Grinding and Polishing Workers, Hand",
+    "korean": "갈고 및 닦는 노동자, 손",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9023.00",
+    "english": "Mixing and Blending Machine Setters, Operators, and Tenders",
+    "korean": "혼합 기계 설정·조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9031.00",
+    "english": "Cutters and Trimmers, Hand",
+    "korean": "커터와 트리머, 손",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9032.00",
+    "english": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+    "korean": "절단 기계 설정·조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9041.00",
+    "english": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+    "korean": "압출, 성형, 프레스 및 압축 기계 설정·조작 및 관리원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9051.00",
+    "english": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+    "korean": "용광로·가마·오븐·건조기 및 가열 용기 조작·관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9061.00",
+    "english": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+    "korean": "검사기, 테스터, 분류기, 샘플러 및 계량기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9071.00",
+    "english": "Jewelers and Precious Stone and Metal Workers",
+    "korean": "보석상과 귀중한 돌과 금속 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9071.06",
+    "english": "Gem and Diamond Workers",
+    "korean": "보석 과 다이아몬드 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9081.00",
+    "english": "Dental Laboratory Technicians",
+    "korean": "치과 실험실 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9082.00",
+    "english": "Medical Appliance Technicians",
+    "korean": "의료 기기 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9083.00",
+    "english": "Ophthalmic Laboratory Technicians",
+    "korean": "안과 실험실 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9111.00",
+    "english": "Packaging and Filling Machine Operators and Tenders",
+    "korean": "포장 및 충전 기계 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9123.00",
+    "english": "Painting, Coating, and Decorating Workers",
+    "korean": "회화, 코팅 및 장식 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9124.00",
+    "english": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+    "korean": "코팅, 도장 및 분사기 설정·조작 및 관리원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9141.00",
+    "english": "Semiconductor Processing Technicians",
+    "korean": "반도체 가공 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9151.00",
+    "english": "Photographic Process Workers and Processing Machine Operators",
+    "korean": "사진 공정 작업자 및 가공 기계 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9161.00",
+    "english": "Computer Numerically Controlled Tool Operators",
+    "korean": "컴퓨터 숫자로 제어되는 툴 오퍼레이터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9162.00",
+    "english": "Computer Numerically Controlled Tool Programmers",
+    "korean": "컴퓨터 숫자로 제어되는 도구 프로그래머",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9191.00",
+    "english": "Adhesive Bonding Machine Operators and Tenders",
+    "korean": "접착제 본딩 기계 조작 및 관리원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9192.00",
+    "english": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+    "korean": "세척 및 금속 산세 장비 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9193.00",
+    "english": "Cooling and Freezing Equipment Operators and Tenders",
+    "korean": "냉각 및 냉동 장비 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9194.00",
+    "english": "Etchers and Engravers",
+    "korean": "식각 및 조각 작업원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9195.00",
+    "english": "Molders, Shapers, and Casters, Except Metal and Plastic",
+    "korean": "금속 및 플라스틱을 제외한 성형기, 셰이퍼 및 캐스터",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9195.03",
+    "english": "Stone Cutters and Carvers, Manufacturing",
+    "korean": "스톤 커터 및 카버, 제조",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9195.04",
+    "english": "Glass Blowers, Molders, Benders, and Finishers",
+    "korean": "유리 송풍기, 성형기, 벤더 및 피니셔",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9195.05",
+    "english": "Potters, Manufacturing",
+    "korean": "도공, 제조업",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9196.00",
+    "english": "Paper Goods Machine Setters, Operators, and Tenders",
+    "korean": "제지 기계 설정·조작 및 관리원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9197.00",
+    "english": "Tire Builders",
+    "korean": "타이어 빌더",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "51-9198.00",
+    "english": "Helpers--Production Workers",
+    "korean": "생산 보조원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "51-9199.00",
+    "english": "Production Workers, All Other",
+    "korean": "생산 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-1041.00",
+    "english": "Aircraft Cargo Handling Supervisors",
+    "korean": "항공기 화물 처리 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-1042.00",
+    "english": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+    "korean": "조력자, 노동자 및 물자 발동기의 일선 감독관, 손",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-1042.01",
+    "english": "Recycling Coordinators",
+    "korean": "재활용 조정자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-1043.00",
+    "english": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+    "korean": "재료 이동 기계 및 차량 운영자의 일선 감독자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-1044.00",
+    "english": "First-Line Supervisors of Passenger Attendants",
+    "korean": "승객의 첫 번째 라인 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-1049.00",
+    "english": "First-Line Supervisors of Transportation Workers, All Other",
+    "korean": "운송 노동자의 첫 번째 라인 관리자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-2011.00",
+    "english": "Airline Pilots, Copilots, and Flight Engineers",
+    "korean": "항공사 조종사, 부기장 및 비행 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-2012.00",
+    "english": "Commercial Pilots",
+    "korean": "상업 조종사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-2021.00",
+    "english": "Air Traffic Controllers",
+    "korean": "항공 교통 관제사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-2022.00",
+    "english": "Airfield Operations Specialists",
+    "korean": "비행장 운영 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-2031.00",
+    "english": "Flight Attendants",
+    "korean": "비행 승무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3011.00",
+    "english": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+    "korean": "응급 의료 기술자를 제외한 구급차 운전자 및 참석자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3031.00",
+    "english": "Driver/Sales Workers",
+    "korean": "운전자/영업직",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3032.00",
+    "english": "Heavy and Tractor-Trailer Truck Drivers",
+    "korean": "무거운 및 트랙터 트레일러 트럭 드라이버",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3033.00",
+    "english": "Light Truck Drivers",
+    "korean": "경트럭 운전사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3051.00",
+    "english": "Bus Drivers, School",
+    "korean": "버스 운전사, 학교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3052.00",
+    "english": "Bus Drivers, Transit and Intercity",
+    "korean": "버스 운전사, 대중 교통 및 도시간",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3053.00",
+    "english": "Shuttle Drivers and Chauffeurs",
+    "korean": "셔틀 드라이버 및 운전 기사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3054.00",
+    "english": "Taxi Drivers",
+    "korean": "택시 운전사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-3099.00",
+    "english": "Motor Vehicle Operators, All Other",
+    "korean": "자동차 운전자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-4011.00",
+    "english": "Locomotive Engineers",
+    "korean": "기관차 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-4013.00",
+    "english": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+    "korean": "철도 조차장 기관사·소형 기관차 조작원 및 기관차 이동원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-4022.00",
+    "english": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+    "korean": "철도 제동·신호 및 선로 전환 조작원과 기관차 화부",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-4031.00",
+    "english": "Railroad Conductors and Yardmasters",
+    "korean": "열차 차장 및 철도 조차장 관리자",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-4041.00",
+    "english": "Subway and Streetcar Operators",
+    "korean": "지하철 및 전차 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-4099.00",
+    "english": "Rail Transportation Workers, All Other",
+    "korean": "철도 운송 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-5011.00",
+    "english": "Sailors and Marine Oilers",
+    "korean": "선원 들 과 해양 석유 회사 들",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-5021.00",
+    "english": "Captains, Mates, and Pilots of Water Vessels",
+    "korean": "선장, 동료, 그리고 물 혈관의 조종사",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-5022.00",
+    "english": "Motorboat Operators",
+    "korean": "모터보트",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-5031.00",
+    "english": "Ship Engineers",
+    "korean": "선박 엔지니어",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6011.00",
+    "english": "Bridge and Lock Tenders",
+    "korean": "교량 및 갑문 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-6021.00",
+    "english": "Parking Attendants",
+    "korean": "주차장 안내",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6031.00",
+    "english": "Automotive and Watercraft Service Attendants",
+    "korean": "자동차 및 선박 서비스 종사원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-6032.00",
+    "english": "Aircraft Service Attendants",
+    "korean": "항공기 서비스 참석자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6041.00",
+    "english": "Traffic Technicians",
+    "korean": "교통 기술자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6051.00",
+    "english": "Transportation Inspectors",
+    "korean": "교통 감독관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6051.01",
+    "english": "Aviation Inspectors",
+    "korean": "항공 검사관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6051.07",
+    "english": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+    "korean": "운송 차량, 장비 및 시스템 검사, 항공 제외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6061.00",
+    "english": "Passenger Attendants",
+    "korean": "승객",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-6099.00",
+    "english": "Transportation Workers, All Other",
+    "korean": "운송 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7011.00",
+    "english": "Conveyor Operators and Tenders",
+    "korean": "컨베이어 조작 및 관리원",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-7021.00",
+    "english": "Crane and Tower Operators",
+    "korean": "크레인 및 타워 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7031.00",
+    "english": "Dredge Operators",
+    "korean": "준설선",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7041.00",
+    "english": "Hoist and Winch Operators",
+    "korean": "호이스트 및 윈치 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7051.00",
+    "english": "Industrial Truck and Tractor Operators",
+    "korean": "산업 트럭 및 트랙터 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7061.00",
+    "english": "Cleaners of Vehicles and Equipment",
+    "korean": "차량 및 장비의 클리너",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7062.00",
+    "english": "Laborers and Freight, Stock, and Material Movers, Hand",
+    "korean": "노동자와 화물, 주식 및 물자 발동기, 손",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7062.04",
+    "english": "Recycling and Reclamation Workers",
+    "korean": "재활용 및 매립 노동자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7063.00",
+    "english": "Machine Feeders and Offbearers",
+    "korean": "기계 피더 및 오프베어러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7064.00",
+    "english": "Packers and Packagers, Hand",
+    "korean": "포장업자와 포장업자의 손",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7065.00",
+    "english": "Stockers and Order Fillers",
+    "korean": "스토커 및 주문 필러",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7071.00",
+    "english": "Gas Compressor and Gas Pumping Station Operators",
+    "korean": "가스 압축기 및 가스 펌핑 스테이션 운영자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7072.00",
+    "english": "Pump Operators, Except Wellhead Pumpers",
+    "korean": "펌프 조작원, 유정 펌프 작업원 제외",
+    "manuallyCorrected": true
+  },
+  {
+    "code": "53-7073.00",
+    "english": "Wellhead Pumpers",
+    "korean": "웰헤드 펌프",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7081.00",
+    "english": "Refuse and Recyclable Material Collectors",
+    "korean": "거부 및 재활용 가능한 재료 수집기",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7121.00",
+    "english": "Tank Car, Truck, and Ship Loaders",
+    "korean": "탱크 자동차, 트럭 및 선박 로더",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "53-7199.00",
+    "english": "Material Moving Workers, All Other",
+    "korean": "재료 이동 노동자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1011.00",
+    "english": "Air Crew Officers",
+    "korean": "항공 승무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1012.00",
+    "english": "Aircraft Launch and Recovery Officers",
+    "korean": "항공기 발사 및 복구 책임자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1013.00",
+    "english": "Armored Assault Vehicle Officers",
+    "korean": "장갑 폭행 차량 장교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1014.00",
+    "english": "Artillery and Missile Officers",
+    "korean": "대포 및 미사일 장교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1015.00",
+    "english": "Command and Control Center Officers",
+    "korean": "명령 및 제어 센터 임원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1016.00",
+    "english": "Infantry Officers",
+    "korean": "보병 장교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1017.00",
+    "english": "Special Forces Officers",
+    "korean": "특수 부대 장교",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-1019.00",
+    "english": "Military Officer Special and Tactical Operations Leaders, All Other",
+    "korean": "군 장교 특수 및 전술 작전 지도자, 그 외",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-2011.00",
+    "english": "First-Line Supervisors of Air Crew Members",
+    "korean": "항공 승무원의 일선 감독관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-2012.00",
+    "english": "First-Line Supervisors of Weapons Specialists/Crew Members",
+    "korean": "무기 전문가/크루 멤버의 첫 번째 라인 관리자",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-2013.00",
+    "english": "First-Line Supervisors of All Other Tactical Operations Specialists",
+    "korean": "그 외 전술작전 전문가의 일선 감독관",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3011.00",
+    "english": "Air Crew Members",
+    "korean": "항공 승무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3012.00",
+    "english": "Aircraft Launch and Recovery Specialists",
+    "korean": "항공기 발사 및 복구 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3013.00",
+    "english": "Armored Assault Vehicle Crew Members",
+    "korean": "장갑 폭행 차량 승무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3014.00",
+    "english": "Artillery and Missile Crew Members",
+    "korean": "대포 및 미사일 승무원",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3015.00",
+    "english": "Command and Control Center Specialists",
+    "korean": "명령 및 제어 센터 전문가",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3016.00",
+    "english": "Infantry",
+    "korean": "보병",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3018.00",
+    "english": "Special Forces",
+    "korean": "특수 부대",
+    "manuallyCorrected": false
+  },
+  {
+    "code": "55-3019.00",
+    "english": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",
+    "korean": "군 입대 전술 작전 및 항공 / 무기 전문가 및 승무원, 기타",
+    "manuallyCorrected": false
+  }
+]

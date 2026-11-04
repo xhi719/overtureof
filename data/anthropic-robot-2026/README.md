@@ -1,0 +1,11 @@
+# Anthropic robot exposure data — source and provenance
+
+Source: Russell Legate-Yang and Maxim Massenkoff, [What work can robots do?](https://www.anthropic.com/research/what-work-can-robots-do), Anthropic, 30 September 2026. [Dataset description and attribution](https://huggingface.co/datasets/Anthropic/EconomicIndex/blob/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/robot_exposure/README.md). Dataset release is **CC BY 4.0**: https://creativecommons.org/licenses/by/4.0/.
+
+Original file: https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/robot_exposure/robot_exposure_occupations.csv. Its SHA-256 is `bdb193200e2cf8f1cf353bbaa6e447ca97da7db2f29c830b0d05601801e7b271` (47,761 bytes, 923 rows).
+
+This release includes information from the O*NET 29.3 Database by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA), used under CC BY 4.0. O*NET® is a trademark of USDOL/ETA. Anthropic modified the underlying information, and USDOL/ETA has not approved, endorsed or tested those modifications. This project additionally transforms the CSV into a JSON lookup and links same-code records across O*NET versions; those transformations are ours, not Anthropic's, and do not change the original numeric values.
+
+The index is on a **0–3 scale**: it averages task exposure levels weighted by estimated task time. It is not a probability, observed adoption, forecast of job displacement, or occupation-specific estimate of cost competitiveness. Across the entire economy the report separately estimates robots are cost-competitive for 0.3% of tasks; that is not a job-specific number. Human review, regulation, environment and cost may limit deployment. The study uses O*NET 29.3; the application stores O*NET 31.0. The lookup records an exact matching code as `same_code_cross_version`, not as an independently validated equivalence across versions. It never maps data to KSCO or ISCO. Missing codes return no observation, not zero.
+
+Reproduce the normalized file with `python etl/normalize-anthropic-robot-2026.py`. The script validates the pinned original SHA-256, exact schema, count, codes and score range; output stores the original string and numeric value without reinterpreting it. Source descriptions and methodology should be rechecked if the release changes.

@@ -1,0 +1,4642 @@
+{
+  "metadata": {
+    "title": "What work can robots do?",
+    "authors": [
+      "Russell Legate-Yang",
+      "Maxim Massenkoff"
+    ],
+    "publisher": "Anthropic",
+    "publishedAt": "2026-09-30",
+    "sourceVersion": "29.3",
+    "measure": "robot_exposure_index",
+    "scale": [
+      0,
+      3
+    ],
+    "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+    "datasetUrl": "https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/robot_exposure/robot_exposure_occupations.csv",
+    "datasetReadmeUrl": "https://huggingface.co/datasets/Anthropic/EconomicIndex/blob/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/robot_exposure/README.md",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceSha256": "bdb193200e2cf8f1cf353bbaa6e447ca97da7db2f29c830b0d05601801e7b271",
+    "revision": "4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6",
+    "count": 923
+  },
+  "occupations": {
+    "11-1011.00": {
+      "title": "Chief Executives",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-1011.03": {
+      "title": "Chief Sustainability Officers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-1021.00": {
+      "title": "General and Operations Managers",
+      "value": 0.033,
+      "raw": "0.033"
+    },
+    "11-1031.00": {
+      "title": "Legislators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-2011.00": {
+      "title": "Advertising and Promotions Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-2021.00": {
+      "title": "Marketing Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-2022.00": {
+      "title": "Sales Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-2032.00": {
+      "title": "Public Relations Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-2033.00": {
+      "title": "Fundraising Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3012.00": {
+      "title": "Administrative Services Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3013.00": {
+      "title": "Facilities Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3013.01": {
+      "title": "Security Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3021.00": {
+      "title": "Computer and Information Systems Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3031.00": {
+      "title": "Financial Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3031.01": {
+      "title": "Treasurers and Controllers",
+      "value": 0.0119,
+      "raw": "0.0119"
+    },
+    "11-3031.03": {
+      "title": "Investment Fund Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3051.00": {
+      "title": "Industrial Production Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3051.01": {
+      "title": "Quality Control Systems Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3051.02": {
+      "title": "Geothermal Production Managers",
+      "value": 0.2174,
+      "raw": "0.2174"
+    },
+    "11-3051.03": {
+      "title": "Biofuels Production Managers",
+      "value": 0.0112,
+      "raw": "0.0112"
+    },
+    "11-3051.04": {
+      "title": "Biomass Power Plant Managers",
+      "value": 0.2222,
+      "raw": "0.2222"
+    },
+    "11-3051.06": {
+      "title": "Hydroelectric Production Managers",
+      "value": 0.1628,
+      "raw": "0.1628"
+    },
+    "11-3061.00": {
+      "title": "Purchasing Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3071.00": {
+      "title": "Transportation, Storage, and Distribution Managers",
+      "value": 0.0652,
+      "raw": "0.0652"
+    },
+    "11-3071.04": {
+      "title": "Supply Chain Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3111.00": {
+      "title": "Compensation and Benefits Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3121.00": {
+      "title": "Human Resources Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-3131.00": {
+      "title": "Training and Development Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9013.00": {
+      "title": "Farmers, Ranchers, and Other Agricultural Managers",
+      "value": 0.6939,
+      "raw": "0.6939"
+    },
+    "11-9021.00": {
+      "title": "Construction Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9031.00": {
+      "title": "Education and Childcare Administrators, Preschool and Daycare",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9032.00": {
+      "title": "Education Administrators, Kindergarten through Secondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9033.00": {
+      "title": "Education Administrators, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9041.00": {
+      "title": "Architectural and Engineering Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9041.01": {
+      "title": "Biofuels/Biodiesel Technology and Product Development Managers",
+      "value": 0.1728,
+      "raw": "0.1728"
+    },
+    "11-9051.00": {
+      "title": "Food Service Managers",
+      "value": 0.3711,
+      "raw": "0.3711"
+    },
+    "11-9071.00": {
+      "title": "Gambling Managers",
+      "value": 0.0465,
+      "raw": "0.0465"
+    },
+    "11-9072.00": {
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "value": 0.2262,
+      "raw": "0.2262"
+    },
+    "11-9081.00": {
+      "title": "Lodging Managers",
+      "value": 0.0538,
+      "raw": "0.0538"
+    },
+    "11-9111.00": {
+      "title": "Medical and Health Services Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9121.00": {
+      "title": "Natural Sciences Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9121.01": {
+      "title": "Clinical Research Coordinators",
+      "value": 0.0625,
+      "raw": "0.0625"
+    },
+    "11-9121.02": {
+      "title": "Water Resource Specialists",
+      "value": 0.1333,
+      "raw": "0.1333"
+    },
+    "11-9131.00": {
+      "title": "Postmasters and Mail Superintendents",
+      "value": 0.069,
+      "raw": "0.069"
+    },
+    "11-9141.00": {
+      "title": "Property, Real Estate, and Community Association Managers",
+      "value": 0.1333,
+      "raw": "0.1333"
+    },
+    "11-9151.00": {
+      "title": "Social and Community Service Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9161.00": {
+      "title": "Emergency Management Directors",
+      "value": 0.0115,
+      "raw": "0.0115"
+    },
+    "11-9171.00": {
+      "title": "Funeral Home Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9179.01": {
+      "title": "Fitness and Wellness Coordinators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9179.02": {
+      "title": "Spa Managers",
+      "value": 0.0235,
+      "raw": "0.0235"
+    },
+    "11-9199.01": {
+      "title": "Regulatory Affairs Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9199.02": {
+      "title": "Compliance Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9199.08": {
+      "title": "Loss Prevention Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9199.09": {
+      "title": "Wind Energy Operations Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9199.10": {
+      "title": "Wind Energy Development Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "11-9199.11": {
+      "title": "Brownfield Redevelopment Specialists and Site Managers",
+      "value": 0.1205,
+      "raw": "0.1205"
+    },
+    "13-1011.00": {
+      "title": "Agents and Business Managers of Artists, Performers, and Athletes",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1021.00": {
+      "title": "Buyers and Purchasing Agents, Farm Products",
+      "value": 0.1778,
+      "raw": "0.1778"
+    },
+    "13-1022.00": {
+      "title": "Wholesale and Retail Buyers, Except Farm Products",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1023.00": {
+      "title": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1031.00": {
+      "title": "Claims Adjusters, Examiners, and Investigators",
+      "value": 0.1,
+      "raw": "0.1"
+    },
+    "13-1032.00": {
+      "title": "Insurance Appraisers, Auto Damage",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1041.00": {
+      "title": "Compliance Officers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1041.01": {
+      "title": "Environmental Compliance Inspectors",
+      "value": 0.2692,
+      "raw": "0.2692"
+    },
+    "13-1041.03": {
+      "title": "Equal Opportunity Representatives and Officers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1041.04": {
+      "title": "Government Property Inspectors and Investigators",
+      "value": 0.5132,
+      "raw": "0.5132"
+    },
+    "13-1041.06": {
+      "title": "Coroners",
+      "value": 0.0341,
+      "raw": "0.0341"
+    },
+    "13-1041.07": {
+      "title": "Regulatory Affairs Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1041.08": {
+      "title": "Customs Brokers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1051.00": {
+      "title": "Cost Estimators",
+      "value": 0.0723,
+      "raw": "0.0723"
+    },
+    "13-1071.00": {
+      "title": "Human Resources Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1074.00": {
+      "title": "Farm Labor Contractors",
+      "value": 0.4545,
+      "raw": "0.4545"
+    },
+    "13-1075.00": {
+      "title": "Labor Relations Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1081.00": {
+      "title": "Logisticians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1081.01": {
+      "title": "Logistics Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1081.02": {
+      "title": "Logistics Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1082.00": {
+      "title": "Project Management Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1111.00": {
+      "title": "Management Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1121.00": {
+      "title": "Meeting, Convention, and Event Planners",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1131.00": {
+      "title": "Fundraisers",
+      "value": 0.012,
+      "raw": "0.012"
+    },
+    "13-1141.00": {
+      "title": "Compensation, Benefits, and Job Analysis Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1151.00": {
+      "title": "Training and Development Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1161.00": {
+      "title": "Market Research Analysts and Marketing Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1161.01": {
+      "title": "Search Marketing Strategists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1199.04": {
+      "title": "Business Continuity Planners",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1199.05": {
+      "title": "Sustainability Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-1199.06": {
+      "title": "Online Merchants",
+      "value": 0.2069,
+      "raw": "0.2069"
+    },
+    "13-1199.07": {
+      "title": "Security Management Specialists",
+      "value": 0.0513,
+      "raw": "0.0513"
+    },
+    "13-2011.00": {
+      "title": "Accountants and Auditors",
+      "value": 0.0241,
+      "raw": "0.0241"
+    },
+    "13-2022.00": {
+      "title": "Appraisers of Personal and Business Property",
+      "value": 0.1667,
+      "raw": "0.1667"
+    },
+    "13-2023.00": {
+      "title": "Appraisers and Assessors of Real Estate",
+      "value": 0.0886,
+      "raw": "0.0886"
+    },
+    "13-2031.00": {
+      "title": "Budget Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2041.00": {
+      "title": "Credit Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2051.00": {
+      "title": "Financial and Investment Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2052.00": {
+      "title": "Personal Financial Advisors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2053.00": {
+      "title": "Insurance Underwriters",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2054.00": {
+      "title": "Financial Risk Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2061.00": {
+      "title": "Financial Examiners",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2071.00": {
+      "title": "Credit Counselors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2072.00": {
+      "title": "Loan Officers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2081.00": {
+      "title": "Tax Examiners and Collectors, and Revenue Agents",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2082.00": {
+      "title": "Tax Preparers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2099.01": {
+      "title": "Financial Quantitative Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "13-2099.04": {
+      "title": "Fraud Examiners, Investigators and Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1211.00": {
+      "title": "Computer Systems Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1211.01": {
+      "title": "Health Informatics Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1212.00": {
+      "title": "Information Security Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1221.00": {
+      "title": "Computer and Information Research Scientists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1231.00": {
+      "title": "Computer Network Support Specialists",
+      "value": 0.1235,
+      "raw": "0.1235"
+    },
+    "15-1232.00": {
+      "title": "Computer User Support Specialists",
+      "value": 0.1842,
+      "raw": "0.1842"
+    },
+    "15-1241.00": {
+      "title": "Computer Network Architects",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1241.01": {
+      "title": "Telecommunications Engineering Specialists",
+      "value": 0.0732,
+      "raw": "0.0732"
+    },
+    "15-1242.00": {
+      "title": "Database Administrators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1243.00": {
+      "title": "Database Architects",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1243.01": {
+      "title": "Data Warehousing Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1244.00": {
+      "title": "Network and Computer Systems Administrators",
+      "value": 0.0366,
+      "raw": "0.0366"
+    },
+    "15-1251.00": {
+      "title": "Computer Programmers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1252.00": {
+      "title": "Software Developers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1253.00": {
+      "title": "Software Quality Assurance Analysts and Testers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1254.00": {
+      "title": "Web Developers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1255.00": {
+      "title": "Web and Digital Interface Designers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1255.01": {
+      "title": "Video Game Designers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.01": {
+      "title": "Web Administrators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.02": {
+      "title": "Geographic Information Systems Technologists and Technicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.03": {
+      "title": "Document Management Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.04": {
+      "title": "Penetration Testers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.05": {
+      "title": "Information Security Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.06": {
+      "title": "Digital Forensics Analysts",
+      "value": 0.0875,
+      "raw": "0.0875"
+    },
+    "15-1299.07": {
+      "title": "Blockchain Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-1299.08": {
+      "title": "Computer Systems Engineers/Architects",
+      "value": 0.0366,
+      "raw": "0.0366"
+    },
+    "15-1299.09": {
+      "title": "Information Technology Project Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2011.00": {
+      "title": "Actuaries",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2021.00": {
+      "title": "Mathematicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2031.00": {
+      "title": "Operations Research Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2041.00": {
+      "title": "Statisticians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2041.01": {
+      "title": "Biostatisticians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2051.00": {
+      "title": "Data Scientists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2051.01": {
+      "title": "Business Intelligence Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2051.02": {
+      "title": "Clinical Data Managers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "15-2099.01": {
+      "title": "Bioinformatics Technicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-1011.00": {
+      "title": "Architects, Except Landscape and Naval",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-1012.00": {
+      "title": "Landscape Architects",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-1021.00": {
+      "title": "Cartographers and Photogrammetrists",
+      "value": 0.0405,
+      "raw": "0.0405"
+    },
+    "17-1022.00": {
+      "title": "Surveyors",
+      "value": 0.1707,
+      "raw": "0.1707"
+    },
+    "17-1022.01": {
+      "title": "Geodetic Surveyors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2011.00": {
+      "title": "Aerospace Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2021.00": {
+      "title": "Agricultural Engineers",
+      "value": 0.3038,
+      "raw": "0.3038"
+    },
+    "17-2031.00": {
+      "title": "Bioengineers and Biomedical Engineers",
+      "value": 0.0976,
+      "raw": "0.0976"
+    },
+    "17-2041.00": {
+      "title": "Chemical Engineers",
+      "value": 0.0658,
+      "raw": "0.0658"
+    },
+    "17-2051.00": {
+      "title": "Civil Engineers",
+      "value": 0.2892,
+      "raw": "0.2892"
+    },
+    "17-2051.01": {
+      "title": "Transportation Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2051.02": {
+      "title": "Water/Wastewater Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2061.00": {
+      "title": "Computer Hardware Engineers",
+      "value": 0.2658,
+      "raw": "0.2658"
+    },
+    "17-2071.00": {
+      "title": "Electrical Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2072.00": {
+      "title": "Electronics Engineers, Except Computer",
+      "value": 0.0976,
+      "raw": "0.0976"
+    },
+    "17-2072.01": {
+      "title": "Radio Frequency Identification Device Specialists",
+      "value": 0.026,
+      "raw": "0.026"
+    },
+    "17-2081.00": {
+      "title": "Environmental Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2111.00": {
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "value": 0.1707,
+      "raw": "0.1707"
+    },
+    "17-2111.02": {
+      "title": "Fire-Prevention and Protection Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2112.00": {
+      "title": "Industrial Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2112.01": {
+      "title": "Human Factors Engineers and Ergonomists",
+      "value": 0.1026,
+      "raw": "0.1026"
+    },
+    "17-2112.02": {
+      "title": "Validation Engineers",
+      "value": 0.1829,
+      "raw": "0.1829"
+    },
+    "17-2112.03": {
+      "title": "Manufacturing Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2121.00": {
+      "title": "Marine Engineers and Naval Architects",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2131.00": {
+      "title": "Materials Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2141.00": {
+      "title": "Mechanical Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2141.01": {
+      "title": "Fuel Cell Engineers",
+      "value": 0.2469,
+      "raw": "0.2469"
+    },
+    "17-2141.02": {
+      "title": "Automotive Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2151.00": {
+      "title": "Mining and Geological Engineers, Including Mining Safety Engineers",
+      "value": 0.2353,
+      "raw": "0.2353"
+    },
+    "17-2161.00": {
+      "title": "Nuclear Engineers",
+      "value": 0.0375,
+      "raw": "0.0375"
+    },
+    "17-2171.00": {
+      "title": "Petroleum Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2199.03": {
+      "title": "Energy Engineers, Except Wind and Solar",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-2199.05": {
+      "title": "Mechatronics Engineers",
+      "value": 0.0519,
+      "raw": "0.0519"
+    },
+    "17-2199.06": {
+      "title": "Microsystems Engineers",
+      "value": 0.1494,
+      "raw": "0.1494"
+    },
+    "17-2199.07": {
+      "title": "Photonics Engineers",
+      "value": 0.381,
+      "raw": "0.381"
+    },
+    "17-2199.08": {
+      "title": "Robotics Engineers",
+      "value": 0.0123,
+      "raw": "0.0123"
+    },
+    "17-2199.09": {
+      "title": "Nanosystems Engineers",
+      "value": 0.5412,
+      "raw": "0.5412"
+    },
+    "17-2199.10": {
+      "title": "Wind Energy Engineers",
+      "value": 0.037,
+      "raw": "0.037"
+    },
+    "17-2199.11": {
+      "title": "Solar Energy Systems Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "17-3011.00": {
+      "title": "Architectural and Civil Drafters",
+      "value": 0.1316,
+      "raw": "0.1316"
+    },
+    "17-3012.00": {
+      "title": "Electrical and Electronics Drafters",
+      "value": 0.039,
+      "raw": "0.039"
+    },
+    "17-3013.00": {
+      "title": "Mechanical Drafters",
+      "value": 0.0132,
+      "raw": "0.0132"
+    },
+    "17-3021.00": {
+      "title": "Aerospace Engineering and Operations Technologists and Technicians",
+      "value": 0.359,
+      "raw": "0.359"
+    },
+    "17-3022.00": {
+      "title": "Civil Engineering Technologists and Technicians",
+      "value": 0.1975,
+      "raw": "0.1975"
+    },
+    "17-3023.00": {
+      "title": "Electrical and Electronic Engineering Technologists and Technicians",
+      "value": 0.3333,
+      "raw": "0.3333"
+    },
+    "17-3024.00": {
+      "title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "value": 0.4079,
+      "raw": "0.4079"
+    },
+    "17-3024.01": {
+      "title": "Robotics Technicians",
+      "value": 0.15,
+      "raw": "0.15"
+    },
+    "17-3025.00": {
+      "title": "Environmental Engineering Technologists and Technicians",
+      "value": 0.4359,
+      "raw": "0.4359"
+    },
+    "17-3026.00": {
+      "title": "Industrial Engineering Technologists and Technicians",
+      "value": 0.2763,
+      "raw": "0.2763"
+    },
+    "17-3026.01": {
+      "title": "Nanotechnology Engineering Technologists and Technicians",
+      "value": 1.1184,
+      "raw": "1.1184"
+    },
+    "17-3027.00": {
+      "title": "Mechanical Engineering Technologists and Technicians",
+      "value": 0.3289,
+      "raw": "0.3289"
+    },
+    "17-3027.01": {
+      "title": "Automotive Engineering Technicians",
+      "value": 0.321,
+      "raw": "0.321"
+    },
+    "17-3028.00": {
+      "title": "Calibration Technologists and Technicians",
+      "value": 0.5714,
+      "raw": "0.5714"
+    },
+    "17-3029.01": {
+      "title": "Non-Destructive Testing Specialists",
+      "value": 0.7326,
+      "raw": "0.7326"
+    },
+    "17-3029.08": {
+      "title": "Photonics Technicians",
+      "value": 0.8,
+      "raw": "0.8"
+    },
+    "17-3031.00": {
+      "title": "Surveying and Mapping Technicians",
+      "value": 0.557,
+      "raw": "0.557"
+    },
+    "19-1011.00": {
+      "title": "Animal Scientists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-1012.00": {
+      "title": "Food Scientists and Technologists",
+      "value": 0.3625,
+      "raw": "0.3625"
+    },
+    "19-1013.00": {
+      "title": "Soil and Plant Scientists",
+      "value": 0.1408,
+      "raw": "0.1408"
+    },
+    "19-1021.00": {
+      "title": "Biochemists and Biophysicists",
+      "value": 0.5667,
+      "raw": "0.5667"
+    },
+    "19-1022.00": {
+      "title": "Microbiologists",
+      "value": 0.8267,
+      "raw": "0.8267"
+    },
+    "19-1023.00": {
+      "title": "Zoologists and Wildlife Biologists",
+      "value": 0.037,
+      "raw": "0.037"
+    },
+    "19-1029.01": {
+      "title": "Bioinformatics Scientists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-1029.02": {
+      "title": "Molecular and Cellular Biologists",
+      "value": 0.3696,
+      "raw": "0.3696"
+    },
+    "19-1029.03": {
+      "title": "Geneticists",
+      "value": 0.1868,
+      "raw": "0.1868"
+    },
+    "19-1029.04": {
+      "title": "Biologists",
+      "value": 0.4815,
+      "raw": "0.4815"
+    },
+    "19-1031.00": {
+      "title": "Conservation Scientists",
+      "value": 0.0759,
+      "raw": "0.0759"
+    },
+    "19-1031.02": {
+      "title": "Range Managers",
+      "value": 0.0811,
+      "raw": "0.0811"
+    },
+    "19-1031.03": {
+      "title": "Park Naturalists",
+      "value": 0.0541,
+      "raw": "0.0541"
+    },
+    "19-1032.00": {
+      "title": "Foresters",
+      "value": 0.5455,
+      "raw": "0.5455"
+    },
+    "19-1041.00": {
+      "title": "Epidemiologists",
+      "value": 0.013,
+      "raw": "0.013"
+    },
+    "19-1042.00": {
+      "title": "Medical Scientists, Except Epidemiologists",
+      "value": 0.369,
+      "raw": "0.369"
+    },
+    "19-2011.00": {
+      "title": "Astronomers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-2012.00": {
+      "title": "Physicists",
+      "value": 0.1163,
+      "raw": "0.1163"
+    },
+    "19-2021.00": {
+      "title": "Atmospheric and Space Scientists",
+      "value": 0.025,
+      "raw": "0.025"
+    },
+    "19-2031.00": {
+      "title": "Chemists",
+      "value": 0.9518,
+      "raw": "0.9518"
+    },
+    "19-2032.00": {
+      "title": "Materials Scientists",
+      "value": 0.4146,
+      "raw": "0.4146"
+    },
+    "19-2041.00": {
+      "title": "Environmental Scientists and Specialists, Including Health",
+      "value": 0.2099,
+      "raw": "0.2099"
+    },
+    "19-2041.01": {
+      "title": "Climate Change Policy Analysts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-2041.02": {
+      "title": "Environmental Restoration Planners",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-2041.03": {
+      "title": "Industrial Ecologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-2042.00": {
+      "title": "Geoscientists, Except Hydrologists and Geographers",
+      "value": 0.1169,
+      "raw": "0.1169"
+    },
+    "19-2043.00": {
+      "title": "Hydrologists",
+      "value": 0.141,
+      "raw": "0.141"
+    },
+    "19-2099.01": {
+      "title": "Remote Sensing Scientists and Technologists",
+      "value": 0.0706,
+      "raw": "0.0706"
+    },
+    "19-3011.00": {
+      "title": "Economists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3011.01": {
+      "title": "Environmental Economists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3022.00": {
+      "title": "Survey Researchers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3032.00": {
+      "title": "Industrial-Organizational Psychologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3033.00": {
+      "title": "Clinical and Counseling Psychologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3034.00": {
+      "title": "School Psychologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3039.02": {
+      "title": "Neuropsychologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3039.03": {
+      "title": "Clinical Neuropsychologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3041.00": {
+      "title": "Sociologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3051.00": {
+      "title": "Urban and Regional Planners",
+      "value": 0.0759,
+      "raw": "0.0759"
+    },
+    "19-3091.00": {
+      "title": "Anthropologists and Archeologists",
+      "value": 0.1622,
+      "raw": "0.1622"
+    },
+    "19-3092.00": {
+      "title": "Geographers",
+      "value": 0.0759,
+      "raw": "0.0759"
+    },
+    "19-3093.00": {
+      "title": "Historians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3094.00": {
+      "title": "Political Scientists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-3099.01": {
+      "title": "Transportation Planners",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-4012.00": {
+      "title": "Agricultural Technicians",
+      "value": 0.974,
+      "raw": "0.974"
+    },
+    "19-4012.01": {
+      "title": "Precision Agriculture Technicians",
+      "value": 0.3529,
+      "raw": "0.3529"
+    },
+    "19-4013.00": {
+      "title": "Food Science Technicians",
+      "value": 0.7051,
+      "raw": "0.7051"
+    },
+    "19-4021.00": {
+      "title": "Biological Technicians",
+      "value": 1.0769,
+      "raw": "1.0769"
+    },
+    "19-4031.00": {
+      "title": "Chemical Technicians",
+      "value": 0.987,
+      "raw": "0.987"
+    },
+    "19-4042.00": {
+      "title": "Environmental Science and Protection Technicians, Including Health",
+      "value": 0.6053,
+      "raw": "0.6053"
+    },
+    "19-4043.00": {
+      "title": "Geological Technicians, Except Hydrologic Technicians",
+      "value": 0.5529,
+      "raw": "0.5529"
+    },
+    "19-4044.00": {
+      "title": "Hydrologic Technicians",
+      "value": 0.7778,
+      "raw": "0.7778"
+    },
+    "19-4051.00": {
+      "title": "Nuclear Technicians",
+      "value": 0.8734,
+      "raw": "0.8734"
+    },
+    "19-4051.02": {
+      "title": "Nuclear Monitoring Technicians",
+      "value": 0.7901,
+      "raw": "0.7901"
+    },
+    "19-4061.00": {
+      "title": "Social Science Research Assistants",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "19-4071.00": {
+      "title": "Forest and Conservation Technicians",
+      "value": 0.2564,
+      "raw": "0.2564"
+    },
+    "19-4092.00": {
+      "title": "Forensic Science Technicians",
+      "value": 0.381,
+      "raw": "0.381"
+    },
+    "19-4099.01": {
+      "title": "Quality Control Analysts",
+      "value": 0.4675,
+      "raw": "0.4675"
+    },
+    "19-4099.03": {
+      "title": "Remote Sensing Technicians",
+      "value": 0.4805,
+      "raw": "0.4805"
+    },
+    "19-5011.00": {
+      "title": "Occupational Health and Safety Specialists",
+      "value": 0.3974,
+      "raw": "0.3974"
+    },
+    "19-5012.00": {
+      "title": "Occupational Health and Safety Technicians",
+      "value": 0.4,
+      "raw": "0.4"
+    },
+    "21-1011.00": {
+      "title": "Substance Abuse and Behavioral Disorder Counselors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1012.00": {
+      "title": "Educational, Guidance, and Career Counselors and Advisors",
+      "value": 0.0256,
+      "raw": "0.0256"
+    },
+    "21-1013.00": {
+      "title": "Marriage and Family Therapists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1014.00": {
+      "title": "Mental Health Counselors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1015.00": {
+      "title": "Rehabilitation Counselors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1021.00": {
+      "title": "Child, Family, and School Social Workers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1022.00": {
+      "title": "Healthcare Social Workers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1023.00": {
+      "title": "Mental Health and Substance Abuse Social Workers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1091.00": {
+      "title": "Health Education Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1092.00": {
+      "title": "Probation Officers and Correctional Treatment Specialists",
+      "value": 0.0488,
+      "raw": "0.0488"
+    },
+    "21-1093.00": {
+      "title": "Social and Human Service Assistants",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-1094.00": {
+      "title": "Community Health Workers",
+      "value": 0.2083,
+      "raw": "0.2083"
+    },
+    "21-2011.00": {
+      "title": "Clergy",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "21-2021.00": {
+      "title": "Directors, Religious Activities and Education",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "23-1011.00": {
+      "title": "Lawyers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "23-1012.00": {
+      "title": "Judicial Law Clerks",
+      "value": 0.0108,
+      "raw": "0.0108"
+    },
+    "23-1021.00": {
+      "title": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "23-1022.00": {
+      "title": "Arbitrators, Mediators, and Conciliators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "23-1023.00": {
+      "title": "Judges, Magistrate Judges, and Magistrates",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "23-2011.00": {
+      "title": "Paralegals and Legal Assistants",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "23-2093.00": {
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1011.00": {
+      "title": "Business Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1021.00": {
+      "title": "Computer Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1022.00": {
+      "title": "Mathematical Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1031.00": {
+      "title": "Architecture Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1032.00": {
+      "title": "Engineering Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1041.00": {
+      "title": "Agricultural Sciences Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1042.00": {
+      "title": "Biological Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1043.00": {
+      "title": "Forestry and Conservation Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1051.00": {
+      "title": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1052.00": {
+      "title": "Chemistry Teachers, Postsecondary",
+      "value": 0.0303,
+      "raw": "0.0303"
+    },
+    "25-1053.00": {
+      "title": "Environmental Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1054.00": {
+      "title": "Physics Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1061.00": {
+      "title": "Anthropology and Archeology Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1062.00": {
+      "title": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1063.00": {
+      "title": "Economics Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1064.00": {
+      "title": "Geography Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1065.00": {
+      "title": "Political Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1066.00": {
+      "title": "Psychology Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1067.00": {
+      "title": "Sociology Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1071.00": {
+      "title": "Health Specialties Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1072.00": {
+      "title": "Nursing Instructors and Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1081.00": {
+      "title": "Education Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1082.00": {
+      "title": "Library Science Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1111.00": {
+      "title": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1112.00": {
+      "title": "Law Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1113.00": {
+      "title": "Social Work Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1121.00": {
+      "title": "Art, Drama, and Music Teachers, Postsecondary",
+      "value": 0.0116,
+      "raw": "0.0116"
+    },
+    "25-1122.00": {
+      "title": "Communications Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1123.00": {
+      "title": "English Language and Literature Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1124.00": {
+      "title": "Foreign Language and Literature Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1125.00": {
+      "title": "History Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1126.00": {
+      "title": "Philosophy and Religion Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1192.00": {
+      "title": "Family and Consumer Sciences Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1193.00": {
+      "title": "Recreation and Fitness Studies Teachers, Postsecondary",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-1194.00": {
+      "title": "Career/Technical Education Teachers, Postsecondary",
+      "value": 0.0256,
+      "raw": "0.0256"
+    },
+    "25-2011.00": {
+      "title": "Preschool Teachers, Except Special Education",
+      "value": 0.1781,
+      "raw": "0.1781"
+    },
+    "25-2012.00": {
+      "title": "Kindergarten Teachers, Except Special Education",
+      "value": 0.1348,
+      "raw": "0.1348"
+    },
+    "25-2021.00": {
+      "title": "Elementary School Teachers, Except Special Education",
+      "value": 0.087,
+      "raw": "0.087"
+    },
+    "25-2022.00": {
+      "title": "Middle School Teachers, Except Special and Career/Technical Education",
+      "value": 0.0674,
+      "raw": "0.0674"
+    },
+    "25-2023.00": {
+      "title": "Career/Technical Education Teachers, Middle School",
+      "value": 0.0761,
+      "raw": "0.0761"
+    },
+    "25-2031.00": {
+      "title": "Secondary School Teachers, Except Special and Career/Technical Education",
+      "value": 0.0714,
+      "raw": "0.0714"
+    },
+    "25-2032.00": {
+      "title": "Career/Technical Education Teachers, Secondary School",
+      "value": 0.0238,
+      "raw": "0.0238"
+    },
+    "25-2051.00": {
+      "title": "Special Education Teachers, Preschool",
+      "value": 0.0854,
+      "raw": "0.0854"
+    },
+    "25-2055.00": {
+      "title": "Special Education Teachers, Kindergarten",
+      "value": 0.0562,
+      "raw": "0.0562"
+    },
+    "25-2056.00": {
+      "title": "Special Education Teachers, Elementary School",
+      "value": 0.023,
+      "raw": "0.023"
+    },
+    "25-2057.00": {
+      "title": "Special Education Teachers, Middle School",
+      "value": 0.0556,
+      "raw": "0.0556"
+    },
+    "25-2058.00": {
+      "title": "Special Education Teachers, Secondary School",
+      "value": 0.0337,
+      "raw": "0.0337"
+    },
+    "25-2059.01": {
+      "title": "Adapted Physical Education Specialists",
+      "value": 0.0128,
+      "raw": "0.0128"
+    },
+    "25-3011.00": {
+      "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+      "value": 0.0635,
+      "raw": "0.0635"
+    },
+    "25-3021.00": {
+      "title": "Self-Enrichment Teachers",
+      "value": 0.0702,
+      "raw": "0.0702"
+    },
+    "25-3031.00": {
+      "title": "Substitute Teachers, Short-Term",
+      "value": 0.1458,
+      "raw": "0.1458"
+    },
+    "25-3041.00": {
+      "title": "Tutors",
+      "value": 0.0392,
+      "raw": "0.0392"
+    },
+    "25-4011.00": {
+      "title": "Archivists",
+      "value": 0.0779,
+      "raw": "0.0779"
+    },
+    "25-4012.00": {
+      "title": "Curators",
+      "value": 0.0732,
+      "raw": "0.0732"
+    },
+    "25-4013.00": {
+      "title": "Museum Technicians and Conservators",
+      "value": 0.1351,
+      "raw": "0.1351"
+    },
+    "25-4022.00": {
+      "title": "Librarians and Media Collections Specialists",
+      "value": 0.0526,
+      "raw": "0.0526"
+    },
+    "25-4031.00": {
+      "title": "Library Technicians",
+      "value": 0.4706,
+      "raw": "0.4706"
+    },
+    "25-9021.00": {
+      "title": "Farm and Home Management Educators",
+      "value": 0.08,
+      "raw": "0.08"
+    },
+    "25-9031.00": {
+      "title": "Instructional Coordinators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "25-9042.00": {
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "value": 0.2273,
+      "raw": "0.2273"
+    },
+    "25-9043.00": {
+      "title": "Teaching Assistants, Special Education",
+      "value": 0.1029,
+      "raw": "0.1029"
+    },
+    "25-9044.00": {
+      "title": "Teaching Assistants, Postsecondary",
+      "value": 0.1026,
+      "raw": "0.1026"
+    },
+    "27-1011.00": {
+      "title": "Art Directors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-1012.00": {
+      "title": "Craft Artists",
+      "value": 0.6267,
+      "raw": "0.6267"
+    },
+    "27-1013.00": {
+      "title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+      "value": 0.6164,
+      "raw": "0.6164"
+    },
+    "27-1014.00": {
+      "title": "Special Effects Artists and Animators",
+      "value": 0.025,
+      "raw": "0.025"
+    },
+    "27-1021.00": {
+      "title": "Commercial and Industrial Designers",
+      "value": 0.0366,
+      "raw": "0.0366"
+    },
+    "27-1022.00": {
+      "title": "Fashion Designers",
+      "value": 0.0494,
+      "raw": "0.0494"
+    },
+    "27-1023.00": {
+      "title": "Floral Designers",
+      "value": 0.3514,
+      "raw": "0.3514"
+    },
+    "27-1024.00": {
+      "title": "Graphic Designers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-1025.00": {
+      "title": "Interior Designers",
+      "value": 0.0533,
+      "raw": "0.0533"
+    },
+    "27-1026.00": {
+      "title": "Merchandise Displayers and Window Trimmers",
+      "value": 0.3151,
+      "raw": "0.3151"
+    },
+    "27-1027.00": {
+      "title": "Set and Exhibit Designers",
+      "value": 0.0366,
+      "raw": "0.0366"
+    },
+    "27-2011.00": {
+      "title": "Actors",
+      "value": 0.0484,
+      "raw": "0.0484"
+    },
+    "27-2012.00": {
+      "title": "Producers and Directors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2012.03": {
+      "title": "Media Programming Directors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2012.04": {
+      "title": "Talent Directors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2012.05": {
+      "title": "Media Technical Directors/Managers",
+      "value": 0.1299,
+      "raw": "0.1299"
+    },
+    "27-2021.00": {
+      "title": "Athletes and Sports Competitors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2022.00": {
+      "title": "Coaches and Scouts",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2023.00": {
+      "title": "Umpires, Referees, and Other Sports Officials",
+      "value": 0.0571,
+      "raw": "0.0571"
+    },
+    "27-2031.00": {
+      "title": "Dancers",
+      "value": 0.0563,
+      "raw": "0.0563"
+    },
+    "27-2032.00": {
+      "title": "Choreographers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2041.00": {
+      "title": "Music Directors and Composers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-2042.00": {
+      "title": "Musicians and Singers",
+      "value": 0.1852,
+      "raw": "0.1852"
+    },
+    "27-2091.00": {
+      "title": "Disc Jockeys, Except Radio",
+      "value": 0.1833,
+      "raw": "0.1833"
+    },
+    "27-3011.00": {
+      "title": "Broadcast Announcers and Radio Disc Jockeys",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3023.00": {
+      "title": "News Analysts, Reporters, and Journalists",
+      "value": 0.0723,
+      "raw": "0.0723"
+    },
+    "27-3031.00": {
+      "title": "Public Relations Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3041.00": {
+      "title": "Editors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3042.00": {
+      "title": "Technical Writers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3043.00": {
+      "title": "Writers and Authors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3043.05": {
+      "title": "Poets, Lyricists and Creative Writers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3091.00": {
+      "title": "Interpreters and Translators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "27-3092.00": {
+      "title": "Court Reporters and Simultaneous Captioners",
+      "value": 0.0253,
+      "raw": "0.0253"
+    },
+    "27-4011.00": {
+      "title": "Audio and Video Technicians",
+      "value": 0.037,
+      "raw": "0.037"
+    },
+    "27-4012.00": {
+      "title": "Broadcast Technicians",
+      "value": 0.0854,
+      "raw": "0.0854"
+    },
+    "27-4014.00": {
+      "title": "Sound Engineering Technicians",
+      "value": 0.2597,
+      "raw": "0.2597"
+    },
+    "27-4015.00": {
+      "title": "Lighting Technicians",
+      "value": 0.5422,
+      "raw": "0.5422"
+    },
+    "27-4021.00": {
+      "title": "Photographers",
+      "value": 0.2027,
+      "raw": "0.2027"
+    },
+    "27-4031.00": {
+      "title": "Camera Operators, Television, Video, and Film",
+      "value": 0.5309,
+      "raw": "0.5309"
+    },
+    "27-4032.00": {
+      "title": "Film and Video Editors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1011.00": {
+      "title": "Chiropractors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1021.00": {
+      "title": "Dentists, General",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1022.00": {
+      "title": "Oral and Maxillofacial Surgeons",
+      "value": 0.013,
+      "raw": "0.013"
+    },
+    "29-1023.00": {
+      "title": "Orthodontists",
+      "value": 0.04,
+      "raw": "0.04"
+    },
+    "29-1024.00": {
+      "title": "Prosthodontists",
+      "value": 0.0845,
+      "raw": "0.0845"
+    },
+    "29-1031.00": {
+      "title": "Dietitians and Nutritionists",
+      "value": 0.0779,
+      "raw": "0.0779"
+    },
+    "29-1041.00": {
+      "title": "Optometrists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1051.00": {
+      "title": "Pharmacists",
+      "value": 0.3125,
+      "raw": "0.3125"
+    },
+    "29-1071.00": {
+      "title": "Physician Assistants",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1071.01": {
+      "title": "Anesthesiologist Assistants",
+      "value": 0.6742,
+      "raw": "0.6742"
+    },
+    "29-1081.00": {
+      "title": "Podiatrists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1122.00": {
+      "title": "Occupational Therapists",
+      "value": 0.1039,
+      "raw": "0.1039"
+    },
+    "29-1122.01": {
+      "title": "Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1123.00": {
+      "title": "Physical Therapists",
+      "value": 0.1067,
+      "raw": "0.1067"
+    },
+    "29-1124.00": {
+      "title": "Radiation Therapists",
+      "value": 0.6456,
+      "raw": "0.6456"
+    },
+    "29-1125.00": {
+      "title": "Recreational Therapists",
+      "value": 0.3077,
+      "raw": "0.3077"
+    },
+    "29-1126.00": {
+      "title": "Respiratory Therapists",
+      "value": 0.1081,
+      "raw": "0.1081"
+    },
+    "29-1127.00": {
+      "title": "Speech-Language Pathologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1128.00": {
+      "title": "Exercise Physiologists",
+      "value": 0.0417,
+      "raw": "0.0417"
+    },
+    "29-1129.01": {
+      "title": "Art Therapists",
+      "value": 0.0556,
+      "raw": "0.0556"
+    },
+    "29-1129.02": {
+      "title": "Music Therapists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1131.00": {
+      "title": "Veterinarians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1141.00": {
+      "title": "Registered Nurses",
+      "value": 0.0137,
+      "raw": "0.0137"
+    },
+    "29-1141.01": {
+      "title": "Acute Care Nurses",
+      "value": 0.026,
+      "raw": "0.026"
+    },
+    "29-1141.02": {
+      "title": "Advanced Practice Psychiatric Nurses",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1141.03": {
+      "title": "Critical Care Nurses",
+      "value": 0.0137,
+      "raw": "0.0137"
+    },
+    "29-1141.04": {
+      "title": "Clinical Nurse Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1151.00": {
+      "title": "Nurse Anesthetists",
+      "value": 0.1786,
+      "raw": "0.1786"
+    },
+    "29-1161.00": {
+      "title": "Nurse Midwives",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1171.00": {
+      "title": "Nurse Practitioners",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1181.00": {
+      "title": "Audiologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1211.00": {
+      "title": "Anesthesiologists",
+      "value": 0.2385,
+      "raw": "0.2385"
+    },
+    "29-1212.00": {
+      "title": "Cardiologists",
+      "value": 0.0288,
+      "raw": "0.0288"
+    },
+    "29-1213.00": {
+      "title": "Dermatologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1214.00": {
+      "title": "Emergency Medicine Physicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1215.00": {
+      "title": "Family Medicine Physicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1216.00": {
+      "title": "General Internal Medicine Physicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1217.00": {
+      "title": "Neurologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1218.00": {
+      "title": "Obstetricians and Gynecologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1221.00": {
+      "title": "Pediatricians, General",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1222.00": {
+      "title": "Physicians, Pathologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1223.00": {
+      "title": "Psychiatrists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1224.00": {
+      "title": "Radiologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1229.01": {
+      "title": "Allergists and Immunologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1229.02": {
+      "title": "Hospitalists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1229.03": {
+      "title": "Urologists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1229.04": {
+      "title": "Physical Medicine and Rehabilitation Physicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1229.05": {
+      "title": "Preventive Medicine Physicians",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1229.06": {
+      "title": "Sports Medicine Physicians",
+      "value": 0.01,
+      "raw": "0.01"
+    },
+    "29-1241.00": {
+      "title": "Ophthalmologists, Except Pediatric",
+      "value": 0.0303,
+      "raw": "0.0303"
+    },
+    "29-1242.00": {
+      "title": "Orthopedic Surgeons, Except Pediatric",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1243.00": {
+      "title": "Pediatric Surgeons",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-1291.00": {
+      "title": "Acupuncturists",
+      "value": 0.3906,
+      "raw": "0.3906"
+    },
+    "29-1292.00": {
+      "title": "Dental Hygienists",
+      "value": 0.0635,
+      "raw": "0.0635"
+    },
+    "29-1299.01": {
+      "title": "Naturopathic Physicians",
+      "value": 0.3099,
+      "raw": "0.3099"
+    },
+    "29-1299.02": {
+      "title": "Orthoptists",
+      "value": 0.0541,
+      "raw": "0.0541"
+    },
+    "29-2011.00": {
+      "title": "Medical and Clinical Laboratory Technologists",
+      "value": 0.8961,
+      "raw": "0.8961"
+    },
+    "29-2011.01": {
+      "title": "Cytogenetic Technologists",
+      "value": 0.4231,
+      "raw": "0.4231"
+    },
+    "29-2011.02": {
+      "title": "Cytotechnologists",
+      "value": 0.3896,
+      "raw": "0.3896"
+    },
+    "29-2011.04": {
+      "title": "Histotechnologists",
+      "value": 1.039,
+      "raw": "1.039"
+    },
+    "29-2012.00": {
+      "title": "Medical and Clinical Laboratory Technicians",
+      "value": 0.8961,
+      "raw": "0.8961"
+    },
+    "29-2012.01": {
+      "title": "Histology Technicians",
+      "value": 0.9733,
+      "raw": "0.9733"
+    },
+    "29-2031.00": {
+      "title": "Cardiovascular Technologists and Technicians",
+      "value": 0.0395,
+      "raw": "0.0395"
+    },
+    "29-2032.00": {
+      "title": "Diagnostic Medical Sonographers",
+      "value": 0.0256,
+      "raw": "0.0256"
+    },
+    "29-2033.00": {
+      "title": "Nuclear Medicine Technologists",
+      "value": 0.8026,
+      "raw": "0.8026"
+    },
+    "29-2034.00": {
+      "title": "Radiologic Technologists and Technicians",
+      "value": 0.4342,
+      "raw": "0.4342"
+    },
+    "29-2035.00": {
+      "title": "Magnetic Resonance Imaging Technologists",
+      "value": 0.039,
+      "raw": "0.039"
+    },
+    "29-2036.00": {
+      "title": "Medical Dosimetrists",
+      "value": 0.026,
+      "raw": "0.026"
+    },
+    "29-2042.00": {
+      "title": "Emergency Medical Technicians",
+      "value": 0.3636,
+      "raw": "0.3636"
+    },
+    "29-2043.00": {
+      "title": "Paramedics",
+      "value": 0.0741,
+      "raw": "0.0741"
+    },
+    "29-2051.00": {
+      "title": "Dietetic Technicians",
+      "value": 0.0649,
+      "raw": "0.0649"
+    },
+    "29-2052.00": {
+      "title": "Pharmacy Technicians",
+      "value": 0.6197,
+      "raw": "0.6197"
+    },
+    "29-2053.00": {
+      "title": "Psychiatric Technicians",
+      "value": 0.1486,
+      "raw": "0.1486"
+    },
+    "29-2055.00": {
+      "title": "Surgical Technologists",
+      "value": 0.1558,
+      "raw": "0.1558"
+    },
+    "29-2056.00": {
+      "title": "Veterinary Technologists and Technicians",
+      "value": 0.2895,
+      "raw": "0.2895"
+    },
+    "29-2057.00": {
+      "title": "Ophthalmic Medical Technicians",
+      "value": 0.9041,
+      "raw": "0.9041"
+    },
+    "29-2061.00": {
+      "title": "Licensed Practical and Licensed Vocational Nurses",
+      "value": 0.1644,
+      "raw": "0.1644"
+    },
+    "29-2072.00": {
+      "title": "Medical Records Specialists",
+      "value": 0.0405,
+      "raw": "0.0405"
+    },
+    "29-2081.00": {
+      "title": "Opticians, Dispensing",
+      "value": 0.1507,
+      "raw": "0.1507"
+    },
+    "29-2091.00": {
+      "title": "Orthotists and Prosthetists",
+      "value": 0.0741,
+      "raw": "0.0741"
+    },
+    "29-2092.00": {
+      "title": "Hearing Aid Specialists",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-2099.01": {
+      "title": "Neurodiagnostic Technologists",
+      "value": 0.0526,
+      "raw": "0.0526"
+    },
+    "29-2099.05": {
+      "title": "Ophthalmic Medical Technologists",
+      "value": 0.7105,
+      "raw": "0.7105"
+    },
+    "29-2099.08": {
+      "title": "Patient Representatives",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-9021.00": {
+      "title": "Health Information Technologists and Medical Registrars",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-9091.00": {
+      "title": "Athletic Trainers",
+      "value": 0.1579,
+      "raw": "0.1579"
+    },
+    "29-9092.00": {
+      "title": "Genetic Counselors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "29-9093.00": {
+      "title": "Surgical Assistants",
+      "value": 0.2338,
+      "raw": "0.2338"
+    },
+    "29-9099.01": {
+      "title": "Midwives",
+      "value": 0.0455,
+      "raw": "0.0455"
+    },
+    "31-1121.00": {
+      "title": "Home Health Aides",
+      "value": 0.3939,
+      "raw": "0.3939"
+    },
+    "31-1122.00": {
+      "title": "Personal Care Aides",
+      "value": 0.3846,
+      "raw": "0.3846"
+    },
+    "31-1131.00": {
+      "title": "Nursing Assistants",
+      "value": 0.2083,
+      "raw": "0.2083"
+    },
+    "31-1132.00": {
+      "title": "Orderlies",
+      "value": 0.9211,
+      "raw": "0.9211"
+    },
+    "31-1133.00": {
+      "title": "Psychiatric Aides",
+      "value": 0.0921,
+      "raw": "0.0921"
+    },
+    "31-2011.00": {
+      "title": "Occupational Therapy Assistants",
+      "value": 0.0676,
+      "raw": "0.0676"
+    },
+    "31-2012.00": {
+      "title": "Occupational Therapy Aides",
+      "value": 0.4225,
+      "raw": "0.4225"
+    },
+    "31-2021.00": {
+      "title": "Physical Therapist Assistants",
+      "value": 0.5,
+      "raw": "0.5"
+    },
+    "31-2022.00": {
+      "title": "Physical Therapist Aides",
+      "value": 0.6094,
+      "raw": "0.6094"
+    },
+    "31-9011.00": {
+      "title": "Massage Therapists",
+      "value": 0.2037,
+      "raw": "0.2037"
+    },
+    "31-9091.00": {
+      "title": "Dental Assistants",
+      "value": 0.0972,
+      "raw": "0.0972"
+    },
+    "31-9092.00": {
+      "title": "Medical Assistants",
+      "value": 0.3867,
+      "raw": "0.3867"
+    },
+    "31-9093.00": {
+      "title": "Medical Equipment Preparers",
+      "value": 0.9231,
+      "raw": "0.9231"
+    },
+    "31-9094.00": {
+      "title": "Medical Transcriptionists",
+      "value": 0.0278,
+      "raw": "0.0278"
+    },
+    "31-9095.00": {
+      "title": "Pharmacy Aides",
+      "value": 0.6825,
+      "raw": "0.6825"
+    },
+    "31-9096.00": {
+      "title": "Veterinary Assistants and Laboratory Animal Caretakers",
+      "value": 0.3889,
+      "raw": "0.3889"
+    },
+    "31-9097.00": {
+      "title": "Phlebotomists",
+      "value": 1.0139,
+      "raw": "1.0139"
+    },
+    "31-9099.01": {
+      "title": "Speech-Language Pathology Assistants",
+      "value": 0.1944,
+      "raw": "0.1944"
+    },
+    "31-9099.02": {
+      "title": "Endoscopy Technicians",
+      "value": 0.4605,
+      "raw": "0.4605"
+    },
+    "33-1011.00": {
+      "title": "First-Line Supervisors of Correctional Officers",
+      "value": 0.0118,
+      "raw": "0.0118"
+    },
+    "33-1012.00": {
+      "title": "First-Line Supervisors of Police and Detectives",
+      "value": 0.0345,
+      "raw": "0.0345"
+    },
+    "33-1021.00": {
+      "title": "First-Line Supervisors of Firefighting and Prevention Workers",
+      "value": 0.1974,
+      "raw": "0.1974"
+    },
+    "33-1091.00": {
+      "title": "First-Line Supervisors of Security Workers",
+      "value": 0.3951,
+      "raw": "0.3951"
+    },
+    "33-2011.00": {
+      "title": "Firefighters",
+      "value": 0.2571,
+      "raw": "0.2571"
+    },
+    "33-2021.00": {
+      "title": "Fire Inspectors and Investigators",
+      "value": 0.0122,
+      "raw": "0.0122"
+    },
+    "33-2022.00": {
+      "title": "Forest Fire Inspectors and Prevention Specialists",
+      "value": 0.439,
+      "raw": "0.439"
+    },
+    "33-3011.00": {
+      "title": "Bailiffs",
+      "value": 0.3684,
+      "raw": "0.3684"
+    },
+    "33-3012.00": {
+      "title": "Correctional Officers and Jailers",
+      "value": 0.2111,
+      "raw": "0.2111"
+    },
+    "33-3021.00": {
+      "title": "Detectives and Criminal Investigators",
+      "value": 0.1429,
+      "raw": "0.1429"
+    },
+    "33-3021.02": {
+      "title": "Police Identification and Records Officers",
+      "value": 0.1294,
+      "raw": "0.1294"
+    },
+    "33-3021.06": {
+      "title": "Intelligence Analysts",
+      "value": 0.038,
+      "raw": "0.038"
+    },
+    "33-3031.00": {
+      "title": "Fish and Game Wardens",
+      "value": 0.1839,
+      "raw": "0.1839"
+    },
+    "33-3041.00": {
+      "title": "Parking Enforcement Workers",
+      "value": 1.0132,
+      "raw": "1.0132"
+    },
+    "33-3051.00": {
+      "title": "Police and Sheriff's Patrol Officers",
+      "value": 0.1294,
+      "raw": "0.1294"
+    },
+    "33-3051.04": {
+      "title": "Customs and Border Protection Officers",
+      "value": 0.011,
+      "raw": "0.011"
+    },
+    "33-3052.00": {
+      "title": "Transit and Railroad Police",
+      "value": 0.8148,
+      "raw": "0.8148"
+    },
+    "33-9011.00": {
+      "title": "Animal Control Workers",
+      "value": 0.175,
+      "raw": "0.175"
+    },
+    "33-9021.00": {
+      "title": "Private Detectives and Investigators",
+      "value": 0.0244,
+      "raw": "0.0244"
+    },
+    "33-9031.00": {
+      "title": "Gambling Surveillance Officers and Gambling Investigators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "33-9032.00": {
+      "title": "Security Guards",
+      "value": 1.025,
+      "raw": "1.025"
+    },
+    "33-9091.00": {
+      "title": "Crossing Guards and Flaggers",
+      "value": 0.7091,
+      "raw": "0.7091"
+    },
+    "33-9092.00": {
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "value": 0.7458,
+      "raw": "0.7458"
+    },
+    "33-9093.00": {
+      "title": "Transportation Security Screeners",
+      "value": 0.4079,
+      "raw": "0.4079"
+    },
+    "33-9094.00": {
+      "title": "School Bus Monitors",
+      "value": 0.0526,
+      "raw": "0.0526"
+    },
+    "33-9099.02": {
+      "title": "Retail Loss Prevention Specialists",
+      "value": 0.1975,
+      "raw": "0.1975"
+    },
+    "35-1011.00": {
+      "title": "Chefs and Head Cooks",
+      "value": 0.0968,
+      "raw": "0.0968"
+    },
+    "35-1012.00": {
+      "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "value": 0.3529,
+      "raw": "0.3529"
+    },
+    "35-2011.00": {
+      "title": "Cooks, Fast Food",
+      "value": 1.2069,
+      "raw": "1.2069"
+    },
+    "35-2012.00": {
+      "title": "Cooks, Institution and Cafeteria",
+      "value": 0.8676,
+      "raw": "0.8676"
+    },
+    "35-2013.00": {
+      "title": "Cooks, Private Household",
+      "value": 0.8406,
+      "raw": "0.8406"
+    },
+    "35-2014.00": {
+      "title": "Cooks, Restaurant",
+      "value": 0.8933,
+      "raw": "0.8933"
+    },
+    "35-2015.00": {
+      "title": "Cooks, Short Order",
+      "value": 1.1385,
+      "raw": "1.1385"
+    },
+    "35-2021.00": {
+      "title": "Food Preparation Workers",
+      "value": 1.0339,
+      "raw": "1.0339"
+    },
+    "35-3011.00": {
+      "title": "Bartenders",
+      "value": 0.8413,
+      "raw": "0.8413"
+    },
+    "35-3023.00": {
+      "title": "Fast Food and Counter Workers",
+      "value": 0.9,
+      "raw": "0.9"
+    },
+    "35-3023.01": {
+      "title": "Baristas",
+      "value": 1.037,
+      "raw": "1.037"
+    },
+    "35-3031.00": {
+      "title": "Waiters and Waitresses",
+      "value": 0.6182,
+      "raw": "0.6182"
+    },
+    "35-3041.00": {
+      "title": "Food Servers, Nonrestaurant",
+      "value": 0.9833,
+      "raw": "0.9833"
+    },
+    "35-9011.00": {
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "value": 1.1455,
+      "raw": "1.1455"
+    },
+    "35-9021.00": {
+      "title": "Dishwashers",
+      "value": 1.4915,
+      "raw": "1.4915"
+    },
+    "35-9031.00": {
+      "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+      "value": 0.9434,
+      "raw": "0.9434"
+    },
+    "37-1011.00": {
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "value": 0.1084,
+      "raw": "0.1084"
+    },
+    "37-1012.00": {
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "value": 0.3333,
+      "raw": "0.3333"
+    },
+    "37-2011.00": {
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "value": 1.0758,
+      "raw": "1.0758"
+    },
+    "37-2012.00": {
+      "title": "Maids and Housekeeping Cleaners",
+      "value": 0.8308,
+      "raw": "0.8308"
+    },
+    "37-2021.00": {
+      "title": "Pest Control Workers",
+      "value": 0.6786,
+      "raw": "0.6786"
+    },
+    "37-3011.00": {
+      "title": "Landscaping and Groundskeeping Workers",
+      "value": 1.2632,
+      "raw": "1.2632"
+    },
+    "37-3012.00": {
+      "title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+      "value": 1.4462,
+      "raw": "1.4462"
+    },
+    "37-3013.00": {
+      "title": "Tree Trimmers and Pruners",
+      "value": 0.4938,
+      "raw": "0.4938"
+    },
+    "39-1013.00": {
+      "title": "First-Line Supervisors of Gambling Services Workers",
+      "value": 0.122,
+      "raw": "0.122"
+    },
+    "39-1014.00": {
+      "title": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+      "value": 0.1235,
+      "raw": "0.1235"
+    },
+    "39-1022.00": {
+      "title": "First-Line Supervisors of Personal Service Workers",
+      "value": 0.1449,
+      "raw": "0.1449"
+    },
+    "39-2011.00": {
+      "title": "Animal Trainers",
+      "value": 0.1972,
+      "raw": "0.1972"
+    },
+    "39-2021.00": {
+      "title": "Animal Caretakers",
+      "value": 0.5915,
+      "raw": "0.5915"
+    },
+    "39-3011.00": {
+      "title": "Gambling Dealers",
+      "value": 0.9138,
+      "raw": "0.9138"
+    },
+    "39-3012.00": {
+      "title": "Gambling and Sports Book Writers and Runners",
+      "value": 1.3676,
+      "raw": "1.3676"
+    },
+    "39-3021.00": {
+      "title": "Motion Picture Projectionists",
+      "value": 1.0862,
+      "raw": "1.0862"
+    },
+    "39-3031.00": {
+      "title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "value": 0.7857,
+      "raw": "0.7857"
+    },
+    "39-3091.00": {
+      "title": "Amusement and Recreation Attendants",
+      "value": 0.6111,
+      "raw": "0.6111"
+    },
+    "39-3092.00": {
+      "title": "Costume Attendants",
+      "value": 0.44,
+      "raw": "0.44"
+    },
+    "39-3093.00": {
+      "title": "Locker Room, Coatroom, and Dressing Room Attendants",
+      "value": 0.8983,
+      "raw": "0.8983"
+    },
+    "39-4011.00": {
+      "title": "Embalmers",
+      "value": 0.1446,
+      "raw": "0.1446"
+    },
+    "39-4012.00": {
+      "title": "Crematory Operators",
+      "value": 0.6301,
+      "raw": "0.6301"
+    },
+    "39-4021.00": {
+      "title": "Funeral Attendants",
+      "value": 0.5224,
+      "raw": "0.5224"
+    },
+    "39-4031.00": {
+      "title": "Morticians, Undertakers, and Funeral Arrangers",
+      "value": 0.2353,
+      "raw": "0.2353"
+    },
+    "39-5011.00": {
+      "title": "Barbers",
+      "value": 0.1389,
+      "raw": "0.1389"
+    },
+    "39-5012.00": {
+      "title": "Hairdressers, Hairstylists, and Cosmetologists",
+      "value": 0.3636,
+      "raw": "0.3636"
+    },
+    "39-5091.00": {
+      "title": "Makeup Artists, Theatrical and Performance",
+      "value": 0.0571,
+      "raw": "0.0571"
+    },
+    "39-5092.00": {
+      "title": "Manicurists and Pedicurists",
+      "value": 0.1,
+      "raw": "0.1"
+    },
+    "39-5093.00": {
+      "title": "Shampooers",
+      "value": 1.8462,
+      "raw": "1.8462"
+    },
+    "39-5094.00": {
+      "title": "Skincare Specialists",
+      "value": 0.1194,
+      "raw": "0.1194"
+    },
+    "39-6011.00": {
+      "title": "Baggage Porters and Bellhops",
+      "value": 0.8378,
+      "raw": "0.8378"
+    },
+    "39-6012.00": {
+      "title": "Concierges",
+      "value": 0.3182,
+      "raw": "0.3182"
+    },
+    "39-7011.00": {
+      "title": "Tour Guides and Escorts",
+      "value": 0.6552,
+      "raw": "0.6552"
+    },
+    "39-7012.00": {
+      "title": "Travel Guides",
+      "value": 0.7927,
+      "raw": "0.7927"
+    },
+    "39-9011.00": {
+      "title": "Childcare Workers",
+      "value": 0.1111,
+      "raw": "0.1111"
+    },
+    "39-9011.01": {
+      "title": "Nannies",
+      "value": 0.2353,
+      "raw": "0.2353"
+    },
+    "39-9031.00": {
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "value": 0.05,
+      "raw": "0.05"
+    },
+    "39-9032.00": {
+      "title": "Recreation Workers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "39-9041.00": {
+      "title": "Residential Advisors",
+      "value": 0.1818,
+      "raw": "0.1818"
+    },
+    "41-1011.00": {
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "value": 0.2299,
+      "raw": "0.2299"
+    },
+    "41-1012.00": {
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "value": 0.0337,
+      "raw": "0.0337"
+    },
+    "41-2011.00": {
+      "title": "Cashiers",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "41-2012.00": {
+      "title": "Gambling Change Persons and Booth Cashiers",
+      "value": 1.3676,
+      "raw": "1.3676"
+    },
+    "41-2021.00": {
+      "title": "Counter and Rental Clerks",
+      "value": 0.1719,
+      "raw": "0.1719"
+    },
+    "41-2022.00": {
+      "title": "Parts Salespersons",
+      "value": 0.5789,
+      "raw": "0.5789"
+    },
+    "41-2031.00": {
+      "title": "Retail Salespersons",
+      "value": 0.7258,
+      "raw": "0.7258"
+    },
+    "41-3011.00": {
+      "title": "Advertising Sales Agents",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-3021.00": {
+      "title": "Insurance Sales Agents",
+      "value": 0.0361,
+      "raw": "0.0361"
+    },
+    "41-3031.00": {
+      "title": "Securities, Commodities, and Financial Services Sales Agents",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-3041.00": {
+      "title": "Travel Agents",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-3091.00": {
+      "title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+      "value": 0.0256,
+      "raw": "0.0256"
+    },
+    "41-4011.00": {
+      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "value": 0.0119,
+      "raw": "0.0119"
+    },
+    "41-4011.07": {
+      "title": "Solar Sales Representatives and Assessors",
+      "value": 0.1829,
+      "raw": "0.1829"
+    },
+    "41-4012.00": {
+      "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+      "value": 0.1,
+      "raw": "0.1"
+    },
+    "41-9011.00": {
+      "title": "Demonstrators and Product Promoters",
+      "value": 0.8667,
+      "raw": "0.8667"
+    },
+    "41-9012.00": {
+      "title": "Models",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-9021.00": {
+      "title": "Real Estate Brokers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-9022.00": {
+      "title": "Real Estate Sales Agents",
+      "value": 0.0274,
+      "raw": "0.0274"
+    },
+    "41-9031.00": {
+      "title": "Sales Engineers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-9041.00": {
+      "title": "Telemarketers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "41-9091.00": {
+      "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+      "value": 1.3636,
+      "raw": "1.3636"
+    },
+    "43-1011.00": {
+      "title": "First-Line Supervisors of Office and Administrative Support Workers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-2011.00": {
+      "title": "Switchboard Operators, Including Answering Service",
+      "value": 0.0571,
+      "raw": "0.0571"
+    },
+    "43-2021.00": {
+      "title": "Telephone Operators",
+      "value": 0.1096,
+      "raw": "0.1096"
+    },
+    "43-3011.00": {
+      "title": "Bill and Account Collectors",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-3021.00": {
+      "title": "Billing and Posting Clerks",
+      "value": 0.0921,
+      "raw": "0.0921"
+    },
+    "43-3031.00": {
+      "title": "Bookkeeping, Accounting, and Auditing Clerks",
+      "value": 0.0685,
+      "raw": "0.0685"
+    },
+    "43-3041.00": {
+      "title": "Gambling Cage Workers",
+      "value": 1.1781,
+      "raw": "1.1781"
+    },
+    "43-3051.00": {
+      "title": "Payroll and Timekeeping Clerks",
+      "value": 0.013,
+      "raw": "0.013"
+    },
+    "43-3061.00": {
+      "title": "Procurement Clerks",
+      "value": 0.026,
+      "raw": "0.026"
+    },
+    "43-3071.00": {
+      "title": "Tellers",
+      "value": 1.1212,
+      "raw": "1.1212"
+    },
+    "43-4011.00": {
+      "title": "Brokerage Clerks",
+      "value": 0.1579,
+      "raw": "0.1579"
+    },
+    "43-4021.00": {
+      "title": "Correspondence Clerks",
+      "value": 0.0267,
+      "raw": "0.0267"
+    },
+    "43-4031.00": {
+      "title": "Court, Municipal, and License Clerks",
+      "value": 0.2105,
+      "raw": "0.2105"
+    },
+    "43-4041.00": {
+      "title": "Credit Authorizers, Checkers, and Clerks",
+      "value": 0.0526,
+      "raw": "0.0526"
+    },
+    "43-4051.00": {
+      "title": "Customer Service Representatives",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-4061.00": {
+      "title": "Eligibility Interviewers, Government Programs",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-4071.00": {
+      "title": "File Clerks",
+      "value": 0.6429,
+      "raw": "0.6429"
+    },
+    "43-4081.00": {
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "value": 0.0746,
+      "raw": "0.0746"
+    },
+    "43-4111.00": {
+      "title": "Interviewers, Except Eligibility and Loan",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-4121.00": {
+      "title": "Library Assistants, Clerical",
+      "value": 0.8182,
+      "raw": "0.8182"
+    },
+    "43-4131.00": {
+      "title": "Loan Interviewers and Clerks",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-4141.00": {
+      "title": "New Accounts Clerks",
+      "value": 0.5132,
+      "raw": "0.5132"
+    },
+    "43-4151.00": {
+      "title": "Order Clerks",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-4161.00": {
+      "title": "Human Resources Assistants, Except Payroll and Timekeeping",
+      "value": 0.0649,
+      "raw": "0.0649"
+    },
+    "43-4171.00": {
+      "title": "Receptionists and Information Clerks",
+      "value": 0.2222,
+      "raw": "0.2222"
+    },
+    "43-4181.00": {
+      "title": "Reservation and Transportation Ticket Agents and Travel Clerks",
+      "value": 0.2319,
+      "raw": "0.2319"
+    },
+    "43-5011.00": {
+      "title": "Cargo and Freight Agents",
+      "value": 0.275,
+      "raw": "0.275"
+    },
+    "43-5011.01": {
+      "title": "Freight Forwarders",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-5021.00": {
+      "title": "Couriers and Messengers",
+      "value": 1.4928,
+      "raw": "1.4928"
+    },
+    "43-5031.00": {
+      "title": "Public Safety Telecommunicators",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-5032.00": {
+      "title": "Dispatchers, Except Police, Fire, and Ambulance",
+      "value": 0.026,
+      "raw": "0.026"
+    },
+    "43-5041.00": {
+      "title": "Meter Readers, Utilities",
+      "value": 1.6711,
+      "raw": "1.6711"
+    },
+    "43-5051.00": {
+      "title": "Postal Service Clerks",
+      "value": 1.0779,
+      "raw": "1.0779"
+    },
+    "43-5052.00": {
+      "title": "Postal Service Mail Carriers",
+      "value": 1.1364,
+      "raw": "1.1364"
+    },
+    "43-5053.00": {
+      "title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+      "value": 1.1446,
+      "raw": "1.1446"
+    },
+    "43-5061.00": {
+      "title": "Production, Planning, and Expediting Clerks",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-5071.00": {
+      "title": "Shipping, Receiving, and Inventory Clerks",
+      "value": 0.6494,
+      "raw": "0.6494"
+    },
+    "43-5111.00": {
+      "title": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+      "value": 0.8933,
+      "raw": "0.8933"
+    },
+    "43-6011.00": {
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "value": 0.0519,
+      "raw": "0.0519"
+    },
+    "43-6012.00": {
+      "title": "Legal Secretaries and Administrative Assistants",
+      "value": 0.25,
+      "raw": "0.25"
+    },
+    "43-6013.00": {
+      "title": "Medical Secretaries and Administrative Assistants",
+      "value": 0.0395,
+      "raw": "0.0395"
+    },
+    "43-6014.00": {
+      "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "value": 0.2162,
+      "raw": "0.2162"
+    },
+    "43-9021.00": {
+      "title": "Data Entry Keyers",
+      "value": 0.1045,
+      "raw": "0.1045"
+    },
+    "43-9022.00": {
+      "title": "Word Processors and Typists",
+      "value": 0.32,
+      "raw": "0.32"
+    },
+    "43-9031.00": {
+      "title": "Desktop Publishers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-9041.00": {
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-9051.00": {
+      "title": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+      "value": 1.0135,
+      "raw": "1.0135"
+    },
+    "43-9061.00": {
+      "title": "Office Clerks, General",
+      "value": 0.5211,
+      "raw": "0.5211"
+    },
+    "43-9071.00": {
+      "title": "Office Machine Operators, Except Computer",
+      "value": 1.0263,
+      "raw": "1.0263"
+    },
+    "43-9081.00": {
+      "title": "Proofreaders and Copy Markers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "43-9111.00": {
+      "title": "Statistical Assistants",
+      "value": 0.0641,
+      "raw": "0.0641"
+    },
+    "45-1011.00": {
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "value": 0.7174,
+      "raw": "0.7174"
+    },
+    "45-2011.00": {
+      "title": "Agricultural Inspectors",
+      "value": 0.1538,
+      "raw": "0.1538"
+    },
+    "45-2021.00": {
+      "title": "Animal Breeders",
+      "value": 0.9286,
+      "raw": "0.9286"
+    },
+    "45-2041.00": {
+      "title": "Graders and Sorters, Agricultural Products",
+      "value": 0.9744,
+      "raw": "0.9744"
+    },
+    "45-2091.00": {
+      "title": "Agricultural Equipment Operators",
+      "value": 2.1277,
+      "raw": "2.1277"
+    },
+    "45-2092.00": {
+      "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "value": 1.1573,
+      "raw": "1.1573"
+    },
+    "45-2093.00": {
+      "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+      "value": 1.2872,
+      "raw": "1.2872"
+    },
+    "45-3031.00": {
+      "title": "Fishing and Hunting Workers",
+      "value": 0.5172,
+      "raw": "0.5172"
+    },
+    "45-4011.00": {
+      "title": "Forest and Conservation Workers",
+      "value": 1.1486,
+      "raw": "1.1486"
+    },
+    "45-4021.00": {
+      "title": "Fallers",
+      "value": 0.4815,
+      "raw": "0.4815"
+    },
+    "45-4022.00": {
+      "title": "Logging Equipment Operators",
+      "value": 1.0357,
+      "raw": "1.0357"
+    },
+    "45-4023.00": {
+      "title": "Log Graders and Scalers",
+      "value": 0.95,
+      "raw": "0.95"
+    },
+    "47-1011.00": {
+      "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "value": 0.7263,
+      "raw": "0.7263"
+    },
+    "47-1011.03": {
+      "title": "Solar Energy Installation Managers",
+      "value": 0.046,
+      "raw": "0.046"
+    },
+    "47-2011.00": {
+      "title": "Boilermakers",
+      "value": 0.8795,
+      "raw": "0.8795"
+    },
+    "47-2021.00": {
+      "title": "Brickmasons and Blockmasons",
+      "value": 1.4167,
+      "raw": "1.4167"
+    },
+    "47-2022.00": {
+      "title": "Stonemasons",
+      "value": 1.2025,
+      "raw": "1.2025"
+    },
+    "47-2031.00": {
+      "title": "Carpenters",
+      "value": 0.6951,
+      "raw": "0.6951"
+    },
+    "47-2041.00": {
+      "title": "Carpet Installers",
+      "value": 0.75,
+      "raw": "0.75"
+    },
+    "47-2042.00": {
+      "title": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+      "value": 0.9444,
+      "raw": "0.9444"
+    },
+    "47-2043.00": {
+      "title": "Floor Sanders and Finishers",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "47-2044.00": {
+      "title": "Tile and Stone Setters",
+      "value": 0.9067,
+      "raw": "0.9067"
+    },
+    "47-2051.00": {
+      "title": "Cement Masons and Concrete Finishers",
+      "value": 1.0286,
+      "raw": "1.0286"
+    },
+    "47-2053.00": {
+      "title": "Terrazzo Workers and Finishers",
+      "value": 1.2468,
+      "raw": "1.2468"
+    },
+    "47-2061.00": {
+      "title": "Construction Laborers",
+      "value": 1.0494,
+      "raw": "1.0494"
+    },
+    "47-2071.00": {
+      "title": "Paving, Surfacing, and Tamping Equipment Operators",
+      "value": 1.8488,
+      "raw": "1.8488"
+    },
+    "47-2072.00": {
+      "title": "Pile Driver Operators",
+      "value": 0.0909,
+      "raw": "0.0909"
+    },
+    "47-2073.00": {
+      "title": "Operating Engineers and Other Construction Equipment Operators",
+      "value": 1.6,
+      "raw": "1.6"
+    },
+    "47-2081.00": {
+      "title": "Drywall and Ceiling Tile Installers",
+      "value": 1.0811,
+      "raw": "1.0811"
+    },
+    "47-2082.00": {
+      "title": "Tapers",
+      "value": 1.5946,
+      "raw": "1.5946"
+    },
+    "47-2111.00": {
+      "title": "Electricians",
+      "value": 0.3289,
+      "raw": "0.3289"
+    },
+    "47-2121.00": {
+      "title": "Glaziers",
+      "value": 0.9241,
+      "raw": "0.9241"
+    },
+    "47-2131.00": {
+      "title": "Insulation Workers, Floor, Ceiling, and Wall",
+      "value": 0.9296,
+      "raw": "0.9296"
+    },
+    "47-2132.00": {
+      "title": "Insulation Workers, Mechanical",
+      "value": 0.3625,
+      "raw": "0.3625"
+    },
+    "47-2141.00": {
+      "title": "Painters, Construction and Maintenance",
+      "value": 0.6714,
+      "raw": "0.6714"
+    },
+    "47-2142.00": {
+      "title": "Paperhangers",
+      "value": 0.9589,
+      "raw": "0.9589"
+    },
+    "47-2151.00": {
+      "title": "Pipelayers",
+      "value": 1.025,
+      "raw": "1.025"
+    },
+    "47-2152.00": {
+      "title": "Plumbers, Pipefitters, and Steamfitters",
+      "value": 0.5122,
+      "raw": "0.5122"
+    },
+    "47-2152.04": {
+      "title": "Solar Thermal Installers and Technicians",
+      "value": 0.5915,
+      "raw": "0.5915"
+    },
+    "47-2161.00": {
+      "title": "Plasterers and Stucco Masons",
+      "value": 1.0741,
+      "raw": "1.0741"
+    },
+    "47-2171.00": {
+      "title": "Reinforcing Iron and Rebar Workers",
+      "value": 0.9221,
+      "raw": "0.9221"
+    },
+    "47-2181.00": {
+      "title": "Roofers",
+      "value": 0.5147,
+      "raw": "0.5147"
+    },
+    "47-2211.00": {
+      "title": "Sheet Metal Workers",
+      "value": 0.8571,
+      "raw": "0.8571"
+    },
+    "47-2221.00": {
+      "title": "Structural Iron and Steel Workers",
+      "value": 0.925,
+      "raw": "0.925"
+    },
+    "47-2231.00": {
+      "title": "Solar Photovoltaic Installers",
+      "value": 0.5316,
+      "raw": "0.5316"
+    },
+    "47-3011.00": {
+      "title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+      "value": 1.3077,
+      "raw": "1.3077"
+    },
+    "47-3012.00": {
+      "title": "Helpers--Carpenters",
+      "value": 1.2821,
+      "raw": "1.2821"
+    },
+    "47-3013.00": {
+      "title": "Helpers--Electricians",
+      "value": 0.8537,
+      "raw": "0.8537"
+    },
+    "47-3014.00": {
+      "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+      "value": 0.7838,
+      "raw": "0.7838"
+    },
+    "47-3015.00": {
+      "title": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+      "value": 0.8025,
+      "raw": "0.8025"
+    },
+    "47-3016.00": {
+      "title": "Helpers--Roofers",
+      "value": 0.7857,
+      "raw": "0.7857"
+    },
+    "47-4011.00": {
+      "title": "Construction and Building Inspectors",
+      "value": 0.2,
+      "raw": "0.2"
+    },
+    "47-4011.01": {
+      "title": "Energy Auditors",
+      "value": 0.0429,
+      "raw": "0.0429"
+    },
+    "47-4021.00": {
+      "title": "Elevator and Escalator Installers and Repairers",
+      "value": 0.2564,
+      "raw": "0.2564"
+    },
+    "47-4031.00": {
+      "title": "Fence Erectors",
+      "value": 1.0405,
+      "raw": "1.0405"
+    },
+    "47-4041.00": {
+      "title": "Hazardous Materials Removal Workers",
+      "value": 0.7195,
+      "raw": "0.7195"
+    },
+    "47-4051.00": {
+      "title": "Highway Maintenance Workers",
+      "value": 1.3765,
+      "raw": "1.3765"
+    },
+    "47-4061.00": {
+      "title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "value": 1.2055,
+      "raw": "1.2055"
+    },
+    "47-4071.00": {
+      "title": "Septic Tank Servicers and Sewer Pipe Cleaners",
+      "value": 0.7558,
+      "raw": "0.7558"
+    },
+    "47-4091.00": {
+      "title": "Segmental Pavers",
+      "value": 0.321,
+      "raw": "0.321"
+    },
+    "47-4099.03": {
+      "title": "Weatherization Installers and Technicians",
+      "value": 0.5063,
+      "raw": "0.5063"
+    },
+    "47-5011.00": {
+      "title": "Derrick Operators, Oil and Gas",
+      "value": 1.3118,
+      "raw": "1.3118"
+    },
+    "47-5012.00": {
+      "title": "Rotary Drill Operators, Oil and Gas",
+      "value": 1.3125,
+      "raw": "1.3125"
+    },
+    "47-5013.00": {
+      "title": "Service Unit Operators, Oil and Gas",
+      "value": 0.7453,
+      "raw": "0.7453"
+    },
+    "47-5022.00": {
+      "title": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+      "value": 1.6136,
+      "raw": "1.6136"
+    },
+    "47-5023.00": {
+      "title": "Earth Drillers, Except Oil and Gas",
+      "value": 1.1744,
+      "raw": "1.1744"
+    },
+    "47-5032.00": {
+      "title": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+      "value": 1.1591,
+      "raw": "1.1591"
+    },
+    "47-5041.00": {
+      "title": "Continuous Mining Machine Operators",
+      "value": 0.9518,
+      "raw": "0.9518"
+    },
+    "47-5043.00": {
+      "title": "Roof Bolters, Mining",
+      "value": 0.9425,
+      "raw": "0.9425"
+    },
+    "47-5044.00": {
+      "title": "Loading and Moving Machine Operators, Underground Mining",
+      "value": 1.0341,
+      "raw": "1.0341"
+    },
+    "47-5051.00": {
+      "title": "Rock Splitters, Quarry",
+      "value": 0.7222,
+      "raw": "0.7222"
+    },
+    "47-5071.00": {
+      "title": "Roustabouts, Oil and Gas",
+      "value": 0.7442,
+      "raw": "0.7442"
+    },
+    "47-5081.00": {
+      "title": "Helpers--Extraction Workers",
+      "value": 0.9667,
+      "raw": "0.9667"
+    },
+    "49-1011.00": {
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "value": 0.2093,
+      "raw": "0.2093"
+    },
+    "49-2011.00": {
+      "title": "Computer, Automated Teller, and Office Machine Repairers",
+      "value": 0.4267,
+      "raw": "0.4267"
+    },
+    "49-2021.00": {
+      "title": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+      "value": 0.8095,
+      "raw": "0.8095"
+    },
+    "49-2022.00": {
+      "title": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+      "value": 0.5488,
+      "raw": "0.5488"
+    },
+    "49-2091.00": {
+      "title": "Avionics Technicians",
+      "value": 0.3671,
+      "raw": "0.3671"
+    },
+    "49-2092.00": {
+      "title": "Electric Motor, Power Tool, and Related Repairers",
+      "value": 0.7195,
+      "raw": "0.7195"
+    },
+    "49-2093.00": {
+      "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "value": 0.3291,
+      "raw": "0.3291"
+    },
+    "49-2094.00": {
+      "title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+      "value": 0.2346,
+      "raw": "0.2346"
+    },
+    "49-2095.00": {
+      "title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "value": 0.3951,
+      "raw": "0.3951"
+    },
+    "49-2096.00": {
+      "title": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+      "value": 0.1757,
+      "raw": "0.1757"
+    },
+    "49-2097.00": {
+      "title": "Audiovisual Equipment Installers and Repairers",
+      "value": 0.1184,
+      "raw": "0.1184"
+    },
+    "49-2098.00": {
+      "title": "Security and Fire Alarm Systems Installers",
+      "value": 0.5443,
+      "raw": "0.5443"
+    },
+    "49-3011.00": {
+      "title": "Aircraft Mechanics and Service Technicians",
+      "value": 0.225,
+      "raw": "0.225"
+    },
+    "49-3021.00": {
+      "title": "Automotive Body and Related Repairers",
+      "value": 0.4815,
+      "raw": "0.4815"
+    },
+    "49-3022.00": {
+      "title": "Automotive Glass Installers and Repairers",
+      "value": 0.625,
+      "raw": "0.625"
+    },
+    "49-3023.00": {
+      "title": "Automotive Service Technicians and Mechanics",
+      "value": 0.2405,
+      "raw": "0.2405"
+    },
+    "49-3031.00": {
+      "title": "Bus and Truck Mechanics and Diesel Engine Specialists",
+      "value": 0.125,
+      "raw": "0.125"
+    },
+    "49-3041.00": {
+      "title": "Farm Equipment Mechanics and Service Technicians",
+      "value": 0.2209,
+      "raw": "0.2209"
+    },
+    "49-3042.00": {
+      "title": "Mobile Heavy Equipment Mechanics, Except Engines",
+      "value": 0.2024,
+      "raw": "0.2024"
+    },
+    "49-3043.00": {
+      "title": "Rail Car Repairers",
+      "value": 0.1667,
+      "raw": "0.1667"
+    },
+    "49-3051.00": {
+      "title": "Motorboat Mechanics and Service Technicians",
+      "value": 0.1795,
+      "raw": "0.1795"
+    },
+    "49-3052.00": {
+      "title": "Motorcycle Mechanics",
+      "value": 0.2192,
+      "raw": "0.2192"
+    },
+    "49-3053.00": {
+      "title": "Outdoor Power Equipment and Other Small Engine Mechanics",
+      "value": 0.2727,
+      "raw": "0.2727"
+    },
+    "49-3091.00": {
+      "title": "Bicycle Repairers",
+      "value": 0.2162,
+      "raw": "0.2162"
+    },
+    "49-3092.00": {
+      "title": "Recreational Vehicle Service Technicians",
+      "value": 0.1111,
+      "raw": "0.1111"
+    },
+    "49-3093.00": {
+      "title": "Tire Repairers and Changers",
+      "value": 0.9718,
+      "raw": "0.9718"
+    },
+    "49-9011.00": {
+      "title": "Mechanical Door Repairers",
+      "value": 0.4861,
+      "raw": "0.4861"
+    },
+    "49-9012.00": {
+      "title": "Control and Valve Installers and Repairers, Except Mechanical Door",
+      "value": 0.7333,
+      "raw": "0.7333"
+    },
+    "49-9021.00": {
+      "title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+      "value": 0.4625,
+      "raw": "0.4625"
+    },
+    "49-9031.00": {
+      "title": "Home Appliance Repairers",
+      "value": 0.4384,
+      "raw": "0.4384"
+    },
+    "49-9041.00": {
+      "title": "Industrial Machinery Mechanics",
+      "value": 0.2716,
+      "raw": "0.2716"
+    },
+    "49-9043.00": {
+      "title": "Maintenance Workers, Machinery",
+      "value": 0.7051,
+      "raw": "0.7051"
+    },
+    "49-9044.00": {
+      "title": "Millwrights",
+      "value": 0.6588,
+      "raw": "0.6588"
+    },
+    "49-9045.00": {
+      "title": "Refractory Materials Repairers, Except Brickmasons",
+      "value": 0.8493,
+      "raw": "0.8493"
+    },
+    "49-9051.00": {
+      "title": "Electrical Power-Line Installers and Repairers",
+      "value": 0.9205,
+      "raw": "0.9205"
+    },
+    "49-9052.00": {
+      "title": "Telecommunications Line Installers and Repairers",
+      "value": 0.6988,
+      "raw": "0.6988"
+    },
+    "49-9061.00": {
+      "title": "Camera and Photographic Equipment Repairers",
+      "value": 0.2973,
+      "raw": "0.2973"
+    },
+    "49-9062.00": {
+      "title": "Medical Equipment Repairers",
+      "value": 0.2436,
+      "raw": "0.2436"
+    },
+    "49-9063.00": {
+      "title": "Musical Instrument Repairers and Tuners",
+      "value": 0.1343,
+      "raw": "0.1343"
+    },
+    "49-9064.00": {
+      "title": "Watch and Clock Repairers",
+      "value": 0.3816,
+      "raw": "0.3816"
+    },
+    "49-9071.00": {
+      "title": "Maintenance and Repair Workers, General",
+      "value": 0.3494,
+      "raw": "0.3494"
+    },
+    "49-9081.00": {
+      "title": "Wind Turbine Service Technicians",
+      "value": 0.4198,
+      "raw": "0.4198"
+    },
+    "49-9091.00": {
+      "title": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+      "value": 0.4444,
+      "raw": "0.4444"
+    },
+    "49-9092.00": {
+      "title": "Commercial Divers",
+      "value": 0.663,
+      "raw": "0.663"
+    },
+    "49-9094.00": {
+      "title": "Locksmiths and Safe Repairers",
+      "value": 0.4928,
+      "raw": "0.4928"
+    },
+    "49-9095.00": {
+      "title": "Manufactured Building and Mobile Home Installers",
+      "value": 0.1875,
+      "raw": "0.1875"
+    },
+    "49-9096.00": {
+      "title": "Riggers",
+      "value": 0.575,
+      "raw": "0.575"
+    },
+    "49-9097.00": {
+      "title": "Signal and Track Switch Repairers",
+      "value": 0.7386,
+      "raw": "0.7386"
+    },
+    "49-9098.00": {
+      "title": "Helpers--Installation, Maintenance, and Repair Workers",
+      "value": 1.0123,
+      "raw": "1.0123"
+    },
+    "49-9099.01": {
+      "title": "Geothermal Technicians",
+      "value": 0.5067,
+      "raw": "0.5067"
+    },
+    "51-1011.00": {
+      "title": "First-Line Supervisors of Production and Operating Workers",
+      "value": 0.1011,
+      "raw": "0.1011"
+    },
+    "51-2011.00": {
+      "title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+      "value": 0.7805,
+      "raw": "0.7805"
+    },
+    "51-2021.00": {
+      "title": "Coil Winders, Tapers, and Finishers",
+      "value": 0.8875,
+      "raw": "0.8875"
+    },
+    "51-2022.00": {
+      "title": "Electrical and Electronic Equipment Assemblers",
+      "value": 0.8875,
+      "raw": "0.8875"
+    },
+    "51-2023.00": {
+      "title": "Electromechanical Equipment Assemblers",
+      "value": 0.8875,
+      "raw": "0.8875"
+    },
+    "51-2031.00": {
+      "title": "Engine and Other Machine Assemblers",
+      "value": 0.8395,
+      "raw": "0.8395"
+    },
+    "51-2041.00": {
+      "title": "Structural Metal Fabricators and Fitters",
+      "value": 0.9268,
+      "raw": "0.9268"
+    },
+    "51-2051.00": {
+      "title": "Fiberglass Laminators and Fabricators",
+      "value": 0.8077,
+      "raw": "0.8077"
+    },
+    "51-2061.00": {
+      "title": "Timing Device Assemblers and Adjusters",
+      "value": 0.7808,
+      "raw": "0.7808"
+    },
+    "51-2092.00": {
+      "title": "Team Assemblers",
+      "value": 0.8718,
+      "raw": "0.8718"
+    },
+    "51-3011.00": {
+      "title": "Bakers",
+      "value": 0.8649,
+      "raw": "0.8649"
+    },
+    "51-3021.00": {
+      "title": "Butchers and Meat Cutters",
+      "value": 0.92,
+      "raw": "0.92"
+    },
+    "51-3022.00": {
+      "title": "Meat, Poultry, and Fish Cutters and Trimmers",
+      "value": 0.8933,
+      "raw": "0.8933"
+    },
+    "51-3023.00": {
+      "title": "Slaughterers and Meat Packers",
+      "value": 0.8481,
+      "raw": "0.8481"
+    },
+    "51-3091.00": {
+      "title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+      "value": 1.3974,
+      "raw": "1.3974"
+    },
+    "51-3092.00": {
+      "title": "Food Batchmakers",
+      "value": 1.1266,
+      "raw": "1.1266"
+    },
+    "51-3093.00": {
+      "title": "Food Cooking Machine Operators and Tenders",
+      "value": 1.1781,
+      "raw": "1.1781"
+    },
+    "51-4021.00": {
+      "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.963,
+      "raw": "0.963"
+    },
+    "51-4022.00": {
+      "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.9512,
+      "raw": "0.9512"
+    },
+    "51-4023.00": {
+      "title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.9634,
+      "raw": "0.9634"
+    },
+    "51-4031.00": {
+      "title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 1.0988,
+      "raw": "1.0988"
+    },
+    "51-4032.00": {
+      "title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.9351,
+      "raw": "0.9351"
+    },
+    "51-4033.00": {
+      "title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.875,
+      "raw": "0.875"
+    },
+    "51-4034.00": {
+      "title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 1.0854,
+      "raw": "1.0854"
+    },
+    "51-4035.00": {
+      "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 1.1875,
+      "raw": "1.1875"
+    },
+    "51-4041.00": {
+      "title": "Machinists",
+      "value": 0.8293,
+      "raw": "0.8293"
+    },
+    "51-4051.00": {
+      "title": "Metal-Refining Furnace Operators and Tenders",
+      "value": 1.369,
+      "raw": "1.369"
+    },
+    "51-4052.00": {
+      "title": "Pourers and Casters, Metal",
+      "value": 1.3125,
+      "raw": "1.3125"
+    },
+    "51-4061.00": {
+      "title": "Model Makers, Metal and Plastic",
+      "value": 0.7821,
+      "raw": "0.7821"
+    },
+    "51-4062.00": {
+      "title": "Patternmakers, Metal and Plastic",
+      "value": 0.7531,
+      "raw": "0.7531"
+    },
+    "51-4071.00": {
+      "title": "Foundry Mold and Coremakers",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "51-4072.00": {
+      "title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 1.1625,
+      "raw": "1.1625"
+    },
+    "51-4081.00": {
+      "title": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "51-4111.00": {
+      "title": "Tool and Die Makers",
+      "value": 0.5897,
+      "raw": "0.5897"
+    },
+    "51-4121.00": {
+      "title": "Welders, Cutters, Solderers, and Brazers",
+      "value": 0.963,
+      "raw": "0.963"
+    },
+    "51-4122.00": {
+      "title": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+      "value": 0.9753,
+      "raw": "0.9753"
+    },
+    "51-4191.00": {
+      "title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.8375,
+      "raw": "0.8375"
+    },
+    "51-4192.00": {
+      "title": "Layout Workers, Metal and Plastic",
+      "value": 0.7561,
+      "raw": "0.7561"
+    },
+    "51-4193.00": {
+      "title": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "value": 0.9518,
+      "raw": "0.9518"
+    },
+    "51-4194.00": {
+      "title": "Tool Grinders, Filers, and Sharpeners",
+      "value": 1.038,
+      "raw": "1.038"
+    },
+    "51-5111.00": {
+      "title": "Prepress Technicians and Workers",
+      "value": 0.4675,
+      "raw": "0.4675"
+    },
+    "51-5112.00": {
+      "title": "Printing Press Operators",
+      "value": 0.963,
+      "raw": "0.963"
+    },
+    "51-5113.00": {
+      "title": "Print Binding and Finishing Workers",
+      "value": 1.05,
+      "raw": "1.05"
+    },
+    "51-6011.00": {
+      "title": "Laundry and Dry-Cleaning Workers",
+      "value": 0.8657,
+      "raw": "0.8657"
+    },
+    "51-6021.00": {
+      "title": "Pressers, Textile, Garment, and Related Materials",
+      "value": 0.9041,
+      "raw": "0.9041"
+    },
+    "51-6031.00": {
+      "title": "Sewing Machine Operators",
+      "value": 0.8784,
+      "raw": "0.8784"
+    },
+    "51-6041.00": {
+      "title": "Shoe and Leather Workers and Repairers",
+      "value": 0.3026,
+      "raw": "0.3026"
+    },
+    "51-6042.00": {
+      "title": "Shoe Machine Operators and Tenders",
+      "value": 1.0519,
+      "raw": "1.0519"
+    },
+    "51-6051.00": {
+      "title": "Sewers, Hand",
+      "value": 0.96,
+      "raw": "0.96"
+    },
+    "51-6052.00": {
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "value": 0.2113,
+      "raw": "0.2113"
+    },
+    "51-6061.00": {
+      "title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+      "value": 0.9136,
+      "raw": "0.9136"
+    },
+    "51-6062.00": {
+      "title": "Textile Cutting Machine Setters, Operators, and Tenders",
+      "value": 1.0909,
+      "raw": "1.0909"
+    },
+    "51-6063.00": {
+      "title": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+      "value": 1.1765,
+      "raw": "1.1765"
+    },
+    "51-6064.00": {
+      "title": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+      "value": 1.4024,
+      "raw": "1.4024"
+    },
+    "51-6091.00": {
+      "title": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+      "value": 1.15,
+      "raw": "1.15"
+    },
+    "51-6092.00": {
+      "title": "Fabric and Apparel Patternmakers",
+      "value": 0.1818,
+      "raw": "0.1818"
+    },
+    "51-6093.00": {
+      "title": "Upholsterers",
+      "value": 0.1558,
+      "raw": "0.1558"
+    },
+    "51-7011.00": {
+      "title": "Cabinetmakers and Bench Carpenters",
+      "value": 0.85,
+      "raw": "0.85"
+    },
+    "51-7021.00": {
+      "title": "Furniture Finishers",
+      "value": 0.6,
+      "raw": "0.6"
+    },
+    "51-7031.00": {
+      "title": "Model Makers, Wood",
+      "value": 0.9737,
+      "raw": "0.9737"
+    },
+    "51-7032.00": {
+      "title": "Patternmakers, Wood",
+      "value": 0.8228,
+      "raw": "0.8228"
+    },
+    "51-7041.00": {
+      "title": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "value": 0.9398,
+      "raw": "0.9398"
+    },
+    "51-7042.00": {
+      "title": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+      "value": 0.9878,
+      "raw": "0.9878"
+    },
+    "51-8011.00": {
+      "title": "Nuclear Power Reactor Operators",
+      "value": 0.2564,
+      "raw": "0.2564"
+    },
+    "51-8012.00": {
+      "title": "Power Distributors and Dispatchers",
+      "value": 0.0494,
+      "raw": "0.0494"
+    },
+    "51-8013.00": {
+      "title": "Power Plant Operators",
+      "value": 0.9048,
+      "raw": "0.9048"
+    },
+    "51-8013.03": {
+      "title": "Biomass Plant Technicians",
+      "value": 1.3418,
+      "raw": "1.3418"
+    },
+    "51-8013.04": {
+      "title": "Hydroelectric Plant Technicians",
+      "value": 1.0506,
+      "raw": "1.0506"
+    },
+    "51-8021.00": {
+      "title": "Stationary Engineers and Boiler Operators",
+      "value": 1.1375,
+      "raw": "1.1375"
+    },
+    "51-8031.00": {
+      "title": "Water and Wastewater Treatment Plant and System Operators",
+      "value": 0.963,
+      "raw": "0.963"
+    },
+    "51-8091.00": {
+      "title": "Chemical Plant and System Operators",
+      "value": 0.4368,
+      "raw": "0.4368"
+    },
+    "51-8092.00": {
+      "title": "Gas Plant Operators",
+      "value": 1.2439,
+      "raw": "1.2439"
+    },
+    "51-8093.00": {
+      "title": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+      "value": 0.9176,
+      "raw": "0.9176"
+    },
+    "51-8099.01": {
+      "title": "Biofuels Processing Technicians",
+      "value": 1.2375,
+      "raw": "1.2375"
+    },
+    "51-9011.00": {
+      "title": "Chemical Equipment Operators and Tenders",
+      "value": 0.9419,
+      "raw": "0.9419"
+    },
+    "51-9012.00": {
+      "title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+      "value": 0.9375,
+      "raw": "0.9375"
+    },
+    "51-9021.00": {
+      "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+      "value": 1.3571,
+      "raw": "1.3571"
+    },
+    "51-9022.00": {
+      "title": "Grinding and Polishing Workers, Hand",
+      "value": 1.0125,
+      "raw": "1.0125"
+    },
+    "51-9023.00": {
+      "title": "Mixing and Blending Machine Setters, Operators, and Tenders",
+      "value": 1.0732,
+      "raw": "1.0732"
+    },
+    "51-9031.00": {
+      "title": "Cutters and Trimmers, Hand",
+      "value": 1.0385,
+      "raw": "1.0385"
+    },
+    "51-9032.00": {
+      "title": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+      "value": 0.9367,
+      "raw": "0.9367"
+    },
+    "51-9041.00": {
+      "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+      "value": 1.3537,
+      "raw": "1.3537"
+    },
+    "51-9051.00": {
+      "title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+      "value": 0.7143,
+      "raw": "0.7143"
+    },
+    "51-9061.00": {
+      "title": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+      "value": 0.7468,
+      "raw": "0.7468"
+    },
+    "51-9071.00": {
+      "title": "Jewelers and Precious Stone and Metal Workers",
+      "value": 0.3243,
+      "raw": "0.3243"
+    },
+    "51-9071.06": {
+      "title": "Gem and Diamond Workers",
+      "value": 0.8889,
+      "raw": "0.8889"
+    },
+    "51-9081.00": {
+      "title": "Dental Laboratory Technicians",
+      "value": 0.7808,
+      "raw": "0.7808"
+    },
+    "51-9082.00": {
+      "title": "Medical Appliance Technicians",
+      "value": 0.7403,
+      "raw": "0.7403"
+    },
+    "51-9083.00": {
+      "title": "Ophthalmic Laboratory Technicians",
+      "value": 0.7917,
+      "raw": "0.7917"
+    },
+    "51-9111.00": {
+      "title": "Packaging and Filling Machine Operators and Tenders",
+      "value": 0.9872,
+      "raw": "0.9872"
+    },
+    "51-9123.00": {
+      "title": "Painting, Coating, and Decorating Workers",
+      "value": 0.8421,
+      "raw": "0.8421"
+    },
+    "51-9124.00": {
+      "title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+      "value": 1.025,
+      "raw": "1.025"
+    },
+    "51-9141.00": {
+      "title": "Semiconductor Processing Technicians",
+      "value": 1.3457,
+      "raw": "1.3457"
+    },
+    "51-9151.00": {
+      "title": "Photographic Process Workers and Processing Machine Operators",
+      "value": 0.9429,
+      "raw": "0.9429"
+    },
+    "51-9161.00": {
+      "title": "Computer Numerically Controlled Tool Operators",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "51-9162.00": {
+      "title": "Computer Numerically Controlled Tool Programmers",
+      "value": 0.0241,
+      "raw": "0.0241"
+    },
+    "51-9191.00": {
+      "title": "Adhesive Bonding Machine Operators and Tenders",
+      "value": 0.9744,
+      "raw": "0.9744"
+    },
+    "51-9192.00": {
+      "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+      "value": 1.2892,
+      "raw": "1.2892"
+    },
+    "51-9193.00": {
+      "title": "Cooling and Freezing Equipment Operators and Tenders",
+      "value": 1.2346,
+      "raw": "1.2346"
+    },
+    "51-9194.00": {
+      "title": "Etchers and Engravers",
+      "value": 0.8676,
+      "raw": "0.8676"
+    },
+    "51-9195.00": {
+      "title": "Molders, Shapers, and Casters, Except Metal and Plastic",
+      "value": 0.9114,
+      "raw": "0.9114"
+    },
+    "51-9195.03": {
+      "title": "Stone Cutters and Carvers, Manufacturing",
+      "value": 0.9467,
+      "raw": "0.9467"
+    },
+    "51-9195.04": {
+      "title": "Glass Blowers, Molders, Benders, and Finishers",
+      "value": 0.8243,
+      "raw": "0.8243"
+    },
+    "51-9195.05": {
+      "title": "Potters, Manufacturing",
+      "value": 0.925,
+      "raw": "0.925"
+    },
+    "51-9196.00": {
+      "title": "Paper Goods Machine Setters, Operators, and Tenders",
+      "value": 0.9487,
+      "raw": "0.9487"
+    },
+    "51-9197.00": {
+      "title": "Tire Builders",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "51-9198.00": {
+      "title": "Helpers--Production Workers",
+      "value": 1.2338,
+      "raw": "1.2338"
+    },
+    "53-1041.00": {
+      "title": "Aircraft Cargo Handling Supervisors",
+      "value": 0.1067,
+      "raw": "0.1067"
+    },
+    "53-1042.00": {
+      "title": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+      "value": 0.5165,
+      "raw": "0.5165"
+    },
+    "53-1042.01": {
+      "title": "Recycling Coordinators",
+      "value": 0.1875,
+      "raw": "0.1875"
+    },
+    "53-1043.00": {
+      "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+      "value": 0.2667,
+      "raw": "0.2667"
+    },
+    "53-1044.00": {
+      "title": "First-Line Supervisors of Passenger Attendants",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "53-2011.00": {
+      "title": "Airline Pilots, Copilots, and Flight Engineers",
+      "value": 0.5192,
+      "raw": "0.5192"
+    },
+    "53-2012.00": {
+      "title": "Commercial Pilots",
+      "value": 0.561,
+      "raw": "0.561"
+    },
+    "53-2021.00": {
+      "title": "Air Traffic Controllers",
+      "value": 0.0,
+      "raw": "0.0"
+    },
+    "53-2022.00": {
+      "title": "Airfield Operations Specialists",
+      "value": 0.1687,
+      "raw": "0.1687"
+    },
+    "53-2031.00": {
+      "title": "Flight Attendants",
+      "value": 0.381,
+      "raw": "0.381"
+    },
+    "53-3011.00": {
+      "title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+      "value": 1.0625,
+      "raw": "1.0625"
+    },
+    "53-3031.00": {
+      "title": "Driver/Sales Workers",
+      "value": 1.7463,
+      "raw": "1.7463"
+    },
+    "53-3032.00": {
+      "title": "Heavy and Tractor-Trailer Truck Drivers",
+      "value": 1.5098,
+      "raw": "1.5098"
+    },
+    "53-3033.00": {
+      "title": "Light Truck Drivers",
+      "value": 2.0952,
+      "raw": "2.0952"
+    },
+    "53-3051.00": {
+      "title": "Bus Drivers, School",
+      "value": 1.1429,
+      "raw": "1.1429"
+    },
+    "53-3052.00": {
+      "title": "Bus Drivers, Transit and Intercity",
+      "value": 1.5375,
+      "raw": "1.5375"
+    },
+    "53-3053.00": {
+      "title": "Shuttle Drivers and Chauffeurs",
+      "value": 1.9737,
+      "raw": "1.9737"
+    },
+    "53-3054.00": {
+      "title": "Taxi Drivers",
+      "value": 2.2235,
+      "raw": "2.2235"
+    },
+    "53-4011.00": {
+      "title": "Locomotive Engineers",
+      "value": 0.8462,
+      "raw": "0.8462"
+    },
+    "53-4013.00": {
+      "title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "value": 1.093,
+      "raw": "1.093"
+    },
+    "53-4022.00": {
+      "title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",
+      "value": 0.6044,
+      "raw": "0.6044"
+    },
+    "53-4031.00": {
+      "title": "Railroad Conductors and Yardmasters",
+      "value": 0.2118,
+      "raw": "0.2118"
+    },
+    "53-4041.00": {
+      "title": "Subway and Streetcar Operators",
+      "value": 1.4177,
+      "raw": "1.4177"
+    },
+    "53-5011.00": {
+      "title": "Sailors and Marine Oilers",
+      "value": 0.8286,
+      "raw": "0.8286"
+    },
+    "53-5021.00": {
+      "title": "Captains, Mates, and Pilots of Water Vessels",
+      "value": 0.8673,
+      "raw": "0.8673"
+    },
+    "53-5022.00": {
+      "title": "Motorboat Operators",
+      "value": 1.4933,
+      "raw": "1.4933"
+    },
+    "53-5031.00": {
+      "title": "Ship Engineers",
+      "value": 0.3231,
+      "raw": "0.3231"
+    },
+    "53-6011.00": {
+      "title": "Bridge and Lock Tenders",
+      "value": 1.0769,
+      "raw": "1.0769"
+    },
+    "53-6021.00": {
+      "title": "Parking Attendants",
+      "value": 1.0303,
+      "raw": "1.0303"
+    },
+    "53-6031.00": {
+      "title": "Automotive and Watercraft Service Attendants",
+      "value": 1.5735,
+      "raw": "1.5735"
+    },
+    "53-6032.00": {
+      "title": "Aircraft Service Attendants",
+      "value": 0.7922,
+      "raw": "0.7922"
+    },
+    "53-6041.00": {
+      "title": "Traffic Technicians",
+      "value": 0.3514,
+      "raw": "0.3514"
+    },
+    "53-6051.00": {
+      "title": "Transportation Inspectors",
+      "value": 0.4304,
+      "raw": "0.4304"
+    },
+    "53-6051.01": {
+      "title": "Aviation Inspectors",
+      "value": 0.2716,
+      "raw": "0.2716"
+    },
+    "53-6051.07": {
+      "title": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+      "value": 0.3099,
+      "raw": "0.3099"
+    },
+    "53-6061.00": {
+      "title": "Passenger Attendants",
+      "value": 0.1642,
+      "raw": "0.1642"
+    },
+    "53-7011.00": {
+      "title": "Conveyor Operators and Tenders",
+      "value": 1.3086,
+      "raw": "1.3086"
+    },
+    "53-7021.00": {
+      "title": "Crane and Tower Operators",
+      "value": 0.9167,
+      "raw": "0.9167"
+    },
+    "53-7031.00": {
+      "title": "Dredge Operators",
+      "value": 1.6854,
+      "raw": "1.6854"
+    },
+    "53-7041.00": {
+      "title": "Hoist and Winch Operators",
+      "value": 1.5432,
+      "raw": "1.5432"
+    },
+    "53-7051.00": {
+      "title": "Industrial Truck and Tractor Operators",
+      "value": 1.9615,
+      "raw": "1.9615"
+    },
+    "53-7061.00": {
+      "title": "Cleaners of Vehicles and Equipment",
+      "value": 1.0,
+      "raw": "1.0"
+    },
+    "53-7062.00": {
+      "title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "value": 1.4605,
+      "raw": "1.4605"
+    },
+    "53-7062.04": {
+      "title": "Recycling and Reclamation Workers",
+      "value": 1.6795,
+      "raw": "1.6795"
+    },
+    "53-7063.00": {
+      "title": "Machine Feeders and Offbearers",
+      "value": 1.3896,
+      "raw": "1.3896"
+    },
+    "53-7064.00": {
+      "title": "Packers and Packagers, Hand",
+      "value": 1.4167,
+      "raw": "1.4167"
+    },
+    "53-7065.00": {
+      "title": "Stockers and Order Fillers",
+      "value": 1.0145,
+      "raw": "1.0145"
+    },
+    "53-7071.00": {
+      "title": "Gas Compressor and Gas Pumping Station Operators",
+      "value": 0.5783,
+      "raw": "0.5783"
+    },
+    "53-7072.00": {
+      "title": "Pump Operators, Except Wellhead Pumpers",
+      "value": 1.2118,
+      "raw": "1.2118"
+    },
+    "53-7073.00": {
+      "title": "Wellhead Pumpers",
+      "value": 1.0349,
+      "raw": "1.0349"
+    },
+    "53-7081.00": {
+      "title": "Refuse and Recyclable Material Collectors",
+      "value": 1.7976,
+      "raw": "1.7976"
+    },
+    "53-7121.00": {
+      "title": "Tank Car, Truck, and Ship Loaders",
+      "value": 1.1125,
+      "raw": "1.1125"
+    }
+  }
+}

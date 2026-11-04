@@ -1,0 +1,344 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model OccupationClassification {
+  id             String       @id @default(cuid())
+  system         String
+  version        String
+  sourceUrl      String
+  publishedAt    DateTime?
+  importedAt     DateTime     @default(now())
+  expectedCount  Int?
+  occupations    Occupation[]
+
+  @@unique([system, version])
+  @@map("occupation_classifications")
+}
+
+model Occupation {
+  id               String                   @id @default(cuid())
+  code             String
+  classificationId String
+  classification   OccupationClassification @relation(fields: [classificationId], references: [id])
+  industry         String?
+  sourceUrl        String
+  updatedAt        DateTime                 @updatedAt
+  translations     OccupationTranslation[]
+  aliases          OccupationAlias[]
+  tasks            OccupationTask[]
+  metrics          ResearchMetric[]
+  forecasts        ForecastResult[]
+  questionnaires   Questionnaire[]
+  sessions         SurveySession[]
+  crosswalksFrom   OccupationCrosswalk[]    @relation("crosswalkFrom")
+  crosswalksTo     OccupationCrosswalk[]    @relation("crosswalkTo")
+
+  @@unique([classificationId, code])
+  @@index([code])
+  @@map("occupations")
+}
+
+model OccupationTranslation {
+  id           String     @id @default(cuid())
+  occupationId String
+  occupation   Occupation @relation(fields: [occupationId], references: [id], onDelete: Cascade)
+  locale       String
+  name         String
+  description  String?
+  @@unique([occupationId, locale])
+  @@index([locale, name])
+  @@map("occupation_translations")
+}
+
+model OccupationAlias {
+  id           String     @id @default(cuid())
+  occupationId String
+  occupation   Occupation @relation(fields: [occupationId], references: [id], onDelete: Cascade)
+  locale       String
+  name         String
+  @@unique([occupationId, locale, name])
+  @@index([name])
+  @@map("occupation_aliases")
+}
+
+model OccupationTask {
+  id           String     @id @default(cuid())
+  occupationId String
+  occupation   Occupation @relation(fields: [occupationId], references: [id], onDelete: Cascade)
+  locale       String
+  description  String
+  category     String
+  sourceUrl    String
+  @@index([occupationId, locale])
+  @@map("occupation_tasks")
+}
+
+model OccupationCrosswalk {
+  id               String     @id @default(cuid())
+  fromOccupationId String
+  toOccupationId   String
+  fromOccupation   Occupation @relation("crosswalkFrom", fields: [fromOccupationId], references: [id])
+  toOccupation     Occupation @relation("crosswalkTo", fields: [toOccupationId], references: [id])
+  sourceUrl        String
+  relationType     String
+  @@unique([fromOccupationId, toOccupationId, sourceUrl])
+  @@map("occupation_crosswalks")
+}
+
+model ResearchSource {
+  id               String           @id @default(cuid())
+  title            String
+  authors          String?
+  institution      String
+  publishedAt      DateTime?
+  country          String?
+  method           String?
+  sampleSize       Int?
+  horizon          String?
+  url              String           @unique
+  license          String?
+  limitations      String?
+  status           String           @default("pending")
+  reviewedAt       DateTime?
+  createdAt        DateTime         @default(now())
+  metrics          ResearchMetric[]
+  contents         ReportContent[]
+  forecasts        ForecastResult[]
+  @@map("research_sources")
+}
+
+model ReportContent {
+  id        String         @id @default(cuid())
+  sourceId  String
+  source    ResearchSource @relation(fields: [sourceId], references: [id], onDelete: Cascade)
+  locale    String
+  summary   String
+  @@unique([sourceId, locale])
+  @@map("report_content")
+}
+
+model ResearchMetric {
+  id           String         @id @default(cuid())
+  sourceId     String
+  source       ResearchSource @relation(fields: [sourceId], references: [id])
+  occupationId String
+  occupation   Occupation     @relation(fields: [occupationId], references: [id])
+  kind         String
+  value        Float?
+  unit         String?
+  country      String?
+  baselineYear Int?
+  horizonYear  Int?
+  originalText String?
+  limitations  String?
+  @@index([occupationId, kind])
+  @@map("research_metrics")
+}
+
+model ForecastModel {
+  id                  String           @id @default(cuid())
+  name                String
+  version             String
+  event               String
+  trainingRange       String
+  validationMethod    String
+  performance         Json?
+  sourceIds           Json
+  validated           Boolean          @default(false)
+  results             ForecastResult[]
+  @@unique([name, version])
+  @@map("forecast_models")
+}
+
+model ForecastResult {
+  id              String          @id @default(cuid())
+  occupationId    String
+  occupation      Occupation      @relation(fields: [occupationId], references: [id])
+  modelId         String?
+  model           ForecastModel?  @relation(fields: [modelId], references: [id])
+  event           String
+  country         String
+  baselineYear    Int
+  horizonYear     Int
+  threshold       Float?
+  probability     Float?
+  lowerBound      Float?
+  upperBound      Float?
+  expectedAt      DateTime?
+  expectedYear    Int?
+  origin          String
+  sourceId        String?
+  source          ResearchSource? @relation(fields: [sourceId], references: [id])
+  status          String          @default("unavailable")
+  publishedAt     DateTime?
+  createdAt       DateTime        @default(now())
+  history         ForecastHistory[]
+  @@index([occupationId, event, country, baselineYear, horizonYear])
+  @@map("forecast_results")
+}
+
+model ForecastHistory {
+  id          String         @id @default(cuid())
+  forecastId  String
+  forecast    ForecastResult @relation(fields: [forecastId], references: [id])
+  previous    Json?
+  current     Json
+  sourceId    String?
+  modelVersion String?
+  changedAt   DateTime       @default(now())
+  @@map("forecast_history")
+}
+
+model Questionnaire {
+  id           String      @id @default(cuid())
+  occupationId String?
+  occupation   Occupation? @relation(fields: [occupationId], references: [id])
+  status       String      @default("draft")
+  version      String
+  questions    Question[]
+  sessions     SurveySession[]
+  @@map("questionnaires")
+}
+
+model Question {
+  id              String                @id @default(cuid())
+  questionnaireId String
+  questionnaire   Questionnaire         @relation(fields: [questionnaireId], references: [id], onDelete: Cascade)
+  key             String
+  type            String
+  order           Int
+  required        Boolean               @default(false)
+  condition       Json?
+  options         QuestionOption[]
+  translations    QuestionTranslation[]
+  responses       SurveyResponse[]
+  @@unique([questionnaireId, key])
+  @@map("questions")
+}
+
+model QuestionOption {
+  id           String                @id @default(cuid())
+  questionId   String
+  question     Question              @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  value        String
+  order        Int
+  translations QuestionTranslation[]
+  @@unique([questionId, value])
+  @@map("question_options")
+}
+
+model QuestionTranslation {
+  id         String          @id @default(cuid())
+  questionId String
+  question   Question        @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  optionId   String?
+  option     QuestionOption? @relation(fields: [optionId], references: [id], onDelete: Cascade)
+  locale     String
+  text       String
+  @@index([questionId, locale])
+  @@map("question_translations")
+}
+
+model ConsentRecord {
+  id                String          @id @default(cuid())
+  purpose           String
+  policyVersion     String
+  policyLocale      String
+  grantedAt         DateTime        @default(now())
+  withdrawnAt       DateTime?
+  deletionTokenHash String?         @unique
+  sessions          SurveySession[]
+  @@map("consent_records")
+}
+
+model SurveySession {
+  id              String        @id @default(cuid())
+  occupationId    String
+  occupation      Occupation    @relation(fields: [occupationId], references: [id])
+  questionnaireId String
+  questionnaire   Questionnaire @relation(fields: [questionnaireId], references: [id])
+  consentRecordId String?
+  consentRecord   ConsentRecord? @relation(fields: [consentRecordId], references: [id])
+  createdAt       DateTime      @default(now())
+  expiresAt       DateTime
+  responses       SurveyResponse[]
+  @@index([expiresAt])
+  @@map("survey_sessions")
+}
+
+model SurveyResponse {
+  id         String        @id @default(cuid())
+  sessionId  String
+  session    SurveySession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  questionId String
+  question   Question      @relation(fields: [questionId], references: [id])
+  value      Json
+  @@unique([sessionId, questionId])
+  @@map("survey_responses")
+}
+
+model AggregatedStatistic {
+  id           String   @id @default(cuid())
+  occupationId String?
+  metric       String
+  value        Json
+  sampleSize   Int
+  representative Boolean @default(false)
+  createdAt    DateTime @default(now())
+  @@map("aggregated_statistics")
+}
+
+model ContentKey {
+  id            String                @id @default(cuid())
+  key           String                @unique
+  localizations ContentLocalization[]
+  @@map("content_keys")
+}
+
+model ContentLocalization {
+  id           String     @id @default(cuid())
+  contentKeyId String
+  contentKey   ContentKey @relation(fields: [contentKeyId], references: [id], onDelete: Cascade)
+  locale       String
+  value        String
+  updatedAt    DateTime   @updatedAt
+  @@unique([contentKeyId, locale])
+  @@map("content_localizations")
+}
+
+model SiteSetting {
+  id    String @id @default(cuid())
+  key   String @unique
+  value Json
+  @@map("site_settings")
+}
+
+model LegalDocument {
+  id          String   @id @default(cuid())
+  key         String
+  locale      String
+  version     String
+  content     String
+  publishedAt DateTime?
+  @@unique([key, locale, version])
+  @@map("legal_documents")
+}
+
+model AdminAuditLog {
+  id        String   @id @default(cuid())
+  actor     String
+  action    String
+  entity    String
+  entityId  String?
+  details   Json?
+  createdAt DateTime @default(now())
+  @@index([createdAt])
+  @@map("admin_audit_logs")
+}
+

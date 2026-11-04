@@ -1,0 +1,672 @@
+{
+  "version": 1,
+  "description": "Reviewed candidate component labels of KSCO leaf groups. They share their official parent code and scenario.",
+  "items": [
+    {
+      "id": "ksco_11112_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "11112",
+      "names": {
+        "ko": "지방의회 의원"
+      }
+    },
+    {
+      "id": "ksco_11112_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "11112",
+      "names": {
+        "ko": "교육 의원"
+      }
+    },
+    {
+      "id": "ksco_12121_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "12121",
+      "names": {
+        "ko": "총무 관리자"
+      }
+    },
+    {
+      "id": "ksco_12121_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "12121",
+      "names": {
+        "ko": "인사 관리자"
+      }
+    },
+    {
+      "id": "ksco_13121_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13121",
+      "names": {
+        "ko": "대학교 총장"
+      }
+    },
+    {
+      "id": "ksco_13121_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13121",
+      "names": {
+        "ko": "대학 학장"
+      }
+    },
+    {
+      "id": "ksco_13122_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "중학교 교장"
+      }
+    },
+    {
+      "id": "ksco_13122_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "중학교 교감"
+      }
+    },
+    {
+      "id": "ksco_13122_3",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "고등학교 교장"
+      }
+    },
+    {
+      "id": "ksco_13122_4",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "고등학교 교감"
+      }
+    },
+    {
+      "id": "ksco_13123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13123",
+      "names": {
+        "ko": "초등학교 교장"
+      }
+    },
+    {
+      "id": "ksco_13123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13123",
+      "names": {
+        "ko": "초등학교 교감"
+      }
+    },
+    {
+      "id": "ksco_21123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21123",
+      "names": {
+        "ko": "수학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21123",
+      "names": {
+        "ko": "통계학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21124_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21124",
+      "names": {
+        "ko": "지구과학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21124_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21124",
+      "names": {
+        "ko": "기상과학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21125_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21125",
+      "names": {
+        "ko": "천문학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21125_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21125",
+      "names": {
+        "ko": "우주과학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21213_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21213",
+      "names": {
+        "ko": "언어학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21213_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21213",
+      "names": {
+        "ko": "문학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21214_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21214",
+      "names": {
+        "ko": "인류학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21214_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21214",
+      "names": {
+        "ko": "고고학 연구원"
+      }
+    },
+    {
+      "id": "ksco_24115_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24115",
+      "names": {
+        "ko": "정신건강의학과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24115_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24115",
+      "names": {
+        "ko": "신경과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24116_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24116",
+      "names": {
+        "ko": "안과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24116_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24116",
+      "names": {
+        "ko": "이비인후과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24117_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24117",
+      "names": {
+        "ko": "피부과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24117_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24117",
+      "names": {
+        "ko": "비뇨의학과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24118_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24118",
+      "names": {
+        "ko": "영상의학과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24118_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24118",
+      "names": {
+        "ko": "병리과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24692_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24692",
+      "names": {
+        "ko": "음악치료사"
+      }
+    },
+    {
+      "id": "ksco_24692_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24692",
+      "names": {
+        "ko": "미술치료사"
+      }
+    },
+    {
+      "id": "ksco_24693_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24693",
+      "names": {
+        "ko": "놀이치료사"
+      }
+    },
+    {
+      "id": "ksco_24693_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24693",
+      "names": {
+        "ko": "행동치료사"
+      }
+    },
+    {
+      "id": "ksco_26911_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26911",
+      "names": {
+        "ko": "장학관"
+      }
+    },
+    {
+      "id": "ksco_26911_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26911",
+      "names": {
+        "ko": "장학사"
+      }
+    },
+    {
+      "id": "ksco_26912_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26912",
+      "names": {
+        "ko": "교육 연구관"
+      }
+    },
+    {
+      "id": "ksco_26912_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26912",
+      "names": {
+        "ko": "교육 연구사"
+      }
+    },
+    {
+      "id": "ksco_28441_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28441",
+      "names": {
+        "ko": "농수산물 중개인"
+      }
+    },
+    {
+      "id": "ksco_28441_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28441",
+      "names": {
+        "ko": "농수산물 경매사"
+      }
+    },
+    {
+      "id": "ksco_28442_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28442",
+      "names": {
+        "ko": "예술품 중개인"
+      }
+    },
+    {
+      "id": "ksco_28442_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28442",
+      "names": {
+        "ko": "예술품 경매사"
+      }
+    },
+    {
+      "id": "ksco_29111_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29111",
+      "names": {
+        "ko": "방송 작가"
+      }
+    },
+    {
+      "id": "ksco_29111_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29111",
+      "names": {
+        "ko": "시나리오 작가"
+      }
+    },
+    {
+      "id": "ksco_29350_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29350",
+      "names": {
+        "ko": "음향 기사"
+      }
+    },
+    {
+      "id": "ksco_29350_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29350",
+      "names": {
+        "ko": "녹음 기사"
+      }
+    },
+    {
+      "id": "ksco_29452_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29452",
+      "names": {
+        "ko": "작곡가"
+      }
+    },
+    {
+      "id": "ksco_29452_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29452",
+      "names": {
+        "ko": "편곡가"
+      }
+    },
+    {
+      "id": "ksco_29810_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29810",
+      "names": {
+        "ko": "공연 기획자"
+      }
+    },
+    {
+      "id": "ksco_29810_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29810",
+      "names": {
+        "ko": "시각예술 기획자"
+      }
+    },
+    {
+      "id": "ksco_29820_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29820",
+      "names": {
+        "ko": "영화 기획자"
+      }
+    },
+    {
+      "id": "ksco_29820_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29820",
+      "names": {
+        "ko": "음반 기획자"
+      }
+    },
+    {
+      "id": "ksco_31122_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31122",
+      "names": {
+        "ko": "광고 사무원"
+      }
+    },
+    {
+      "id": "ksco_31122_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31122",
+      "names": {
+        "ko": "홍보 사무원"
+      }
+    },
+    {
+      "id": "ksco_31123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31123",
+      "names": {
+        "ko": "분양 사무원"
+      }
+    },
+    {
+      "id": "ksco_31123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31123",
+      "names": {
+        "ko": "임대 사무원"
+      }
+    },
+    {
+      "id": "ksco_36124_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "36124",
+      "names": {
+        "ko": "전화교환원"
+      }
+    },
+    {
+      "id": "ksco_36124_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "36124",
+      "names": {
+        "ko": "전화번호 안내원"
+      }
+    },
+    {
+      "id": "ksco_41111_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41111",
+      "names": {
+        "ko": "해양 경찰관"
+      }
+    },
+    {
+      "id": "ksco_41111_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41111",
+      "names": {
+        "ko": "해양 경찰 수사관"
+      }
+    },
+    {
+      "id": "ksco_41112_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41112",
+      "names": {
+        "ko": "일반 경찰관"
+      }
+    },
+    {
+      "id": "ksco_41112_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41112",
+      "names": {
+        "ko": "경찰 수사관"
+      }
+    },
+    {
+      "id": "ksco_71010_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "71010",
+      "names": {
+        "ko": "제빵사"
+      }
+    },
+    {
+      "id": "ksco_71010_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "71010",
+      "names": {
+        "ko": "제과원"
+      }
+    },
+    {
+      "id": "ksco_73031_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "73031",
+      "names": {
+        "ko": "악기 제조원"
+      }
+    },
+    {
+      "id": "ksco_73031_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "73031",
+      "names": {
+        "ko": "악기 수리원"
+      }
+    },
+    {
+      "id": "ksco_75104_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "75104",
+      "names": {
+        "ko": "자동차 판금 정비원"
+      }
+    },
+    {
+      "id": "ksco_75104_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "75104",
+      "names": {
+        "ko": "자동차 도장 정비원"
+      }
+    },
+    {
+      "id": "ksco_76196_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "76196",
+      "names": {
+        "ko": "시계 수리원"
+      }
+    },
+    {
+      "id": "ksco_76196_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "76196",
+      "names": {
+        "ko": "카메라 수리원"
+      }
+    },
+    {
+      "id": "ksco_95392_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "95392",
+      "names": {
+        "ko": "전단지 배포원"
+      }
+    },
+    {
+      "id": "ksco_95392_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "95392",
+      "names": {
+        "ko": "벽보원"
+      }
+    },
+    {
+      "id": "ksco_99920_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "99920",
+      "names": {
+        "ko": "세탁원"
+      }
+    },
+    {
+      "id": "ksco_99920_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "99920",
+      "names": {
+        "ko": "다림질원"
+      }
+    }
+  ]
+}

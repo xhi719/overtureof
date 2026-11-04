@@ -1,0 +1,2409 @@
+{
+  "version": 1,
+  "description": "Reviewed component labels of official combined occupation groups. Labels share the parent occupation scenario and do not represent separate official codes or independently measured results.",
+  "items": [
+    {
+      "id": "onet_interpreter",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3091.00",
+      "names": {
+        "ko": "통역사",
+        "en": "Interpreter"
+      }
+    },
+    {
+      "id": "onet_translator",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3091.00",
+      "names": {
+        "ko": "번역가",
+        "en": "Translator"
+      }
+    },
+    {
+      "id": "onet_biochemist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-1021.00",
+      "names": {
+        "ko": "생화학자",
+        "en": "Biochemist"
+      }
+    },
+    {
+      "id": "onet_biophysicist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-1021.00",
+      "names": {
+        "ko": "생물물리학자",
+        "en": "Biophysicist"
+      }
+    },
+    {
+      "id": "onet_anthropologist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-3091.00",
+      "names": {
+        "ko": "인류학자",
+        "en": "Anthropologist"
+      }
+    },
+    {
+      "id": "onet_archaeologist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-3091.00",
+      "names": {
+        "ko": "고고학자",
+        "en": "Archaeologist"
+      }
+    },
+    {
+      "id": "onet_musician",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2042.00",
+      "names": {
+        "ko": "음악가",
+        "en": "Musician"
+      }
+    },
+    {
+      "id": "onet_singer",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2042.00",
+      "names": {
+        "ko": "가수",
+        "en": "Singer"
+      }
+    },
+    {
+      "id": "onet_producer",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2012.00",
+      "names": {
+        "ko": "공연 제작자",
+        "en": "Producer"
+      }
+    },
+    {
+      "id": "onet_director",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2012.00",
+      "names": {
+        "ko": "공연 연출가",
+        "en": "Director"
+      }
+    },
+    {
+      "id": "onet_music_director",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2041.00",
+      "names": {
+        "ko": "음악 감독",
+        "en": "Music Director"
+      }
+    },
+    {
+      "id": "onet_composer",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2041.00",
+      "names": {
+        "ko": "작곡가",
+        "en": "Composer"
+      }
+    },
+    {
+      "id": "onet_poet",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3043.05",
+      "names": {
+        "ko": "시인",
+        "en": "Poet"
+      }
+    },
+    {
+      "id": "onet_lyricist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3043.05",
+      "names": {
+        "ko": "작사가",
+        "en": "Lyricist"
+      }
+    },
+    {
+      "id": "onet_creative_writer",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3043.05",
+      "names": {
+        "ko": "창작 작가",
+        "en": "Creative Writer"
+      }
+    },
+    {
+      "id": "onet_fire_inspector",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-2021.00",
+      "names": {
+        "ko": "화재 안전 검사관",
+        "en": "Fire Inspector"
+      }
+    },
+    {
+      "id": "onet_fire_investigator",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-2021.00",
+      "names": {
+        "ko": "화재 조사관",
+        "en": "Fire Investigator"
+      }
+    },
+    {
+      "id": "onet_orthotist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "29-2091.00",
+      "names": {
+        "ko": "보조기 제작 전문가",
+        "en": "Orthotist"
+      }
+    },
+    {
+      "id": "onet_prosthetist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "29-2091.00",
+      "names": {
+        "ko": "의수·의족 제작 전문가",
+        "en": "Prosthetist"
+      }
+    },
+    {
+      "id": "onet_soil_scientist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-1013.00",
+      "names": {
+        "ko": "토양과학자",
+        "en": "Soil Scientist"
+      }
+    },
+    {
+      "id": "onet_plant_scientist",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-1013.00",
+      "names": {
+        "ko": "식물과학자",
+        "en": "Plant Scientist"
+      }
+    },
+    {
+      "id": "ksco_11112_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "11112",
+      "names": {
+        "ko": "지방의회 의원"
+      }
+    },
+    {
+      "id": "ksco_11112_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "11112",
+      "names": {
+        "ko": "교육 의원"
+      }
+    },
+    {
+      "id": "ksco_12121_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "12121",
+      "names": {
+        "ko": "총무 관리자"
+      }
+    },
+    {
+      "id": "ksco_12121_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "12121",
+      "names": {
+        "ko": "인사 관리자"
+      }
+    },
+    {
+      "id": "ksco_13121_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13121",
+      "names": {
+        "ko": "대학교 총장"
+      }
+    },
+    {
+      "id": "ksco_13121_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13121",
+      "names": {
+        "ko": "대학 학장"
+      }
+    },
+    {
+      "id": "ksco_13122_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "중학교 교장"
+      }
+    },
+    {
+      "id": "ksco_13122_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "중학교 교감"
+      }
+    },
+    {
+      "id": "ksco_13122_3",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "고등학교 교장"
+      }
+    },
+    {
+      "id": "ksco_13122_4",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13122",
+      "names": {
+        "ko": "고등학교 교감"
+      }
+    },
+    {
+      "id": "ksco_13123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13123",
+      "names": {
+        "ko": "초등학교 교장"
+      }
+    },
+    {
+      "id": "ksco_13123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "13123",
+      "names": {
+        "ko": "초등학교 교감"
+      }
+    },
+    {
+      "id": "ksco_21123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21123",
+      "names": {
+        "ko": "수학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21123",
+      "names": {
+        "ko": "통계학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21124_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21124",
+      "names": {
+        "ko": "지구과학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21124_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21124",
+      "names": {
+        "ko": "기상과학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21125_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21125",
+      "names": {
+        "ko": "천문학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21125_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21125",
+      "names": {
+        "ko": "우주과학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21213_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21213",
+      "names": {
+        "ko": "언어학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21213_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21213",
+      "names": {
+        "ko": "문학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21214_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21214",
+      "names": {
+        "ko": "인류학 연구원"
+      }
+    },
+    {
+      "id": "ksco_21214_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "21214",
+      "names": {
+        "ko": "고고학 연구원"
+      }
+    },
+    {
+      "id": "ksco_24115_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24115",
+      "names": {
+        "ko": "정신건강의학과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24115_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24115",
+      "names": {
+        "ko": "신경과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24116_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24116",
+      "names": {
+        "ko": "안과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24116_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24116",
+      "names": {
+        "ko": "이비인후과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24117_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24117",
+      "names": {
+        "ko": "피부과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24117_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24117",
+      "names": {
+        "ko": "비뇨의학과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24118_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24118",
+      "names": {
+        "ko": "영상의학과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24118_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24118",
+      "names": {
+        "ko": "병리과 전문의"
+      }
+    },
+    {
+      "id": "ksco_24692_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24692",
+      "names": {
+        "ko": "음악치료사"
+      }
+    },
+    {
+      "id": "ksco_24692_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24692",
+      "names": {
+        "ko": "미술치료사"
+      }
+    },
+    {
+      "id": "ksco_24693_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24693",
+      "names": {
+        "ko": "놀이치료사"
+      }
+    },
+    {
+      "id": "ksco_24693_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "24693",
+      "names": {
+        "ko": "행동치료사"
+      }
+    },
+    {
+      "id": "ksco_26911_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26911",
+      "names": {
+        "ko": "장학관"
+      }
+    },
+    {
+      "id": "ksco_26911_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26911",
+      "names": {
+        "ko": "장학사"
+      }
+    },
+    {
+      "id": "ksco_26912_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26912",
+      "names": {
+        "ko": "교육 연구관"
+      }
+    },
+    {
+      "id": "ksco_26912_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "26912",
+      "names": {
+        "ko": "교육 연구사"
+      }
+    },
+    {
+      "id": "ksco_28441_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28441",
+      "names": {
+        "ko": "농수산물 중개인"
+      }
+    },
+    {
+      "id": "ksco_28441_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28441",
+      "names": {
+        "ko": "농수산물 경매사"
+      }
+    },
+    {
+      "id": "ksco_28442_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28442",
+      "names": {
+        "ko": "예술품 중개인"
+      }
+    },
+    {
+      "id": "ksco_28442_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "28442",
+      "names": {
+        "ko": "예술품 경매사"
+      }
+    },
+    {
+      "id": "ksco_29111_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29111",
+      "names": {
+        "ko": "방송 작가"
+      }
+    },
+    {
+      "id": "ksco_29111_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29111",
+      "names": {
+        "ko": "시나리오 작가"
+      }
+    },
+    {
+      "id": "ksco_29350_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29350",
+      "names": {
+        "ko": "음향 기사"
+      }
+    },
+    {
+      "id": "ksco_29350_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29350",
+      "names": {
+        "ko": "녹음 기사"
+      }
+    },
+    {
+      "id": "ksco_29452_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29452",
+      "names": {
+        "ko": "작곡가"
+      }
+    },
+    {
+      "id": "ksco_29452_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29452",
+      "names": {
+        "ko": "편곡가"
+      }
+    },
+    {
+      "id": "ksco_29810_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29810",
+      "names": {
+        "ko": "공연 기획자"
+      }
+    },
+    {
+      "id": "ksco_29810_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29810",
+      "names": {
+        "ko": "시각예술 기획자"
+      }
+    },
+    {
+      "id": "ksco_29820_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29820",
+      "names": {
+        "ko": "영화 기획자"
+      }
+    },
+    {
+      "id": "ksco_29820_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29820",
+      "names": {
+        "ko": "음반 기획자"
+      }
+    },
+    {
+      "id": "ksco_31122_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31122",
+      "names": {
+        "ko": "광고 사무원"
+      }
+    },
+    {
+      "id": "ksco_31122_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31122",
+      "names": {
+        "ko": "홍보 사무원"
+      }
+    },
+    {
+      "id": "ksco_31123_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31123",
+      "names": {
+        "ko": "분양 사무원"
+      }
+    },
+    {
+      "id": "ksco_31123_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "31123",
+      "names": {
+        "ko": "임대 사무원"
+      }
+    },
+    {
+      "id": "ksco_36124_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "36124",
+      "names": {
+        "ko": "전화교환원"
+      }
+    },
+    {
+      "id": "ksco_36124_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "36124",
+      "names": {
+        "ko": "전화번호 안내원"
+      }
+    },
+    {
+      "id": "ksco_41111_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41111",
+      "names": {
+        "ko": "해양 경찰관"
+      }
+    },
+    {
+      "id": "ksco_41111_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41111",
+      "names": {
+        "ko": "해양 경찰 수사관"
+      }
+    },
+    {
+      "id": "ksco_41112_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41112",
+      "names": {
+        "ko": "일반 경찰관"
+      }
+    },
+    {
+      "id": "ksco_41112_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "41112",
+      "names": {
+        "ko": "경찰 수사관"
+      }
+    },
+    {
+      "id": "ksco_71010_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "71010",
+      "names": {
+        "ko": "제빵사"
+      }
+    },
+    {
+      "id": "ksco_71010_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "71010",
+      "names": {
+        "ko": "제과원"
+      }
+    },
+    {
+      "id": "ksco_73031_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "73031",
+      "names": {
+        "ko": "악기 제조원"
+      }
+    },
+    {
+      "id": "ksco_73031_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "73031",
+      "names": {
+        "ko": "악기 수리원"
+      }
+    },
+    {
+      "id": "ksco_75104_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "75104",
+      "names": {
+        "ko": "자동차 판금 정비원"
+      }
+    },
+    {
+      "id": "ksco_75104_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "75104",
+      "names": {
+        "ko": "자동차 도장 정비원"
+      }
+    },
+    {
+      "id": "ksco_76196_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "76196",
+      "names": {
+        "ko": "시계 수리원"
+      }
+    },
+    {
+      "id": "ksco_76196_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "76196",
+      "names": {
+        "ko": "카메라 수리원"
+      }
+    },
+    {
+      "id": "ksco_95392_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "95392",
+      "names": {
+        "ko": "전단지 배포원"
+      }
+    },
+    {
+      "id": "ksco_95392_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "95392",
+      "names": {
+        "ko": "벽보원"
+      }
+    },
+    {
+      "id": "ksco_99920_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "99920",
+      "names": {
+        "ko": "세탁원"
+      }
+    },
+    {
+      "id": "ksco_99920_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "99920",
+      "names": {
+        "ko": "다림질원"
+      }
+    },
+    {
+      "id": "ksco_22110_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22110",
+      "names": {
+        "ko": "컴퓨터 하드웨어 기술자"
+      }
+    },
+    {
+      "id": "ksco_22110_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22110",
+      "names": {
+        "ko": "컴퓨터 하드웨어 연구원"
+      }
+    },
+    {
+      "id": "ksco_22121_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22121",
+      "names": {
+        "ko": "통신기기 기술자"
+      }
+    },
+    {
+      "id": "ksco_22121_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22121",
+      "names": {
+        "ko": "통신기기 연구원"
+      }
+    },
+    {
+      "id": "ksco_22122_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22122",
+      "names": {
+        "ko": "통신장비 기술자"
+      }
+    },
+    {
+      "id": "ksco_22122_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "22122",
+      "names": {
+        "ko": "통신장비 연구원"
+      }
+    },
+    {
+      "id": "ksco_23211_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23211",
+      "names": {
+        "ko": "석유화학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23211_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23211",
+      "names": {
+        "ko": "석유화학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23214_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23214",
+      "names": {
+        "ko": "도료제품 기술자"
+      }
+    },
+    {
+      "id": "ksco_23214_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23214",
+      "names": {
+        "ko": "도료제품 연구원"
+      }
+    },
+    {
+      "id": "ksco_23311_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23311",
+      "names": {
+        "ko": "금속공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23311_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23311",
+      "names": {
+        "ko": "금속공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23313_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23313",
+      "names": {
+        "ko": "시멘트공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23313_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23313",
+      "names": {
+        "ko": "시멘트공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23411_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23411",
+      "names": {
+        "ko": "전기제품 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23411_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23411",
+      "names": {
+        "ko": "전기제품 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23412_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23412",
+      "names": {
+        "ko": "발전설비 기술자"
+      }
+    },
+    {
+      "id": "ksco_23412_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23412",
+      "names": {
+        "ko": "발전설비 연구원"
+      }
+    },
+    {
+      "id": "ksco_23413_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23413",
+      "names": {
+        "ko": "송배전설비 기술자"
+      }
+    },
+    {
+      "id": "ksco_23413_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23413",
+      "names": {
+        "ko": "송배전설비 연구원"
+      }
+    },
+    {
+      "id": "ksco_23414_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23414",
+      "names": {
+        "ko": "전기계측 제어 기술자"
+      }
+    },
+    {
+      "id": "ksco_23414_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23414",
+      "names": {
+        "ko": "전기계측 제어 연구원"
+      }
+    },
+    {
+      "id": "ksco_23416_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23416",
+      "names": {
+        "ko": "전기 안전 기술자"
+      }
+    },
+    {
+      "id": "ksco_23416_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23416",
+      "names": {
+        "ko": "전기 안전 연구원"
+      }
+    },
+    {
+      "id": "ksco_23421_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23421",
+      "names": {
+        "ko": "메모리반도체 기술자"
+      }
+    },
+    {
+      "id": "ksco_23421_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23421",
+      "names": {
+        "ko": "메모리반도체 연구원"
+      }
+    },
+    {
+      "id": "ksco_23422_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23422",
+      "names": {
+        "ko": "시스템반도체 기술자"
+      }
+    },
+    {
+      "id": "ksco_23422_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23422",
+      "names": {
+        "ko": "시스템반도체 연구원"
+      }
+    },
+    {
+      "id": "ksco_23424_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23424",
+      "names": {
+        "ko": "반도체소재 기술자"
+      }
+    },
+    {
+      "id": "ksco_23424_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23424",
+      "names": {
+        "ko": "반도체소재 연구원"
+      }
+    },
+    {
+      "id": "ksco_23431_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23431",
+      "names": {
+        "ko": "전자제품 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23431_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23431",
+      "names": {
+        "ko": "전자제품 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23432_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23432",
+      "names": {
+        "ko": "전자계측 제어 기술자"
+      }
+    },
+    {
+      "id": "ksco_23432_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23432",
+      "names": {
+        "ko": "전자계측 제어 연구원"
+      }
+    },
+    {
+      "id": "ksco_23433_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23433",
+      "names": {
+        "ko": "전자 의료기기 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23433_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23433",
+      "names": {
+        "ko": "전자 의료기기 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23511_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23511",
+      "names": {
+        "ko": "금형공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23511_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23511",
+      "names": {
+        "ko": "금형공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23512_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23512",
+      "names": {
+        "ko": "플랜트공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23512_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23512",
+      "names": {
+        "ko": "플랜트공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23514_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23514",
+      "names": {
+        "ko": "건설기계공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23514_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23514",
+      "names": {
+        "ko": "건설기계공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23515_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23515",
+      "names": {
+        "ko": "산업기계공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23515_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23515",
+      "names": {
+        "ko": "산업기계공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23516_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23516",
+      "names": {
+        "ko": "자동차공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23516_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23516",
+      "names": {
+        "ko": "자동차공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23517_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23517",
+      "names": {
+        "ko": "조선공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23517_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23517",
+      "names": {
+        "ko": "조선공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23520_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23520",
+      "names": {
+        "ko": "로봇공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23520_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23520",
+      "names": {
+        "ko": "로봇공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23610_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23610",
+      "names": {
+        "ko": "방재 기술자"
+      }
+    },
+    {
+      "id": "ksco_23610_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23610",
+      "names": {
+        "ko": "방재 연구원"
+      }
+    },
+    {
+      "id": "ksco_23621_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23621",
+      "names": {
+        "ko": "소방설계 기술자"
+      }
+    },
+    {
+      "id": "ksco_23621_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23621",
+      "names": {
+        "ko": "소방설계 연구원"
+      }
+    },
+    {
+      "id": "ksco_23711_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23711",
+      "names": {
+        "ko": "대기 환경 기술자"
+      }
+    },
+    {
+      "id": "ksco_23711_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23711",
+      "names": {
+        "ko": "대기 환경 연구원"
+      }
+    },
+    {
+      "id": "ksco_23712_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23712",
+      "names": {
+        "ko": "수질 환경 기술자"
+      }
+    },
+    {
+      "id": "ksco_23712_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23712",
+      "names": {
+        "ko": "수질 환경 연구원"
+      }
+    },
+    {
+      "id": "ksco_23713_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23713",
+      "names": {
+        "ko": "토양 환경 기술자"
+      }
+    },
+    {
+      "id": "ksco_23713_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23713",
+      "names": {
+        "ko": "토양 환경 연구원"
+      }
+    },
+    {
+      "id": "ksco_23714_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23714",
+      "names": {
+        "ko": "소음 진동 기술자"
+      }
+    },
+    {
+      "id": "ksco_23714_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23714",
+      "names": {
+        "ko": "소음 진동 연구원"
+      }
+    },
+    {
+      "id": "ksco_23715_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23715",
+      "names": {
+        "ko": "폐기물 처리 기술자"
+      }
+    },
+    {
+      "id": "ksco_23715_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23715",
+      "names": {
+        "ko": "폐기물 처리 연구원"
+      }
+    },
+    {
+      "id": "ksco_23720_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23720",
+      "names": {
+        "ko": "신재생에너지 기술자"
+      }
+    },
+    {
+      "id": "ksco_23720_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23720",
+      "names": {
+        "ko": "신재생에너지 연구원"
+      }
+    },
+    {
+      "id": "ksco_23910_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23910",
+      "names": {
+        "ko": "식품공학 기술자"
+      }
+    },
+    {
+      "id": "ksco_23910_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23910",
+      "names": {
+        "ko": "식품공학 연구원"
+      }
+    },
+    {
+      "id": "ksco_23921_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23921",
+      "names": {
+        "ko": "섬유 소재 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23921_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23921",
+      "names": {
+        "ko": "섬유 소재 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_23922_1",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23922",
+      "names": {
+        "ko": "섬유 공정 개발 기술자"
+      }
+    },
+    {
+      "id": "ksco_23922_2",
+      "system": "KSCO",
+      "version": "8",
+      "code": "23922",
+      "names": {
+        "ko": "섬유 공정 개발 연구원"
+      }
+    },
+    {
+      "id": "ksco_29322_comedian",
+      "system": "KSCO",
+      "version": "8",
+      "code": "29322",
+      "names": {
+        "ko": "코미디언"
+      }
+    },
+    {
+      "id": "onet_11913100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "11-9131.00",
+      "names": {
+        "ko": "우체국장",
+        "en": "Postmaster"
+      }
+    },
+    {
+      "id": "onet_11913100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "11-9131.00",
+      "names": {
+        "ko": "우편 업무 감독관",
+        "en": "Mail Superintendent"
+      }
+    },
+    {
+      "id": "onet_11919911_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "11-9199.11",
+      "names": {
+        "ko": "오염 부지 재개발 전문가",
+        "en": "Brownfield Redevelopment Specialist"
+      }
+    },
+    {
+      "id": "onet_11919911_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "11-9199.11",
+      "names": {
+        "ko": "오염 부지 현장 관리자",
+        "en": "Brownfield Site Manager"
+      }
+    },
+    {
+      "id": "onet_13202300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-2023.00",
+      "names": {
+        "ko": "부동산 감정사",
+        "en": "Real Estate Appraiser"
+      }
+    },
+    {
+      "id": "onet_13202300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-2023.00",
+      "names": {
+        "ko": "부동산 세무평가사",
+        "en": "Real Estate Assessor"
+      }
+    },
+    {
+      "id": "onet_13205100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-2051.00",
+      "names": {
+        "ko": "재무 분석가",
+        "en": "Financial Analyst"
+      }
+    },
+    {
+      "id": "onet_13205100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-2051.00",
+      "names": {
+        "ko": "투자 분석가",
+        "en": "Investment Analyst"
+      }
+    },
+    {
+      "id": "onet_13209904_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-2099.04",
+      "names": {
+        "ko": "사기 조사관",
+        "en": "Fraud Investigator"
+      }
+    },
+    {
+      "id": "onet_13209904_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-2099.04",
+      "names": {
+        "ko": "사기 분석가",
+        "en": "Fraud Analyst"
+      }
+    },
+    {
+      "id": "onet_15124400_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "15-1244.00",
+      "names": {
+        "ko": "네트워크 관리자",
+        "en": "Network Administrator"
+      }
+    },
+    {
+      "id": "onet_15124400_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "15-1244.00",
+      "names": {
+        "ko": "컴퓨터 시스템 관리자",
+        "en": "Computer Systems Administrator"
+      }
+    },
+    {
+      "id": "onet_15125300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "15-1253.00",
+      "names": {
+        "ko": "소프트웨어 품질 보증 분석가",
+        "en": "Software Quality Assurance Analyst"
+      }
+    },
+    {
+      "id": "onet_15125300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "15-1253.00",
+      "names": {
+        "ko": "소프트웨어 테스트 전문가",
+        "en": "Software Tester"
+      }
+    },
+    {
+      "id": "onet_17215100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "17-2151.00",
+      "names": {
+        "ko": "광산공학 기술자",
+        "en": "Mining Engineer"
+      }
+    },
+    {
+      "id": "onet_17215100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "17-2151.00",
+      "names": {
+        "ko": "지질공학 기술자",
+        "en": "Geological Engineer"
+      }
+    },
+    {
+      "id": "onet_19102300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-1023.00",
+      "names": {
+        "ko": "동물학자",
+        "en": "Zoologist"
+      }
+    },
+    {
+      "id": "onet_19102300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-1023.00",
+      "names": {
+        "ko": "야생생물학자",
+        "en": "Wildlife Biologist"
+      }
+    },
+    {
+      "id": "onet_19303300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-3033.00",
+      "names": {
+        "ko": "임상 심리학자",
+        "en": "Clinical Psychologist"
+      }
+    },
+    {
+      "id": "onet_19303300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-3033.00",
+      "names": {
+        "ko": "상담 심리학자",
+        "en": "Counseling Psychologist"
+      }
+    },
+    {
+      "id": "onet_19305100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-3051.00",
+      "names": {
+        "ko": "도시계획가",
+        "en": "Urban Planner"
+      }
+    },
+    {
+      "id": "onet_19305100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "19-3051.00",
+      "names": {
+        "ko": "지역계획가",
+        "en": "Regional Planner"
+      }
+    },
+    {
+      "id": "onet_27101400_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-1014.00",
+      "names": {
+        "ko": "시각 특수효과 아티스트",
+        "en": "Visual Effects Artist"
+      }
+    },
+    {
+      "id": "onet_27101400_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-1014.00",
+      "names": {
+        "ko": "애니메이터",
+        "en": "Animator"
+      }
+    },
+    {
+      "id": "onet_27202200_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2022.00",
+      "names": {
+        "ko": "운동 코치",
+        "en": "Sports Coach"
+      }
+    },
+    {
+      "id": "onet_27202200_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-2022.00",
+      "names": {
+        "ko": "스포츠 스카우트",
+        "en": "Sports Scout"
+      }
+    },
+    {
+      "id": "onet_27301100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3011.00",
+      "names": {
+        "ko": "방송 아나운서",
+        "en": "Broadcast Announcer"
+      }
+    },
+    {
+      "id": "onet_27301100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "27-3011.00",
+      "names": {
+        "ko": "라디오 디제이",
+        "en": "Radio Disc Jockey"
+      }
+    },
+    {
+      "id": "onet_31909600_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "31-9096.00",
+      "names": {
+        "ko": "수의 보조원",
+        "en": "Veterinary Assistant"
+      }
+    },
+    {
+      "id": "onet_31909600_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "31-9096.00",
+      "names": {
+        "ko": "실험동물 관리원",
+        "en": "Laboratory Animal Caretaker"
+      }
+    },
+    {
+      "id": "onet_33202200_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-2022.00",
+      "names": {
+        "ko": "산불 예방 점검관",
+        "en": "Forest Fire Inspector"
+      }
+    },
+    {
+      "id": "onet_33202200_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-2022.00",
+      "names": {
+        "ko": "산불 예방 전문가",
+        "en": "Forest Fire Prevention Specialist"
+      }
+    },
+    {
+      "id": "onet_33903100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-9031.00",
+      "names": {
+        "ko": "카지노 감시원",
+        "en": "Gambling Surveillance Officer"
+      }
+    },
+    {
+      "id": "onet_33903100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-9031.00",
+      "names": {
+        "ko": "도박 조사관",
+        "en": "Gambling Investigator"
+      }
+    },
+    {
+      "id": "onet_33909100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-9091.00",
+      "names": {
+        "ko": "횡단보도 안전요원",
+        "en": "Crossing Guard"
+      }
+    },
+    {
+      "id": "onet_33909100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-9091.00",
+      "names": {
+        "ko": "교통 신호수",
+        "en": "Traffic Flagger"
+      }
+    },
+    {
+      "id": "onet_33909200_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-9092.00",
+      "names": {
+        "ko": "인명 구조원",
+        "en": "Lifeguard"
+      }
+    },
+    {
+      "id": "onet_33909200_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "33-9092.00",
+      "names": {
+        "ko": "스키 순찰대원",
+        "en": "Ski Patrol"
+      }
+    },
+    {
+      "id": "onet_35901100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "35-9011.00",
+      "names": {
+        "ko": "식당 보조원",
+        "en": "Dining Room Attendant"
+      }
+    },
+    {
+      "id": "onet_35901100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "35-9011.00",
+      "names": {
+        "ko": "바텐더 보조원",
+        "en": "Bartender Helper"
+      }
+    },
+    {
+      "id": "onet_39903100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "39-9031.00",
+      "names": {
+        "ko": "운동 트레이너",
+        "en": "Exercise Trainer"
+      }
+    },
+    {
+      "id": "onet_39903100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "39-9031.00",
+      "names": {
+        "ko": "그룹 피트니스 강사",
+        "en": "Group Fitness Instructor"
+      }
+    },
+    {
+      "id": "onet_41401107_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "41-4011.07",
+      "names": {
+        "ko": "태양광 영업 담당자",
+        "en": "Solar Sales Representative"
+      }
+    },
+    {
+      "id": "onet_41401107_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "41-4011.07",
+      "names": {
+        "ko": "태양광 부지 평가 전문가",
+        "en": "Solar Assessor"
+      }
+    },
+    {
+      "id": "onet_43305100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-3051.00",
+      "names": {
+        "ko": "급여 사무원",
+        "en": "Payroll Clerk"
+      }
+    },
+    {
+      "id": "onet_43305100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-3051.00",
+      "names": {
+        "ko": "근태 관리 사무원",
+        "en": "Timekeeping Clerk"
+      }
+    },
+    {
+      "id": "onet_43417100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-4171.00",
+      "names": {
+        "ko": "접수원",
+        "en": "Receptionist"
+      }
+    },
+    {
+      "id": "onet_43417100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-4171.00",
+      "names": {
+        "ko": "안내 사무원",
+        "en": "Information Clerk"
+      }
+    },
+    {
+      "id": "onet_43506100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-5061.00",
+      "names": {
+        "ko": "생산 사무원",
+        "en": "Production Clerk"
+      }
+    },
+    {
+      "id": "onet_43506100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-5061.00",
+      "names": {
+        "ko": "생산계획 사무원",
+        "en": "Production Planning Clerk"
+      }
+    },
+    {
+      "id": "onet_43506100_3",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-5061.00",
+      "names": {
+        "ko": "공정 진도관리 사무원",
+        "en": "Expediting Clerk"
+      }
+    },
+    {
+      "id": "onet_43507100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-5071.00",
+      "names": {
+        "ko": "출하 사무원",
+        "en": "Shipping Clerk"
+      }
+    },
+    {
+      "id": "onet_43507100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-5071.00",
+      "names": {
+        "ko": "입고 사무원",
+        "en": "Receiving Clerk"
+      }
+    },
+    {
+      "id": "onet_43507100_3",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-5071.00",
+      "names": {
+        "ko": "재고관리 사무원",
+        "en": "Inventory Clerk"
+      }
+    },
+    {
+      "id": "onet_43601200_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-6012.00",
+      "names": {
+        "ko": "법률 비서",
+        "en": "Legal Secretary"
+      }
+    },
+    {
+      "id": "onet_43601200_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-6012.00",
+      "names": {
+        "ko": "법률 행정 보조원",
+        "en": "Legal Administrative Assistant"
+      }
+    },
+    {
+      "id": "onet_43601300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-6013.00",
+      "names": {
+        "ko": "의료 비서",
+        "en": "Medical Secretary"
+      }
+    },
+    {
+      "id": "onet_43601300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-6013.00",
+      "names": {
+        "ko": "의료 행정 보조원",
+        "en": "Medical Administrative Assistant"
+      }
+    },
+    {
+      "id": "onet_43905100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-9051.00",
+      "names": {
+        "ko": "민간 우편 사무원",
+        "en": "Nonpostal Mail Clerk"
+      }
+    },
+    {
+      "id": "onet_43905100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "43-9051.00",
+      "names": {
+        "ko": "민간 우편 기계 조작원",
+        "en": "Nonpostal Mail Machine Operator"
+      }
+    },
+    {
+      "id": "onet_47407100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "47-4071.00",
+      "names": {
+        "ko": "정화조 유지관리원",
+        "en": "Septic Tank Servicer"
+      }
+    },
+    {
+      "id": "onet_47407100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "47-4071.00",
+      "names": {
+        "ko": "하수관 청소원",
+        "en": "Sewer Pipe Cleaner"
+      }
+    },
+    {
+      "id": "onet_49909400_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "49-9094.00",
+      "names": {
+        "ko": "열쇠공",
+        "en": "Locksmith"
+      }
+    },
+    {
+      "id": "onet_49909400_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "49-9094.00",
+      "names": {
+        "ko": "금고 수리원",
+        "en": "Safe Repairer"
+      }
+    },
+    {
+      "id": "onet_51605200_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-6052.00",
+      "names": {
+        "ko": "재단사",
+        "en": "Tailor"
+      }
+    },
+    {
+      "id": "onet_51605200_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-6052.00",
+      "names": {
+        "ko": "양장사",
+        "en": "Dressmaker"
+      }
+    },
+    {
+      "id": "onet_51605200_3",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-6052.00",
+      "names": {
+        "ko": "맞춤의류 봉제사",
+        "en": "Custom Sewer"
+      }
+    },
+    {
+      "id": "onet_51915100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-9151.00",
+      "names": {
+        "ko": "사진 현상 작업원",
+        "en": "Photographic Process Worker"
+      }
+    },
+    {
+      "id": "onet_51915100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-9151.00",
+      "names": {
+        "ko": "사진 현상기 조작원",
+        "en": "Photographic Processing Machine Operator"
+      }
+    },
+    {
+      "id": "onet_51919400_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-9194.00",
+      "names": {
+        "ko": "식각 작업원",
+        "en": "Etcher"
+      }
+    },
+    {
+      "id": "onet_51919400_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "51-9194.00",
+      "names": {
+        "ko": "각인 작업원",
+        "en": "Engraver"
+      }
+    },
+    {
+      "id": "onet_53305300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-3053.00",
+      "names": {
+        "ko": "셔틀버스 운전기사",
+        "en": "Shuttle Driver"
+      }
+    },
+    {
+      "id": "onet_53305300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-3053.00",
+      "names": {
+        "ko": "전용 운전기사",
+        "en": "Chauffeur"
+      }
+    },
+    {
+      "id": "onet_53401300_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-4013.00",
+      "names": {
+        "ko": "철도 조차장 기관사",
+        "en": "Rail Yard Engineer"
+      }
+    },
+    {
+      "id": "onet_53401300_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-4013.00",
+      "names": {
+        "ko": "소형 기관차 조작원",
+        "en": "Dinkey Operator"
+      }
+    },
+    {
+      "id": "onet_53401300_3",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-4013.00",
+      "names": {
+        "ko": "기관차 이동원",
+        "en": "Rail Yard Hostler"
+      }
+    },
+    {
+      "id": "onet_53403100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-4031.00",
+      "names": {
+        "ko": "열차 차장",
+        "en": "Railroad Conductor"
+      }
+    },
+    {
+      "id": "onet_53403100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-4031.00",
+      "names": {
+        "ko": "철도 조차장 관리자",
+        "en": "Rail Yardmaster"
+      }
+    },
+    {
+      "id": "onet_53601100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-6011.00",
+      "names": {
+        "ko": "교량 관리원",
+        "en": "Bridge Tender"
+      }
+    },
+    {
+      "id": "onet_53601100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "53-6011.00",
+      "names": {
+        "ko": "갑문 관리원",
+        "en": "Lock Tender"
+      }
+    },
+    {
+      "id": "onet_13101100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-1011.00",
+      "names": {
+        "ko": "예술인 에이전트",
+        "en": "Artists Agent"
+      }
+    },
+    {
+      "id": "onet_13101100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-1011.00",
+      "names": {
+        "ko": "운동선수 에이전트",
+        "en": "Athletes Agent"
+      }
+    },
+    {
+      "id": "onet_13101100_3",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-1011.00",
+      "names": {
+        "ko": "예술인 매니저",
+        "en": "Artists Business Manager"
+      }
+    },
+    {
+      "id": "onet_13101100_4",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "13-1011.00",
+      "names": {
+        "ko": "운동선수 매니저",
+        "en": "Athletes Business Manager"
+      }
+    },
+    {
+      "id": "onet_49303100_1",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "49-3031.00",
+      "names": {
+        "ko": "버스 정비사",
+        "en": "Bus Mechanic"
+      }
+    },
+    {
+      "id": "onet_49303100_2",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "49-3031.00",
+      "names": {
+        "ko": "트럭 정비사",
+        "en": "Truck Mechanic"
+      }
+    },
+    {
+      "id": "onet_49303100_3",
+      "system": "O*NET-SOC",
+      "version": "31.0",
+      "code": "49-3031.00",
+      "names": {
+        "ko": "디젤 엔진 정비 전문가",
+        "en": "Diesel Engine Specialist"
+      }
+    }
+  ]
+}

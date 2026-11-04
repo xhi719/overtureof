@@ -1,0 +1,59 @@
+# Dependencies, caches and generated builds
+node_modules/
+.next/
+.next-preview/
+.next-build-check/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+
+# Environment, logs, credentials and private keys
+.env*
+*.env
+*.env.*
+!.env.example
+!*.env.example
+*.log
+*.pem
+*.key
+*.p8
+*.ppk
+*.der
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+credentials
+credentials.json
+
+# Local databases, backups and host runtime
+.runtime/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.dump
+*.backup
+*.bak
+*.sql.gz
+
+# Official originals retained for local verification; redistribution not assumed.
+/data/raw/
+/data/isco-08/ISCO-08-EN.csv
+/data/isco-08/isco08-normalized.json
+# The labor-exposure release has conflicting license metadata; keep local until clarified.
+/data/anthropic-labor-2026/job_exposure.csv
+/data/anthropic-labor-2026/normalized.json
+
+# Official brand asset: keep local until public repository distribution is approved.
+/public/images/frontier-era-logo.png
